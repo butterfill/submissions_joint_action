@@ -1,0 +1,526 @@
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+
+\documentclass[12pt,a4paper]{extarticle}
+% extarticle is like article but can handle 8pt, 9pt, 10pt, 11pt, 12pt, 14pt, 17pt, and 20pt text
+
+\def \ititle {Pluralism About Joint Action: \\Making Room for Imagination and Emotion?}
+\def \iauthor {Stephen A. Butterfill}
+\def \iemail{s.butterfill@warwick.ac.uk}
+\title{\ititle}
+\author{\iauthor\\<\iemail>}
+%\date{}
+
+
+\usepackage[a4paper]{geometry} % see geometry.pdf
+\geometry{twoside=false}
+\geometry{headsep=2em} %keep running header away from text
+\geometry{footskip=1cm} %keep page numbers away from text
+\geometry{top=3cm} %increase to 3.5 if use header
+\geometry{left=2cm} %increase to 3.5 if use header
+\geometry{right=6cm} %increase to 3.5 if use header
+\geometry{textheight=22cm}
+
+
+\usepackage{fontspec,xunicode}
+%nb do not explicitly use package xltxtra because this introduces bugs with footnote superscripting  -- perhaps because fontspec is supposed to include it anyway.
+\defaultfontfeatures{Mapping=tex-text}
+\setromanfont[Mapping=tex-text]{Sabon LT Std}
+\setsansfont[Scale=MatchLowercase,Mapping=tex-text]{Lucida Sans}
+\setmonofont[Scale=MatchLowercase]{Andale Mono}
+
+
+%hyperlinks and pdf metadata
+%TODO avoid duplication of title & author
+\usepackage{hyperref}
+\hypersetup{pdfborder={0 0 0}}
+\hypersetup{pdfauthor={\iauthor}}
+\hypersetup{pdftitle={\ititle}}
+
+
+%line spacing
+\usepackage{setspace}
+%\onehalfspacing
+%\doublespacing
+\singlespacing
+
+\usepackage{natbib}
+
+
+\usepackage[textwidth=5cm]{todonotes}
+
+
+%footnotes
+\usepackage[hang]{footmisc}
+\setlength{\footnotemargin}{1em}
+\setlength{\footnotesep}{1em}
+\footnotesep 2em
+
+
+%section headings
+\usepackage[small]{titlesec}
+\titlelabel{\thetitle.\quad}
+\titlespacing*{\section}{0pt}{*3}{*0.5} %reduce vertical space after header
+
+
+%lists
+\usepackage{enumitem}
+\newenvironment{idescription}
+{ 	
+	% begin code
+	\begin{description}[
+		labelindent=1.5\parindent,
+		leftmargin=2.5\parindent
+	]
+}
+{ 
+	%end code
+	\end{description}
+}
+
+
+%title
+\usepackage{titling}
+\pretitle{
+	\begin{center}
+	%\sffamily
+	\Large
+} 
+\posttitle{
+	\par
+	\end{center}
+	\vskip 0.5em
+} 
+\preauthor{
+	\begin{center}
+	\normalsize
+	\lineskip 0.5em
+	\begin{tabular}[t]{c}
+} 
+\postauthor{
+	\end{tabular}
+	\par
+	\end{center}
+}
+\predate{
+	\begin{center}
+	\normalsize
+} 
+\postdate{
+	\par
+	\end{center}
+}
+
+
+
+
+%%% BEGIN DOCUMENT
+\begin{document}
+
+\setlength\footnotesep{1em}
+
+\bibliographystyle{newapa} %apalike
+
+\maketitle
+%\tableofcontents
+
+\begin{abstract}
+Philosophical accounts of joint action tend to start from the premise that all joint actions involve shared intention.  This premise constrains the roles that imagination and emotion could play in joint action.  But there are empirical and philosophical grounds for doubting the premise.  Such doubts motivate pluralism about joint action, the view that no single substantive account of joint action applies to every case.  If (as argued) there are significant kinds of joint action which do not necessarily involve shared intention, then understanding constitutive features of some kinds of joint action may require identifying roles for imagination or emotion.  
+\end{abstract}
+
+\section{Questions and comments from Aarhus}
+See also todo notes in the margin.
+
+\subsection{for JAwSI paper}
+(There are a couple of points for JAwSI below as well.)
+
+Should probably acknowledge that there are ways of thinking about shared intention other than those I mention; in particular in terms of a functional role.  See margin note below.
+
+Point here but not in JAwSI: even philosophers who deny that shared intention is necessary for joint action do think that at least one of the three individually necessary conditions (awareness of joint-ness etc) is necessary for joint action.  So the argument of the paper goes against almost every philosophers' view of what joint action is.
+
+
+\subsection{own assessment}
+I don't have an argument for the claim that there are no characteristic features common to all joint actions.  Should set things up so that this claim is not necessary---perhaps the paper is just saying that there is a view of joint action on which this is conceivable.
+
+I'm not happy with the sufficient conditions (or almost sufficient conditions) in the conclusion section.  I think there's something to this but it's problematic to set these up as sufficient conditions (because then there are features common to all joint actions) or as not (because then what's the argument).
+
+\textbf{Interaction}  What isn't in the written version but was mentioned several times was the importance of understanding not only the mechanisms for coordination of joint action but also how the various mechanisms interact.  I also stressed that the case studies were artificial designed to simplify and separate out distinct ingredients that frequently occur together.
+
+Might be worth considering the necessary conditions for joint action include something about the quality of coordination.  If we think of joint action in terms of the instrumentalist ascribe-a-goal-to-a-super-agent strategy, then the coordination plausibly has to be such as to ensure that multiple agents' activities resemble, to some degree, those of a single agent.
+
+\subsection{key discovery}
+One way to put what I am saying (partially formed before talk): it can make sense to ascribe a goal to a fictitious subject composed of multiple agents without them having a shared goal.
+
+There can be collective intentions without shared intentions.  It's perhaps uncontroversial that joint action should involve collective intentions; but this doesn't imply that the agents must share an intention.  (See below on the shared/collective intention distinction).
+
+This is important because where a joint action occurs there must be some way of saying what the joint action was.  For example, suppose two people perform actions which result in ignition of some wood which results in rise in the temperature of some soup which in turn results in the satisfaction of some dinner guests.  Given that they performed a joint action, there is a difference between saying that their joint action was that of igniting the wood and saying that their joint action was that of warming the soup.  What is it for their joint action to be one or the other?
+
+We can give the answer either by appeal to a collective intention, or by appeal to a shared intention.  The content of the collective or shared intention is the outcome that individuates the joint action.  We can also give the answer by appeal to a very stripped down view of joint action on which joint action is essentially coordinated plural activity.  In this case each agent's activities must be organised around a single outcome (e.g. the outcome is among their goals, or is required for fulfilment of one of their goals)---the single outcome around which all agents' activities are individually organised is the outcome that individuates the joint action.
+
+
+\subsection{Chris Frith}
+I said that you can say anything you like about joint action.  (Should perhaps emphasise that pluralism creates a challenge: while there isn't anything that you have to agree with by way of joint action is, you do have to define the kind of joint action that you are engaged in.  Accounts like Bratman's based on shared intention provide a model for what accounts of particular kinds of joint action; essentially the key is to identify the function and realisation of the coordinating states.)  
+
+The type of joint action our groups is most interested in is defined like this: it occurs when greater predictive power derives from treating multiple agents as a single super-agent than treating them as several individual agents.  (This uses idea given in talk, but the idea was offered as an indicator of joint action rather than as defining a case.)
+
+Bees, like ants, show that complicated group behaviours can emerge from interactions.  In quorum sensing (found in bees and ants) there is also something analogous to a group decision; it is as if the group decides that the time for taking in new information has passed and now it's time to act.  
+
+\subsection{Elisabeth Pacherie}
+Is a traffic jam a joint action?  No because the individuals' behaviours are not organised around this end (the production of a traffic jam).  But queuing at a bus stop is a plural activity; and it's probably a joint action too.
+
+Joint action requires a triadic relation between two agents and an outcome.  But as far as I can tell this is already built in to the notion of a plural activity.
+
+In philosophy of action one of the problems is to say what action is.  This is why it seems necessary to insist on intentions in characterising the phenomena; otherwise you just have behaviour.  In theorising about joint action, the problem of what action is has already been solved.  So there is scope to raise the question about whether joint action involves intention.
+
+
+\subsection{[Uncertain who]}
+From separate questions from ?  Nivediata Gangopadhyay and especially Anastasia Christakou; also relevant to Till Vierkant's question in ESPP/Bochum-Essen.
+
+I want to distinguish two ways of thinking about how intentions could be associated with joint actions, which I'll call shared intentions and collective intentions.  
+
+Without saying exactly what a shared intention is, the three conditions given are necessary conditions on shared intention (awareness of joint-ness, awareness of others' agency and awareness of others' states or commitments.)  This is important because shared intentions aren't literally intentions (nor are they shared) so we have to be clear about how we are using the metaphor.  In addition, a shared intention is a mechanism by appeal to which one can explain coordination; it may not involve a very detailed description of a mechanism, but one of the things an account of shared intention does is to pick out a mechanism, or class of mechanisms, that enables multiple agents to coordinate their activities.  
+
+A collective intention is something more nebulous.  For agents to have a collective intention it is sufficient that one can efficiently describe their behaviour by imagining that they constitute a single super-agent and ascribing intentions and related states to the (fictitious) super-agent.    There may be other ways to think about collective intentions as well.  For instance, insofar as goals can be properties of behaviours (as opposed to of agents), it is possible that multiple agents' behaviours might have a goal.
+
+I'm not denying that all joint action involves collective intentions (although I want to leave open the possibility that might not).  In the case studies I provided I think there is a collective goal.
+
+The key point I'm making could be put by saying that there are joint actions involving collective intentions but not shared intentions.
+
+The converse is less clear.  Can there be joint actions which involve shared intentions but not collective intentions?  
+
+I suspect that we sometimes flip, in thinking about joint action, between collective and shared intentions.
+
+
+\subsection{Anika Fiebich}
+She insists that shared goals are necessary (we didn't stress the goal/intention distinction).  Argument: action by definition involves a goal; also joint action, by definition, involves a goal as well.  
+
+My reply: there's a distinction between shared goals and collective goals (see above).  The criterion offered can be satisfied by allowing that joint actions involve collective goals.  It's not an objection to my position to say that collective goals are features of all joint actions because this isn't a characteristic feature---it doesn't give us a way of saying what joint action is.
+
+Anika's reply: collective goals are not enough, you need shared goals.  Why?  Because you need to ask what the motivation for coordination is.  How would agents be motivated to coordinate their activities without a shared goal?
+
+My reply: sometimes coordination happens independently of an agent's goals, so it is not necessary for the agent to be motivated to coordinate with another at all.  In some cases, coordination just happens.  This is illustrated by the studies on synchronised rocking and pendulum swinging (although neither of us thinks these are good cases of joint action, it's just an illustration).  Equally, and more relevantly, it seems that motor simulation in action observation can also occur independently of an agent's goals.  This may partly explain how, walking down a busy street lost in thought one can still quite reliably avoid bumping into other people.  I see that there is a danger that someone could construct a minimal shared goal here; e.g. the goal could be to avoid colliding with each other.  Relative to this minimal shared goal, the agents might have awareness of joint-ness (although this not obvious) and make assumptions about others' states.  This is a worry about my block-stacking case study (*applies to `Joint Action without Shared Intention' (JAwSI) paper*): I was assuming that the shared goal, if there were one, would concern the construction of the stack.  But it might be that the shared goal concerns avoidance or something less than the construction of the stack.  This would still be interesting.  While I couldn't say that it is a case entirely without shared intention, I could say that it is a case where the shared intention does not cover the outcome of the joint action.  (I would have to argue that this is distinct from a case where agents act on a shared intention and their action has further, unintended consequences.)
+
+Even if there isn't a shared intention in the block stacking case, this does raise a worry about my method in JAwSI.  Suppose two agents share the intention that they build a tower.  Suppose that each individually also wants to fix a leak in the ceiling of the room below.  At it happens, the weight of the tower is such that the leak in the ceiling of the room below is sealed.  So aren't all my criteria for joint action are met?  Well, there is a common effect (the fixing of the leak) and this occurs in part because of the coordination of their activities.  But, crucially, neither of their activities are individually organised around this end.  So this is like the traffic jam case.
+
+The issue here is, What's the goal of a joint action?  The 
+
+
+
+%%% START OF PAPER
+
+
+\section{Introduction}
+John and Anika, in their invitation to the workshop, asked us to discuss the `potential role of shared emotions in [...] joint action.'
+
+I want to approach this by distinguishing questions.  There are empirical questions, like What motivates people to engage in joint action?  or What are the perceptual, cognitive and motor processes that enable effective joint action (*ref KBS2010)?  John Michael's talk already explained how shared emotion features in answering this question.  Shared emotion facilitates joint action by synchronising attention, thought and action.  
+
+%Could also appeal to study where shared game makes people more likely to contribute to common good---or does this work?
+
+I want to shift our focus from those empirical questions to constitutive questions, questions like What is joint action? and  What distinguishes joint from individual actions?
+
+%Of course constitutive and empirical questions are intertwined in the sense that neither type can be answered independently of the other.  
+
+Does shared emotion features in answering constitutive questions about joint action?  Is there a role for shared emotion in saying what joint action is or how joint actions differ from individual actions?  
+
+My aim here is not to answer this question but only to remove one obstacle to giving a positive answer.  For on the standard ways of thinking about joint action there is no possibility at all that shared emotion could be in any sense constitutive of joint action.  Let me explain.
+
+
+\section{The Obstacle}
+
+Philosophers' paradigm cases of joint action include painting the house together (Michael Bratman), lifting a heavy sofa together (David Velleman), preparing a hollandaise sauce together (John Searle), going to Chicago together (Christopher Kutz), and walking together (Margaret Gilbert).  
+
+At least some of these joint actions could occur without shared emotion.  Nothing in theory prevents self-centred, unimaginative agents from lifting a sofa together.
+
+So \textbf{shared emotion is not a feature of every joint action}.
+
+This by itself is not an obstacle.  But it becomes an obstacle to assigning shared emotion a constitutive role in an account of what joint action is when we add further assumptions.
+
+It is quite widely assumed that \textbf{there are characteristic features common to all joint actions}.\footnotemark \  The most widely discussed such feature is shared intention.  I'll say more about shared intention later.
+\footnotetext{
+In saying that a feature is \emph{characteristic} of joint action, I mean both that only joint actions have that feature and also that it is possible to know what the feature is without already knowing what joint action is.  So \emph{involving agency} fails to be characteristic of joint action because it it is a feature of individual as well as joint actions; and \emph{being a joint action} fails to be characteristic because one can't know what this feature is without already knowing what joint action is.
+}
+
+If there are characteristic features common to all joint actions, then it is natural to assume, further, that \textbf{only such features are relevant to answering constitutive questions about what joint action is}.
+
+It follows that shared emotion can play no role in a constitutive account of what joint action is.
+
+I shall argue that there are no characteristic features common to all joint actions.  I start by arguing that shared intention is not a feature common to all joint actions.  This is a useful first step because many philosophers hold that shared intentions are common to all joint actions. 
+
+
+\section{On Shared Intention}
+
+The usual way of thinking about joint action starts with the premise that all significant cases of joint action involve shared intention (dissenters are mentioned below).  For instance:  
+\begin{quote} 
+`I take a collective action to involve a collective intention.'  \citep[p.\ 5]{Gilbert:2006wr}.
+\end{quote}
+\begin{quote}
+`the key property of joint action lies in its internal component [...] in the participants’ having a “collective” or “shared” intention.' \citep[pp. 444-5]{alonso_shared_2009}.
+\end{quote}
+
+
+But what is shared intention?
+
+In barest outline, shared intention is supposed to stand to multiple agents and their joint actions somewhat as ordinary intention stands to individual agents and their individual actions.  This means, for example, that shared intentions are generally taken to be states which, among other things, coordinate multiple agents' activities and plans much as individual intentions coordinate a single agent's activities and plans (see further \citealp{Bratman:1993je})\todo[size=\footnotesize]{
+If we stick to this idea only, we do have shared intentions in all of my examples because there are things (not necessarily states, of course) which coordinate multiple agents' activities.  Might be possible to put my idea by saying that shared intention is realised in many different ways, rather than that there is no shared intention.  Should acknowledge that there are multiple ways of thinking about shared intention---in these very broad functional terms, or, alternatively, in terms of the three individually necessary conditions outlined later.
+}.
+
+
+
+Beyond this there is little agreement on what shared intentions are.
+Some hold that shared intentions differ from individual intentions with respect to the attitude involved (\citealp{Kutz:2000si}; \citealp{Searle:1990em}). 
+Others have explored the notion that shared intentions differ with respect to their subjects, which are plural \citep{Gilbert:1992rs}, 
+or that they differ from individual intentions in the way they arise, namely through team reasoning \citep{Gold:2007zd}, 
+or that shared intentions involve distinctive obligations or commitments to others (\citealp{Gilbert:1992rs}; \citealp{Roth:2004ki}).
+Opposing all such views, \citet{Bratman:1992mi,Bratman:2009lv} argues that shared intentions can be realised by multiple ordinary individual intentions and other attitudes whose contents interlock in a distinctive way. 
+
+%It is striking that, despite their diversity, shared emotions do not feature on any approach to shared intention, except possibly that which involves ascribing intentions to plural subjects and that which involves team reasoning (since team reasoning involves shared desires).
+
+Despite failure to agree on what shared intentions are, there is broad agreement that the following are individually necessary conditions for shared intention:
+
+\begin{idescription}
+\label{conditions-for-shared-intention}
+
+\item[awareness of joint-ness] at least one of the agents knows that they are not acting individually; she or they have `a conception of themselves as contributors to a collective end.'\footnote{
+	\citet[p.\ 10]{Kutz:2000si}.  Compare \citet[p.\ 361]{Roth:2004ki}: `each participant ... can answer the question of what he is doing or will be doing by saying for example ``We are walking together'' or ``We will/intend to walk together.''' 
+Relatedly, \citet[p. 56]{miller_social_2001} requires that each agent believes her actions are interdependent with the other agent's.
+}
+
+\item[awareness of others' agency]  at least one of the agents is aware of at least one of the others as an intentional agent.\footnote{
+	Compare \citet[p.\ 333]{Bratman:1992mi}: `Cooperation ... is cooperation between intentional agents each of whom sees and treats the other as such'.  See also \citet[p.\ 105]{Searle:1990em}: `The biologically primitive sense of the other person as a candidate for shared intentionality is a necessary condition of all collective behavior' 
+}
+\item[awareness of others' states or commitments] at least one of the agents who are F-ing is aware of, or has individuating beliefs about, some of the others' intentions, beliefs or commitments concerning F.\footnote{
+This condition is necessary for shared intention even on what \citet[p.\ 40]{tuomela_collective_2000} calls `the weakest kind of collective intention'.  But it may not be necessary if, as \citet{Gold:2007zd} suggest, shared intentions are constitutively intentions formed by a certain kind of reasoning.
+% "if the distinctive feature of collective intentions is to be found in the reasoning by which they were formed, then an analysis that focuses on the intentions themselves will miss the feature that makes collective intentions collective. " 
+}
+
+\end{idescription}
+
+There are philosophers who deny that shared intention is necessary for joint action,\footnote
+{
+\citet[p.\ 407]{Roth:2004ki} and \citet{Searle:1990em}  hold that the intentions required for joint action need not be shared; \citet{miller_social_2001} also denies that shared intention is necessary for joint action.
+*Should say something about Bratman and others.
+*Should possibly also mention Kutz on participatory intentions.
+}
+but even they hold that one or more of these conditions is individually necessary for joint action (see footnotes above).
+
+What follows assumes that where one or more of these three conditions is not met, there is no shared intention. 
+
+Some of what follows also makes use of the further assumption that these conditions express causal conditions on shared intention.  That is, where joint action involves shared intention, the agents act in part \emph{because} they have awareness of joint-ness, of others' agency or of others' states or commitments\todo[size=\footnotesize]{
+Perhaps the assumption should just be that the conditions have to be met before the joint action is over.  But the causal idea is perhaps clearer.
+}.
+
+
+
+
+\section{Strategy}
+My strategy is simple.  I will describe a series of cases which are, at least intuitively, joint actions although one or more of the above conditions does not obtain.  Given that the above conditions are indeed individually necessary for shared intention, these are cases of joint action without shared intention.
+
+% I wanted to stress that the weaker assumption that only one of the three conditions is necessary would do.  But this makes exposition of the case studies harder: can't then say that we don't have shared intention.
+%[*alt] None of the above three condition obtain in all of my cases.  Given that at least one of these conditions is in fact a necessary condition on shared intention, I conclude that there are cases of joint action without shared intention.
+
+
+
+
+\section{Case Study---the environment coordinates joint actions}
+
+Two ropes hanging over either side of a high wall are connected to a heavy block via a system of pulleys.  Ayesha and Beatrice pull the ropes simultaneously, causing the heavy block to rise as a common effect of their actions.  Each individually intends to raise the block.  Each can see the block's rise but, because of the high walls, neither of them is aware of the other, nor even that anything other than her own action is necessary for the block to rise.  The simultaneity of their pullings is a coincidence.
+
+None of the above necessary conditions for shared intention are met but intuitively this is joint action, perhaps because the ropes and pulleys bind the agents' actions together and ensure a common effect.  
+
+This case can be gradually elaborated.  Suppose Ayesha and Beatrice each know that, in addition to the rope they can pull, there is another rope and that force has to be exerted on that as well.  They hold their own rope so that it's possible to feel when additional force is exerted on the other.  As soon as they feel such force, they attempt to lift the block.\footnote{
+Compare the `Me plus X' notion from Vesper et al *ref
+} 
+Now Ayesha and Beatrice recognise that something additional is needed, but not that they are participants in a collective activity.  
+
+
+
+It is tempting to dismiss environmentally-provided coordination like that illustrated by Ayesha and Beatrice's raising the block as irrelevant to joint action; certainly philosophers tend to focus on activities, such as walking together, where acting together rather than in parallel could only be a matter of agents' attitudes or commitments \citep[e.g.][]{gilbert_walking_1990}.  But it is plausible that some coordination in joint action is provided by environmental structures rather than psychological mechanisms and, further, that humans perceive joint affordances when joint action is possible \citep{richardson_judging_2007}.  Even where shared intentions are present, how we perceive objects and events may be as important for effective joint action as what we know of other minds.
+
+This artificial case indicates that in joint action much of the coordination can be taken care of by what objects afford multiple agents rather than by intentions. 
+
+
+\section{Case Study---Motor Simulation}
+
+Sam and Ahmed are sitting before a pile of wooden cubes.  They each individually intend that a stack be created from all the cubes.  They are indifferent to each other's presence and activities; they will be satisfied if the cubes all end up in a single stack in a way consistent with the fulfilment of their individual intentions.  Acting on their individual intentions, they rapidly pile the cubes into a single stack.
+
+Necessary conditions for shared intention are not met: Sam and Ahmed do not know in advance whether they are acting individually or jointly [*first condition], and they need not be aware of each other's intentions or commitments regarding the activity [*third condition].  Yet their activity counts as a joint action in the minimal sense that their individual goals are fulfilled only as a common effect of both of their purposive actions.  
+
+As so far described, this is not a compelling case of joint action.  To turn it into one we need to invoke motor simulation.  This calls for a little background.
+
+It is now well established that some of the motor representations involved in planning and executing an action are also involved in observing that action.\footnote{
+Some of the most direct evidence for this claim comes from \citet{Gangitano:2001ft} who artificially stimulated the motor cortices of subjects observing actions.  They found motor-evoked potentials related to the very muscles used in performing the observed action at the very times those muscles were needed for the task \citep[see further][]{Fadiga:2005gq}.  
+}
+The role of motor cognition in action observation appears to extend beyond matching a currently observed motor action to predicting subsequent motor actions based on the context of action \citep[e.g.][]{Iacoboni:2005ww,hamilton_action_2008}.  Among other functions, this is thought to enable agents to predict others' actions and their immediate outcomes \citep{Wolpert:2003mg,Wilson:2005qu}.  Such predictions in turn influence attention to action.  To take an example relevant to the present case study, \citet{Flanagan:2003lm} had subjects observe an agent stacking blocks.  They found that observers' gaze patterns were similar to those of the agent performing the action and dissimilar to those of control subjects who saw the blocks being stacked without seeing any actions.  In particular, observers tended to anticipate actions by gazing at blocks to be grasped and at the sites they were to be placed, just as they would if they themselves were performing the actions \citep[see further][]{Rotman:2006xf}.  
+%Note that there is no reason to suppose that the observers in these experiments shared intentions with the agents they observed; observers were not asked to take part in the action.
+
+How is this relevant to the present case study?  \textbf{Sam and Ahmed have to coordinate their actions because they are rapidly adding cubes to the same stack: they have to time their actions to avoid colliding with each other, and to avoid delay they have to anticipate where the other will place a cube when planning their own next move.}  Such coordination occurs on a timescale too short to be served by shared intentions.  Rather, as the above research demonstrates, it is motor simulation that makes this coordination possible.  \textbf{Sam and Ahmed can coordinate their actions with each other because, speaking loosely, each engages in motor planning for the other's actions as well as for his own}.  
+
+In this case there is no shared intention because Sam and Ahmed need not think of themselves as contributing to a collaborative end.  Sam's and Ahmed's activities are coordinated thanks to meshing of their motor cognition rather than of their intentions.  This meshing ensures that the \textbf{two agents' actions resemble in some respects those of a single agent performing an action with two hands}.  In these respects Sam and Ahmed are acting as one, which shows that this is a significant case of joint action without shared intention.  
+
+The first case study illustrated how joint action sometimes relies on shared affordances.  This case study illustrates how, in other cases, joint action relies on meshing motor cognition.  To insist that joint action always involves shared intention would mean neglecting other psychological mechanisms involved in the coordination of joint action.
+
+
+\section{But Are They Joint Actions?}
+You might object, are the cases I am describing really cases of joint action?
+Actually there is quite a lot to say about this, and I can't say very much here.  But I do want to say two things. 
+
+First, there is a tangle of scientific and philosophical questions about joint action, covering cognitive neuroscience, development, phenomenology and metaphysics.  We can use these questions to anchor debate on whether something is a joint action.  Here's how this works.  Suppose that a putative joint action, such as Ayesha and Beatrice's lifting, is actually joint action.  Does one or more of the questions arise for that case and would the question or questions be interestingly different from questions that could be asked of relevantly similar single-agent cases?  If so we have defeasible grounds for taking the case to be one of joint action.
+
+There is another, complementary approach to deciding whether something is a joint action.  Consider observing joint actions as an outsider.  In many cases we can interpret joint actions, their method and outcome, as easily and fluently as individual actions.  
+How do we do this?
+In some cases I think we imagine that several agents compose a single, fictitious agent. 
+Having imagined this super-agent, we can then proceed as we normally would when interpreting actions.
+This is part of why joint actions are not always significantly harder to interpret than individual actions.
+
+Where this interpretative strategy works, where it enables us efficiently to describe and predict, it gives us a defeasible reason for thinking that what we have observed is a joint action.
+
+But in the cases just discussed, of lifting and stacking blocks, the interpretative strategy does work.  So we have a defeasible reason for thinking that these are joint actions.
+
+I mention this because the final case I want to present involves applying this interpretative strategy to one's own situation.
+
+
+\section{Case Study---The Imaginary We}
+
+Humans from around two years of age or earlier can readily attribute states to an imaginary agent, identify how it needs to act given those states and perform actions on its behalf.  Note that in acting on behalf of imaginary agents they may be furthering their own real-world objectives (as in `Teddy wants to go to the park.'). 
+Joint action sometimes involves imaginary agents as well---not teddies, of course, but imaginary composite agents.  
+
+Lucina and Charlie each want to complete a multi-step task.  Lucina imagines that she and Charlie are a single agent, Lucina-and-Charlie, and attributes to this imaginary agent the intention of completing the task.  Charlie does the same, ascribing the same intention to the imaginary agent.  While such imaginary activities may themselves often involve shared intentions, in this case it is mainly due to luck that Charlie imagines the same agent and attributes the same intention as Lucina.
+%\footnote{The case described here is not one of joint acton \emph{with} an imaginary agent.  The actual agents, Lucina and Charlie, are real.  But what makes their action interestingly joint is the fact that they each construe themselves as acting on behalf of an imaginary composite agent, Lucina-and-Charlie.}  
+
+Necessary conditions for shared intention are not met in this case. Lucina and Charlie do not think of themselves individually as contributing to a collective end [*first condition], but rather as acting on behalf of a single imaginary agent; and they need not know what the other individually intends until afterwards [*third condition].  Yet this is a joint action in that Lucina and Charlie work together to achieve an outcome which occurs as a common effect of their actions.  
+
+This case indicates that some of the functions assigned to shared intention can be also fulfilled by imaginings.  Charlie and Lucina construe their actions as if they were the actions of a single agent, and it is this imaginary exercise which makes them responsive to each others' actions and causes them to coordinate their activities by executing complementary parts of what must be done on behalf of the imaginary agent.
+
+
+
+
+\section{Interim Conclusion}
+
+Recall the three conditions mentioned earlier (p. \pageref{conditions-for-shared-intention}).  
+None of these conditions holds in all three cases of joint actions outlined above.  
+So given that even just one of these conditions is individually necessary for shared intention, we can conclude that shared intention is not a characteristic feature of joint action.  
+
+
+So far I have argued that one candidate for a characteristic features of all joint action is not in fact a feature of all joint actions.  Now I want to argue, further, that \textbf{there are \emph{no} characteristic features common to all joint actions}.  [*TODO should re-write to get to pluralism without this claim; it's not necessary and my argument for it fails.]
+
+Of course I can't argue for this claim with case studies alone.  Instead I want to tell you a story about what joint action is ...
+
+
+\section{There Are No Characteristic Features Common To All Joint Actions}
+
+So what is joint action?  
+I shall approach this question by first considering a case involving multiple agents that is either a very basic case of joint action or, possibly, even more basic than any kind of joint action.  
+
+Some ants harvest plant hair in order to build traps to capture large insects; once captured, many worker ants sting the large insects, transport them and carve them up \citep{Dejean:2005vb}.  The ants’ behaviours have an interesting feature distinct from their being coordinated: each ant’s behaviours are individually organised around an outcome—the fly’s death—which occurs as a common effect of many ants’ behaviours.  We can say that there is a single activity—killing a fly—which several ants performed.  
+
+A \emph{plural activity} occurs when:
+\begin{itemize}
+\item multiple agents’ activities are individually organised around a single outcome;and 
+\item this outcome occurs as a common effect of, or is constituted by, all their activities.
+\end{itemize}
+\footnotesize Slightly more carefully, a \emph{plural activity} occurs where there are two or more agents and:
+\begin{itemize}
+\item there is an outcome, E, around whose occurrence each agent's activities are individually organised;\footnote{
+The notion that an individual’s behaviours can be organised around an outcome is shorthand for an open-ended disjunction of cases; it means that there is an intention, goal, habit, biological function or other behaviour-organizing circumstance connecting the individual’s behaviours to the outcome.
+}
+and
+\item E occurs, or would normally occur, as a common effect of all the agents' activities (or else E's occurrence is, or would normally be, constituted by their activities---this is necessary to include cases like dancing a tango).
+\end{itemize}
+\normalsize I don't think that all plural activities are joint actions, but I do think that the converse is true.  All joint actions are plural activities.
+
+
+Successful plural activity generally requires coordination of agents' activities (in addition, in some cases, to coordination of their plans and perhaps other forms of coordination).  
+How is this coordination achieved?  
+In the case of ants such coordination may be achieved hormonally.  
+In humans, who can voluntarily engage in plural activities with novel outcomes, coordination is sometimes achieved psychologically by means of shared intentions.  
+
+But, in addition to shared intentions, there are a range of other mechanisms capable of providing such coordination in humans.  
+As we saw, in some cases coordination is provided by the environment, by perception of common affordances, by meshing motor cognition, or by imagining a fictitious plural subject.  
+And perhaps, as John Michael's discussion indicates, some cases of shared emotion can also underwrite coordination sufficient for successful plural activity.
+
+
+As I said, I don't think that all plural activities are joint actions.
+What can be added to the bare notion of a plural activity that would be sufficient for joint action?
+If we adopt a maximally broad notion of joint action,
+I think that the following are
+% very nearly 
+collectively sufficient for a joint action to occur
+\begin{itemize}
+\item there is a plural activity;
+\item something coordinates the agents' activities; and
+\item the coordination is, or would normally be, among the causes of the outcome.
+\end{itemize}
+
+[Potential problems\footnotemark]
+\footnotetext{
+[1] Suppose some people are queuing for a bus.  Their activities are coordinated and thereby effect the existence of queue.  So this is a case of joint action.  (We could argue about what counts as an outcome but that is unlikely to alter the underlying issue.)
+
+[2] As two agents are walking towards each other on a narrow street, each adjusts her  trajectory taking into account the other's adjustments.  Their walkings are coordinated and thereby enable them to walk past each other (the outcome).  So by the above definition this counts as a joint action.
+
+[3] The definition doesn’t distinguish cooperative from competitive activities.  For example, suppose a large group of people are brawling in a park.  Their activities are coordinated and thereby constitute a brawl.  So this is also a case of joint action.
+}
+
+%[The following is WRONG but there is something to the worry that not any old coordination will do]
+%These conditions are arguably not quite sufficient for joint action because if agents' activities were only very loosely coordinated it might not be useful to think of their activities as constituting a joint action.
+%So I want to add that the agents' activities are coordinated in roughly the way that an individual's agents could be coordinated.
+%When an individual acts in pursuit of a goal, such as posting a letter, she might need to do several things subject to ordinal or temporal constraints.  In this case her achieving the goal will depend on coordinating her activities.
+%My suggestion, then, is that the conditions given above are quite sufficient for joint action with the additional requirement that the coordination sufficiently resemble that involved in an individual agent's pursuit of a goal.
+
+The moral of the case studies above is that several different things can coordinate agents' activities, including perception of common affordances, meshing motor cognition, and imagination.  Perhaps shared emotion too lies among the mechanisms capable of providing coordination for joint action.  And in principle, even if not in fact, there is an open-ended range of ways in which coordination can be secured.
+
+If this story about joint action is right, different cases of joint action need not have any characteristic features in common.  Joint action is, in essence, a matter of multiple agents' plural activity being coordinated in such a way as to bring about the single outcome around which each agent's activities are individually organised\todo[size=\footnotesize]{
+Repeated below, not identical!
+}.
+
+
+
+
+\section{Conclusion}
+On the view I oppose, there is a sharp division between cases where agency is involved (joint action) and cases where it is not (mere plural activity).  
+So there are only two ways this sentence could be true:
+\begin{quote}
+`Ayesha and Beatrice between them lifted the block'
+\end{quote}
+Either it refers to the sort of activity that multiple non-agents can also be engaged in, as exemplified by:
+\begin{quote}
+`Left Leg and Right Leg between them supported the table'
+\end{quote}
+... or else it involves shared intention, as in:
+\begin{quote}
+`Ayesha and Beatrice between them lifted the block  \emph{intentionally}'
+\end{quote}
+One consequence of this view is that it leaves no room at all for imagination or emotion in constitutive issues about what joint action is. 
+
+%On this approach, constitutive questions about joint action all boil down to questions about shared intention.  To engage in joint action is to be appropriately related to a shared intention, and it is the presence of shared intention which distinguishes joint action proper from the coordinated and cooperative activities of some ants.
+
+% An immediate problem for this sort of view is presented by the coordinated and cooperative behaviours of some ant species, who farm fungus or build traps to capture much larger insects which they they carve up and eat.
+
+Opposing this view, I advocate pluralism about joint action.  Joint action is, in essence, a special case of coordinated plural activity
+\todo[size=\footnotesize]{
+Joint action is plural activity where (i) there is coordination, (ii) the outcome occurs in part because of the coordination; and (iii) the coordination may have to have any number of special qualities
+}
+ and shared intention is just one among many possible mechanisms by which multiple agents' activities can be coordinated.
+
+Diversity in the mechanisms capable of underpinning coordination for joint action means that there are no characteristic features common to all joint actions and so no reason to think that there is a single substantive account of joint action which captures every case.  
+
+This does not mean that we should abandon attempts to analyse joint action.  For it may be that a systematic and empirically motivated accounts can be given for each kind of joint action.  
+Fully answering questions about joint action requires understanding not only shared intention but also the other ingredients which make joint action possible and, critically, how they interact.  And while I haven't argued, positively, that these ingredients include imagination or shared emotion, unlike the standard view, I also haven't ruled this out.
+
+
+
+
+\singlespacing
+\bibliography{$HOME/endnote/phd_biblio}
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+

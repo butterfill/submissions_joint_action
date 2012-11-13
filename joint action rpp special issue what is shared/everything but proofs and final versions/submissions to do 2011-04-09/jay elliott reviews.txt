@@ -1,0 +1,28 @@
+Jay Elliott ROPP42 reviews 
+
+Comments for the Author:
+
+Reviewer #1: Staghunt & Committee Work
+
+As scientist, not a philosopher, I found this paper to be very interesting. It characterizes the data correctly, and provides a fair outline of how the data have been interpreted by the empiricists.  
+
+The author outlines one limitation of the Tomasello mutualism paradigm---that one-sided cooperation occurs, which violates the symmetry of mutualism. My problem with the solution offered, participant rationality, is that it is not very plausible from an evolutionary point of view. Staghunts are successful because there is no incentive to defect. But in the situations that the author is particularly concerned with (that can't be explained via mutualism), the incentive to defect is real.  How does evolution create a kind of creature who avoids the temptation to defect? A sense that we are "acting with others" should not motivate us unless our action leads to beneficial outcomes for ourselves. Participant rationality might be an apt description of how we feel, but not a good explanation of how we came to be the kind of creatures that feel this way. Of course, the same forces that make us feel good about doing good, such as cultural group selection, may give us some sense of satisfaction from participating in group activities.  So, adding a dimension to our social cognition/emotions does not solve the fundamental problem of figuring out why humans differ from other animals in our capacity for altruism. 
+
+p.3 Here, it is important to provide operational definition of cooperation. It does not have a unitary definition in biology. For some biologists altruism is synonymous with cooperation; for others, cooperation includes altruism (costly to actor, beneficial to recipient) and mutualism (beneficial to both parties). 
+
+p.6. I question the claim that the staghunter must reason socially.  The hunter simply needs to know that defecting will lead to bad outcomes for himself. It is a rational individual decision, not necessarily a social decision.
+
+
+
+Reviewer #2: This is an excellent, informative very clearly written and original paper. Its central argument is compelling. I strongly recommend publication, with the following minor revisions.
+
+1. Pp3-5. As described, the developmental experiments do not appear to illustrate the realizations of the mutualistic paradigm, as you define it. 
+a.     The pole lifting experiment: why does this show more than that the child had a conception of the goal of the activity, getting the pole to where it is supposed to be, which s/he sticks to independently of rewards, to herself or others. Not clear that the ascription of any conception of jointness warranted here, either with respect to the activity or to the rewards.
+b.     The bell in the tube experiment. Not clear from the description whether the adult continues to be engaged, without actually participating, encouraging the child and so forth. If the adult stops all engagement, not clear that the experiment shows more than that the child wants the adult to be engaged with her (the child's) own activities?(children like attention being paid to them).  Even your own interpretation of the experiments (pp.20, 21) in terms of an understanding of a shared goal may be too rich, given the description. 
+
+In general, Tomasello and co-workers are often accused of giving overly rich interpretations of their experiments?and the experiments described might be a case in point. But perhaps there are fuller descriptions to hand that justify the rich reading?
+
+2. Brian Skyrms is a distinguished logician and philosopher of science, not a psychologist (p.5)
+
+
+General comment (not essential to respond to it): psychologists opposed to various aspects of Tomasello, locate the importance of early sharing for ethics in the kinds of emotions they seem to elicit and requires, e.g. empathy. On this view, the kind of understanding required for manifesting the mutualistic paradigm is more sophisticated, and comes later (see e.g. papers and book by Vasu Reddy, and paper by Hobson in Eilan et all: Joint Attention). In general this suggests that a more nuanced and varied account is needed for explaining developmental roots of ethics-- different aspects of moral thought and behaviour being grounded in different capacities, which is certainly consistent with the general thrust of your paper.

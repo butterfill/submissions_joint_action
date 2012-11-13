@@ -1,0 +1,27 @@
+The ways in which EC facilitates joint action, the synergy section
+
+(a) would be good to have a hint about this earlier in the paper
+
+(b) ***To what extent did we establish that EC facilitates joint action and to what extent is this a hypothesis we are proposing for future experimental work? 
+
+(c) perhaps the synergy hypothesis is quite daring -- in the section 'Consequences of emergent coordination', there's increased liking and willingness to act together but, apart from facilitating comprehension in conversation, nothing about actually facilitating joint action.  Perhaps then the 'synergy hypothesis' is a daring conjecture that hasn't yet been adequately tested & so we can flag it as such?
+
+STEVE TODO: 'A compatibility effect was observed when the two participants were sitting close to each other, within arm reach (in so-called peripersonal space). However, the compatibility effect vanished when the co-actors were sitting outside of each other’s peripersonal space.'  -- USE FOR INSTRUMENTALISM PAPER
+
+
+STEVE for INSTRUMENTALISM PAPER (theme -- we are built for joint action): ', electrophysiological evidence suggests that acting together requires the recruitment of control processes to ensure that one does not act when it is the other’s turn. A positive event-related potential occurring 300-500ms post- stimulus was significantly more pronounced when participants needed to inhibit an action because it was their co-actor’s turn compared to when they needed to inhibit an action because it was nobody’s turn to act (De Bruin, Miedl, & Bekkering, 2008; Sebanz, Knoblich, Prinz, & Wascher, 2006; Tsai, Kuo, Jing, Hung, Tzeng, 2006).' (p. 30).  
+
+***Section on top-down recruitment of task representations? (a) beliefs about whether working with another person or a computer make a difference; (b) competitive vs. cooperative contexts.
+
+
+
+Section on 'Interpersonal factors' (pp. 32ff.).  I think this section might be slightly recast: the material reviewed concerns how shared task representations interact with the beliefs, intentions and attitudes that philosophical accounts of joint action have focussed on.  (E.g. comparing competitive and cooperative interactions "may reveal effects of particular prior intentions on task performance", p. 33).  It would be elegant to link the "nuts and bolts" back to the philosophical accounts that were mentioned in the introduction (or perhaps this is not so interesting to the target audience?).  We might cast it as a parallel to 'Synergies between planned and emergent coordination' -- it concerns synergies between the nuts & bolts and the higher levels of planned coordination.
+
+The picture I have in mind (which I think we share) is this: while the nuts and bolts of planned coordination are shared task representations, shared perceptions and the like, there are also cases of planed coordination where common knowledge, shared goals or shared intentions play a role as well.  But these states are not replacements for shared task representations; typically, both are necessary.  One possibility might have been that there are no direct representational relations between shared task representations and what agents believe or intend, so that what an agent thinks she is doing, what mood she is in, whether she thinks she is competing or cooperating or acting alone, makes no difference at all to whether she forms shared task representations.  But these studies show that this is not the case.
+
+
+
+
+
+
+

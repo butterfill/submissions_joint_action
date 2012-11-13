@@ -1,0 +1,6 @@
+A puzzle about the possibility of joint action without shared intention
+s.butterfill@warwick.ac.uk
+
+Many researchers at previous JAMs have claimed or implied that some joint actions do not involve shared intentions.  This claim generates a puzzle.  For two or more agents' activities to constitute a joint action there must be a goal to which these activities are collectively directed. And, trivial cases aside, their activities being directed to this goal cannot consist only in each agent's activities being individually directed to the goal.  How could two or more agents' activities be collectively directed to a goal?  When shared intention is present, the question has a standard answer: shared intentions link agents' activities to a goal by both causing the activities and representing the goal.  The puzzle is to understand how two or more agents' activities could be collectively directed to a goal when the agents do not share an intention.  We need to solve this puzzle in order to properly understand what joint action is.  This talk offers a solution by introducing the notion of a collective goal.  Collective goals are a necessary but neglected building block for research on joint action.
+
+

@@ -1,0 +1,85 @@
+Dear Steve,
+
+Hope you're okay. Lovely to see you yesterday. And really enjoyed your
+paper. Here are some small additional comments. Hope some of them are of
+some use. Cheers and hope to see you again soon.
+
+Very best,
+
+Guy
+
+**
+
+*1. p.6. Discussion of Searle and the principled requirement for a
+shared-intention independent account of joint activity. I'm not sure whether
+you think this is genuine issue, but if it is, I might be inclined to
+emphasise it more, and perhaps earlier on, as a core motivating
+consideration??
+
+[done] 2. p.6, second para, end of para: 'For this reason we do not claim that
+accounts... are incorrect.' Should that be 'that intention-based
+accounts...'?
+
+*3. p.7., you mention a case where there is no shared intention. Here you
+rely on at least a sketch of putative necessary conditions on shared
+intention. Would be worth for this purpose, and for purposes of later
+discussion, saying something early on about what they necessary conditions
+might look like (of course, without committing to a detailed account).
+
+[done] 4. p.7. You say, following the Searle case, 'This is not sufficient for the
+visitors' activities to have a distributive goal.' Might be worth saying
+here exactly why that's so??
+
+*5. p.8., top: 'On this interpretation, the plural prediction involves almost
+no commitments beyond those that would be incurred by talking about each
+agent individually.' Depending on what that means, it might be consistent
+with some forms of shared intention account, e.g. those that explain such
+intentions by appeal to other agent directed but individual intentions,
+knowledge, etc.
+
+**6. p.8. I'm not sure what to say about this, but around these parts you make
+use of the 'Sam intends to X' construction, e.g. 'Sam intends to sink the
+boat'. You suggest that that is consistent with Sam intending that the boat
+becomes sunk, whether or not he is solely responsible. You also suggest that
+his involvement isn't specified in the content. Both might be right, but one
+view would be that the full content comes into play via something like this:
+
+'Sam intends PRO to sink the boat'
+
+Where 'PRO' is anaphoric on 'Sam'. (This exact analysis is controversial.
+But something like it is liable to be plausible since otherwise the
+construction will seem to flout the constraint that subject expressions line
+up one one with argument requirements on predicates. So, both 'intends' and
+'sink the boat' require a subject. 'Sam' can't play both roles if it only
+occurs once, hence we need something like 'PRO' or an unpronounced
+repetition of 'Sam' to carry the requirement.)
+
+If something like that analysis is right, it might be a way in which Sam's
+involvement is specified in the content. Moreover, the first issue--whether
+Sam has to be solely responsible for the ultimate upshot--depends on whether
+'Sam sunk the boat' requires this. As I say, not sure what to say about
+this, just flagging it as a potential issue.
+
+[I need to find out whether 'Sam sunk the boat' is consistent with 'Sam and Mary together sunk the boat'.  I'm tempted to think that this might be false on the grounds that adding 'alone' adds something (and not only that he did it without help).  But I also think the ultimate issue doesn't depend on this, as we can clearly make sense of a logic in which 'Sam sunk the boat' is consistent with (and entailed by) 'Sam and Mary together sunk the boat' --- 'Sam sunk the boat' just means that he was an agent of the action.]
+
+[done] P.10. You use 'eating a certain pizza' as an example of a goal that is
+consistent with others' success. Not if I'm eating the pizza!
+
+P.14.second para, 'It would be a distortion to claim that the notion of a
+collective goal is the notion of something agents share.' That might be
+right, though one might think that *being coordinated* is something like s
+shared property. And the emergent cases we discussion might be cases where
+(whether or not one thinks in terms of sharing) no individual satisfies the
+condition, even though collections do??
+
+[done] P.17. Top, you claim the Miller assertion requires that agents in joint
+action be in a position to know they are not acting alone. But Miller's
+quote is about agents beliefs, not their knowledge, or what they are in a
+position to know.
+
+*P.19. The nice claim that shared intentions are neither shared nor
+intentions is very nice, but I guess could do with being set up through some
+earlier, or contemporaneous, (brief) discussion?
+
+**
+-- Dr Guy Longworth Associate Professor Department of Philosophy University of Warwick Coventry CV4 7AL UK 

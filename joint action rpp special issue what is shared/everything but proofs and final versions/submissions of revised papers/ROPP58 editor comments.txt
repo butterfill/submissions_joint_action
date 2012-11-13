@@ -1,0 +1,17 @@
+This is an excellent revision which addresses the reviewers' points.  Reviewer 1 suggested that the paper will be hard to read for the target audience.  While the revisions go some way to addressing this, there is no way around it given the nature of the paper.  I suggest that adding a conclusion might be helpful for some readers; this is not required but it would be a welcome addition.
+
+Typos &c
+
+p. 13 "For first, deciding is not ...  And second, intention acquisition is ..."  Is it possible to add commas after 'for' and 'and'?
+
+p. 15 fn. 20: this footnote is not essential
+
+p. 21: in Korsgaard quote, "it be thought *be* a thinker": typo
+
+p. 25: "if both men vainly set about lifting the piano's left hand side": I'm not sure this is vainly done given the intentions specified
+
+p. 25-6: "for each one of them to intend, generically, that he do something that is necessary for their piano-carrying ... appears to launch an infinite regress": I don't think I understand what the intentions are.  I suspect the way that the self-reference leads to regress may mean that the specification fails to identify a satisfaction condition.  If so, the first sentence of the paragraph needs re-writing because it seems to entail that there is another way for Stan and Ollie to each intend a means to their joint action.
+
+
+
+

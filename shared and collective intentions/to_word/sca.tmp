@@ -1,0 +1,1347 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!DOCTYPE office:document-content PUBLIC "-//OpenOffice.org//DTD OfficeDocument 2.0//EN" "office.dtd"> 
+ 
+<?xtpipes file="oo-text.4xt" ?> 
+<office:document-content  
+xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0"  
+xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0"  
+xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0"  
+xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0"  
+xmlns:fo="http://www.w3.org/1999/XSL/Format"  
+xmlns:xlink="http://www.w3.org/1999/xlink"  
+xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0"  
+xmlns:dc="http://purl.org/dc/elements/1.1/"  
+xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0"  
+xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" 
+xmlns:svg="http://www.w3.org/2000/svg"  
+xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0"  
+xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0"  
+xmlns:math="http://www.w3.org/1998/Math/MathML"  
+xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0"  
+xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0"  
+xmlns:ooo="http://openoffice.org/2004/office"  
+xmlns:ooow="http://openoffice.org/2004/writer"  
+xmlns:oooc="http://openoffice.org/2004/calc"  
+xmlns:dom="http://www.w3.org/2001/xml-events"  
+xmlns:xforms="http://www.w3.org/2002/xforms"  
+xmlns:xsd="http://www.w3.org/2001/XMLSchema"  
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  
+xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0"  
+xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" 
+xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" 
+office:version="1.0" > 
+<office:automatic-styles> <?tex4ht-lg file="sca.lg" ?> <style:style style:name="Figure" style:family="section"> 
+<style:section-properties fo:margin-left="0.25in" fo:margin-right="0.25in" style:editable="true"> 
+<style:columns fo:column-count="0" fo:column-gap="0in"/> </style:section-properties> </style:style> 
+<style:page-layout style:name="Standard-page-layout"> 
+<style:page-layout-properties fo:page-width="597.50787pt" fo:page-height="845.04684pt" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.7874in" fo:margin-bottom="0.7874in" fo:margin-left="0.7874in" fo:margin-right="0.7874in" style:writing-mode="lr-tb" style:footnote-max-height="0in"> 
+<style:footnote-sep style:width="0.0071in" style:distance-before-sep="0.0398in" style:distance-after-sep="0.0398in" style:adjustment="left" style:rel-width="25%" style:color="#000000"/> 
+</style:page-layout-properties> 
+<style:header-style/> <style:footer-style/> </style:page-layout> 
+ 
+</office:automatic-styles>     <office:body><office:text>
+<!--begin maketitle-->
+                                                                                
+
+                                                                                
+                                                                                
+
+                                                                                
+<text:p text:style-name="Title" ><text:span 
+text:style-name="cmr-17x-x-120">Joint Action:</text:span><text:line-break/>
+<text:span 
+text:style-name="cmr-17x-x-120">Shared Intentions and Collective Goals</text:span></text:p>
+     <text:p text:style-name="author" ><text:span 
+text:style-name="cmr-12x-x-120">Stephen A. Butterfill</text:span>
+ <text:span 
+text:style-name="cmr-12x-x-120"><text:s/>s.butterfill@warwick.ac.uk</text:span></text:p>
+<text:p text:style-name="date" ><text:span 
+text:style-name="cmr-12x-x-120">January 18, 2011</text:span></text:p>
+   <!--end maketitle-->
+   <text:section text:style-name="begin-end-env" text:name="begin-end-env-1" ><text:p text:style-name="begin-env-p" ></text:p><!--begin center-->
+<text:p text:style-name="abstract-title" >
+<text:span 
+text:style-name="cmbx-10x-x-109">Abstract</text:span></text:p>
+<text:p text:style-name="end-env-p" ></text:p></text:section><!--end center-->
+      <text:p text:style-name="abstract">    <text:span 
+text:style-name="cmr-10x-x-109">A joint action is a goal-directed action, or something resembling one,</text:span>
+      <text:span 
+text:style-name="cmr-10x-x-109">comprising two or more agents&#x2019; goal-directed activities. What is the relation</text:span>
+      <text:span 
+text:style-name="cmr-10x-x-109">between  a  joint  action  and  the  goal  (or  goals)  to  which  it  is  directed?</text:span>
+      <text:span 
+text:style-name="cmr-10x-x-109">Standard  answers  to  this  question  take  for  granted  that  this  relation</text:span>
+      <text:span 
+text:style-name="cmr-10x-x-109">invariably involves shared intention. Yet research in both psychology and</text:span>
+      <text:span 
+text:style-name="cmr-10x-x-109">philosophy reveals the existence of goal-directed joint actions without shared</text:span>
+      <text:span 
+text:style-name="cmr-10x-x-109">intentions. Making sense of this research requires an account of the relation</text:span>
+      <text:span 
+text:style-name="cmr-10x-x-109">between joint actions and their goals invoking nothing like shared intention.</text:span>
+      <text:span 
+text:style-name="cmr-10x-x-109">This paper provides such an account by introducing the notion of a collective</text:span>
+      <text:span 
+text:style-name="cmr-10x-x-109">goal.  Collective  goals  are  a  necessary  but  neglected  building  block  for</text:span>
+      <text:span 
+text:style-name="cmr-10x-x-109">research, both theoretical and empirical, on joint action.</text:span>
+</text:p>
+<t4htlink 
+ href="#x1-2r1" name="x1-2r1"></t4htlink>
+                                                                                
+
+                                                                                
+<!--start of section--><text:h text:style-name="Heading-2" text:outline-level="2" ><text:span text:style-name="section" >1.    </text:span><t4htlink 
+href="#x1-10001" name="x1-10001"></t4htlink>Introduction</text:h> 
+
+<!--l. 36--><text:p text:style-name="Text-body">A joint action is a goal-directed action, or something resembling one, comprising two or
+more agents&#x2019; goal-directed activities. What is the relation between a joint action and
+the goal (or goals) to which it is directed? Answering this question is necessary for
+saying what joint actions are and for understanding in what senses, if any, they are
+actions.
+</text:p> 
+<!--l. 42--><text:p text:style-name="First-line-indent">   To illustrate, suppose Ayesha and Beatrice between them lift a table thereby
+releasing a cat whose paws were trapped and, simultaneously, breaking a glass. On
+standard theories of events, the event which initiated the cat&#x2019;s release is identical to the
+event which initiated the glass&#x2019; destruction (<t4htlink 
+href="#XDavidson:1969ie">Davidson</t4htlink><text:s/><t4htlink 
+href="#XDavidson:1969ie">1969</t4htlink>). But observing this joint
+action we might wonder whether its goal was the release of the cat or the destruction of
+the glass (or both); and if we are in doubt about this then in an important sense
+we don&#x2019;t yet know which action Ayesha and Beatrice performed. To identify
+their action we need not only a concrete event, something with temporal and
+spatial properties, but also an abstract outcome such as that of the cat&#x2019;s release
+(<t4htlink 
+href="#XDavidson:1971fz">Davidson</t4htlink><text:s/><t4htlink 
+href="#XDavidson:1971fz">1971</t4htlink>).
+</text:p> 
+<!--l. 44--><text:p text:style-name="First-line-indent">   Ayesha, asked about the table lifting episode, might insist, &#x2018;The goal of our
+intervention wasn&#x2019;t to smash the glass but to free the cat.&#x2019; (Note that this statement
+concerns the goal of an action and does not explicitly mention the agents&#x2019; intention.)
+Applied to this example, the question can be put like this. What is it for the goal of
+Ayesha and Beatrice&#x2019;s action to be that of releasing the cat rather than that of breaking
+the glass?
+</text:p> 
+<!--l. 46--><text:p text:style-name="First-line-indent">   The term &#x2018;goal&#x2019; has been used for outcomes, whether possible or actual, as in
+phrases like &#x2018;the goal of our struggles&#x2019;. The same term has also been used, perhaps
+improperly, for psychological states; it is in this second sense that agents&#x2019; goals might
+cause their actions. In this paper the term &#x2018;goal&#x2019; is used in the former sense only,
+and the terms &#x2018;goal-outcome&#x2019; and &#x2018;goal-state&#x2019; are occasionally used to stress
+the distinction. Our question is about how joint actions are related to their
+goal-outcomes.
+</text:p> 
+<!--l. 48--><text:p text:style-name="First-line-indent">   The term &#x2018;joint action&#x2019; also needs clarification. This term might be used in different
+ways, much as the term &#x2018;action&#x2019; sometimes encompasses habitual actions or motor
+behaviours but in other cases is used more narrowly to refer to intentional
+actions only. Sometimes &#x2018;joint action&#x2019; and related terms are used intuitively. One
+difficulty with relying exclusively on intuition is that different people seem to
+have incompatible intuitions about which events are joint actions. We can
+mitigate this difficulty with a stipulation. We are presently interested in how
+actions relate to goals and, specifically, in the possibility that the involvement of
+multiple agents complicates a true account of this relation. Accordingly we
+stipulate a sufficient condition for joint action. For multiple agents&#x2019; purposive
+activities to constitute a joint action it is sufficient that there is a single goal to
+                                                                                
+
+                                                                                
+which these activities are directed where this is not, or not only, a matter of
+each agent&#x2019;s activities individually being directed to that goal. (We return to
+consider whether this condition is really sufficient for joint action in section<text:s/><t4htlink 
+href="#x1-60006">6<!--tex4ht:ref: section_objection --></t4htlink> on
+page<text:s/><t4htlink 
+href="#x1-60006">17</t4htlink>.)
+</text:p> 
+<!--l. 55--><text:p text:style-name="First-line-indent">   So how are joint actions related to their goal-outcomes? For individual (that is, not
+joint) action, the counterpart of this question has a standard answer. In barest outline,
+an individual action consists in an agent acting on an intention (a goal-state). The
+intention has a content which specifies an outcome. This outcome is a goal of the action.
+It is a goal of the action in virtue of being specified by an intention the agent is acting
+on.
+</text:p> 
+<!--l. 62--><text:p text:style-name="First-line-indent">   How do things stand in the case of joint action? Can we extend the standard answer
+from individual to joint action?
+</text:p> 
+<!--l. 64--><text:p text:style-name="First-line-indent">   The usual way of thinking about joint action starts with the premise that all
+significant cases of joint action involve shared intention. This is taken for granted by
+Alonso: </text:p> 
+<text:section text:style-name="begin-end-env" text:name="begin-end-env-2" ><text:p text:style-name="begin-env-p" ></text:p>
+      <!--l. 66--><text:p text:style-name="quote" >&#x2018;the key property of joint action lies in its internal component [...] in
+      the participants having a collective or shared intention.&#x2019; (<t4htlink 
+href="#Xalonso_shared_2009">Alonso</t4htlink><text:s/><t4htlink 
+href="#Xalonso_shared_2009">2009</t4htlink>,
+      pp. 444-5)</text:p>
+<text:p text:style-name="end-env-p" ></text:p></text:section>
+<!--l. 68--><text:p text:style-name="First-line-indent">   And Gilbert is explicit on this point: </text:p> 
+<text:section text:style-name="begin-end-env" text:name="begin-end-env-3" ><text:p text:style-name="begin-env-p" ></text:p>
+      <!--l. 70--><text:p text:style-name="quote" >&#x2018;I take a collective action to involve a collective intention.&#x2019; (<t4htlink 
+href="#XGilbert:2006wr">Gilbert</t4htlink><text:s/><t4htlink 
+href="#XGilbert:2006wr">2006</t4htlink>,
+      p.<text:s/>5)<t4htlink 
+ href="#x1-1001f1" name="x1-1001f1"></t4htlink><text:note 
+text:note-class="footnote" text:id="fn1x0"><text:note-citation>1</text:note-citation><text:note-body> <text:p 
+text:style-name="Footnote"><text:span 
+text:style-name="cmr-10">For the purposes of this paper we can treat &#x2018;collective intention&#x2019; as synonymous with</text:span>
+<text:span 
+text:style-name="cmr-10">&#x2018;shared intention&#x2019;. In introducing the term &#x2018;collective action&#x2019;, Gilbert stipulates that collective</text:span>
+<text:span 
+text:style-name="cmr-10">action involves more than multiple agents performing concurrent actions while leaving open what</text:span>
+<text:span 
+text:style-name="cmr-10">more is involved (p.</text:span><text:span 
+text:style-name="cmr-10"><text:s/>4). As this matches the sufficient condition for joint action we gave above,</text:span>
+<text:span 
+text:style-name="cmr-10">we assume that joint actions of the sort we are concerned with are collective actions. </text:span></text:p></text:note-body></text:note></text:p>
+<text:p text:style-name="end-env-p" ></text:p></text:section>
+<!--l. 76--><text:p text:style-name="First-line-indent">   But what is shared intention? In barest outline, shared intentions are supposed to do
+for multiple agents some of what ordinary intentions do for individuals. So, like an
+ordinary intention, a shared intention coordinates plans and activities&#x2014;with the
+difference that these are the plans and activities of multiple agents performing a joint
+action (<t4htlink 
+href="#XBratman:1993je">Bratman</t4htlink><text:s/><t4htlink 
+href="#XBratman:1993je">1993</t4htlink>).
+</text:p> 
+<!--l. 80--><text:p text:style-name="First-line-indent">   Notions of shared intention provide a straightforward way to extend the standard
+theory about the relation between individual actions and their goal-outcomes to the
+case of joint action. Given a notion of shared intention and an account of what it is
+for agents to act on a shared intention, the standard theory is extended by
+                                                                                
+
+                                                                                
+substituting shared for individual intentions. The shared intention specifies an
+outcome. This outcome is a goal to which the joint action is directed in virtue of
+being the outcome specified by a shared intention on which the agents are
+acting.
+</text:p> 
+<!--l. 84--><text:p text:style-name="First-line-indent">   While there is debate on what shared intention is (e.g. <t4htlink 
+href="#XKutz:2000si">Kutz</t4htlink><text:s/><t4htlink 
+href="#XKutz:2000si">2000</t4htlink>; <t4htlink 
+href="#XTollefsen:2005vh">Tollefsen</t4htlink><text:s/><t4htlink 
+href="#XTollefsen:2005vh">2005</t4htlink>;
+<t4htlink 
+href="#Xgilbert_walking_1990">Gilbert</t4htlink><text:s/><t4htlink 
+href="#Xgilbert_walking_1990">1990</t4htlink>; <t4htlink 
+href="#Xmiller_social_2001">Miller</t4htlink><text:s/><t4htlink 
+href="#Xmiller_social_2001">2001</t4htlink>, pp.<text:s/>74&#x2013;81; <t4htlink 
+href="#Xtuomela_collective_2000">Tuomela</t4htlink><text:s/><t4htlink 
+href="#Xtuomela_collective_2000">2000</t4htlink>), there have been few attempts to
+explain the relation between joint actions and their goals which involve nothing like shared
+intention.<t4htlink 
+ href="#x1-1002f2" name="x1-1002f2"></t4htlink><text:note 
+text:note-class="footnote" text:id="fn2x0"><text:note-citation>2</text:note-citation><text:note-body> <text:p 
+text:style-name="Footnote"><text:span 
+text:style-name="cmr-10">One exception, which differs from the present work in motivation and substance, is</text:span>
+<t4htlink 
+href="#XRoth:2004ki"><text:span 
+text:style-name="cmr-10">Roth</text:span></t4htlink><text:span 
+text:style-name="cmr-10"><text:s/>(</text:span><t4htlink 
+href="#XRoth:2004ki"><text:span 
+text:style-name="cmr-10">2004</text:span></t4htlink><text:span 
+text:style-name="cmr-10">). </text:span></text:p></text:note-body></text:note>
+Our objective is to show that, for at least some forms of joint action, the relations
+between a joint action and the goal or goals to which it is directed involve nothing like
+shared intention. We first motivate pursuit of this objective.
+<t4htlink 
+ href="#x1-1003r1" name="x1-1003r1"></t4htlink>
+</text:p> 
+<!--start of section--><text:h text:style-name="Heading-2" text:outline-level="2" ><text:span text:style-name="section" >2.    </text:span><t4htlink 
+href="#x1-20002" name="x1-20002"></t4htlink>Motivation</text:h> 
+
+<!--l. 96--><text:p text:style-name="Text-body">Why investigate the possibility of relations between joint actions and their goals which
+involve nothing like shared intention?
+</text:p> 
+<!--l. 98--><text:p text:style-name="First-line-indent">   In focussing on shared intention the philosophers&#x2019; approaches to joint action stand in
+stark contrast to psychological research on how joint action is possible. To illustrate,
+Schmidt and colleagues assert in passing that &#x2018;many joint actions occur spontaneously
+or automatically without the participants being consciously aware of their
+coordination with each other&#x2019; (<t4htlink 
+href="#Xschmidt_understanding_2010">2010</t4htlink>, p. 7). Similarly, Vesper and colleagues, in
+offering a &#x2018;minimal architecture&#x2019; for joint action, are able to take for granted
+that shared intention is a feature only of sophisticated forms of joint action
+(<t4htlink 
+href="#Xvesper_minimal_2010">Vesper et<text:s/>al.</t4htlink><text:s/><t4htlink 
+href="#Xvesper_minimal_2010">2010</t4htlink>). This view is implicit in a range of scientific research about
+joint action in which shared intention plays no role (as reviewed in<text:s/><t4htlink 
+href="#XKnoblich:2010fk">Knoblich
+et<text:s/>al.</t4htlink><text:s/><t4htlink 
+href="#XKnoblich:2010fk">2010</t4htlink>;<text:s/><t4htlink 
+href="#XSebanz:2006yq">Sebanz et<text:s/>al.</t4htlink><text:s/><t4htlink 
+href="#XSebanz:2006yq">2006</t4htlink>). This research focuses on mechanisms coordinating
+activities including entrainment, motor emulation and task co-representation. While it is
+sometimes acknowledged that shared intention could also play a role in coordinating
+some joint actions (e.g.<text:s/><t4htlink 
+href="#XKnoblich:2008hy">Knoblich &#x0026; Sebanz</t4htlink><text:s/><t4htlink 
+href="#XKnoblich:2008hy">2008</t4htlink>), this is never held to be
+essential.
+</text:p> 
+<!--l. 109--><text:p text:style-name="First-line-indent">   On the surface claims that there are joint actions without shared intentions are puzzling.
+The puzzle is not that, as we have seen, some philosophers stipulate that joint action
+involves shared intention; this might be incorrect or only terminological. Rather, the puzzle
+is this. It agreed on all sides that the joint actions of interest are, or resemble, goal-directed
+actions.<t4htlink 
+ href="#x1-2001f3" name="x1-2001f3"></t4htlink><text:note 
+text:note-class="footnote" text:id="fn3x0"><text:note-citation>3</text:note-citation><text:note-body> <text:p 
+text:style-name="Footnote"><text:span 
+text:style-name="cmr-10">Just as the term &#x2018;action&#x2019; is sometimes used to encompass events which are not goal-directed</text:span>
+<text:span 
+text:style-name="cmr-10">(e.g.</text:span><text:span 
+text:style-name="cmr-10"><text:s/></text:span><t4htlink 
+href="#XHursthouse:1991rd"><text:span 
+text:style-name="cmr-10">Hursthouse</text:span></t4htlink><text:span 
+text:style-name="cmr-10"><text:s/></text:span><t4htlink 
+href="#XHursthouse:1991rd"><text:span 
+text:style-name="cmr-10">1991</text:span></t4htlink><text:span 
+text:style-name="cmr-10">), we allow that there might be forms of joint action which are not goal-directed.</text:span>
+<text:span 
+text:style-name="cmr-10">The present point is only that some of the joint actions studied in the psychological research cited</text:span>
+<text:span 
+text:style-name="cmr-10">above are goal-directed. </text:span></text:p></text:note-body></text:note>
+In particular, it is agreed that for several agents&#x2019; activities to constitute a joint action
+there must be a goal to which these activities taken together are directed. And,
+trivial cases aside, their activities being directed to this goal cannot consist
+                                                                                
+
+                                                                                
+entirely in each agent&#x2019;s activities being individually directed to the goal. The
+puzzle is to understand how two or more agents&#x2019; activities could be collectively
+directed to a goal without the agents sharing an intention. We need to solve
+this puzzle in order to properly understand the claim that some joint actions
+do not involve anything like shared intention. This puzzle is what motivates
+investigating relations between joint actions and their goals not involving shared
+intention.
+</text:p> 
+<!--l. 127--><text:p text:style-name="First-line-indent">   A surprisingly common response to the puzzle is to insist that it has no bearing on
+philosophical questions about joint action on the grounds that the psychologists are not
+investigating joint action in the philosophers&#x2019; sense and that their research is not
+relevant to philosophical issues concerning joint action. While it is probably true that
+the term &#x2018;joint action&#x2019; is used in a variety of senses (even between narrowly
+philosophical discussions), there are several reasons to reject this response. One is that,
+contrary to what is often assumed, philosophers invoke several notions of joint action
+and have raised a variety of questions about them (contrast <t4htlink 
+href="#XBratman:2009lv">Bratman</t4htlink><text:s/><t4htlink 
+href="#XBratman:2009lv">2009</t4htlink>, <t4htlink 
+href="#XGold:2007zd">Gold &#x0026;
+Sugden</t4htlink><text:s/><t4htlink 
+href="#XGold:2007zd">2007</t4htlink>, <t4htlink 
+href="#Xmiller_social_2001">Miller</t4htlink><text:s/><t4htlink 
+href="#Xmiller_social_2001">2001</t4htlink>, <t4htlink 
+href="#XPacherie:2010fk">Pacherie</t4htlink><text:s/><t4htlink 
+href="#XPacherie:2010fk">2010</t4htlink>, and <t4htlink 
+href="#Xtuomela_we-intentions_2005">Tuomela</t4htlink><text:s/><t4htlink 
+href="#Xtuomela_we-intentions_2005">2005</t4htlink>). There is no
+reason to assume that all of these notions and questions must be unrelated to
+psychological discoveries. There is also a form of interdependence between the
+philosophical and scientific research. The scientific research is often aimed at
+understanding forms of joint action including the most sophisticated as characterised
+by philosophers. Conversely, the philosophical research is usually aimed at
+characterising forms of joint action that are in some way important to ordinary humans
+(e.g.<text:s/><t4htlink 
+href="#XBratman:1992mi">Bratman</t4htlink><text:s/><t4htlink 
+href="#XBratman:1992mi">1992</t4htlink>, p.<text:s/>327), which means that accounts of what joint action is
+need to be anchored in empirical phenomena. To illustrate, it is relatively
+uncontroversial that shared intentions play a role in coordinating agents&#x2019; activities. As
+mentioned above, several other mechanisms are also involved in coordinating
+agents&#x2019; activities. It is unlikely that shared intentions can be fully understood if
+treated in isolation from other factors responsible for coordination (the same
+is probably true for ordinary, non-shared intentions and other factors in the
+control of non-joint action). Instead we need to understand how the several
+sources of coordination in joint action combine in making effective joint action
+possible. This is not to deny that joint action can usefully studied by philosophers
+in isolation. Our claim is only that fully understanding both what it is and
+how it happens will involve correctly interpreting current and future empirical
+discoveries.
+</text:p> 
+<!--l. 147--><text:p text:style-name="First-line-indent">   Difficulties in grasping the relevance of psychological to philosophical research on
+joint action (and conversely) reflect deficiencies in understanding the phenomena.
+Removing these difficulties requires analysing forms of joint action without shared
+intention.
+</text:p> 
+<!--l. 150--><text:p text:style-name="First-line-indent">   There is also non-scientific motivation for investigating how joint actions might be
+                                                                                
+
+                                                                                
+related to their goals other than by shared intention. Petersson offers an a
+priori argument for the possibility of joint action without shared intention
+(<t4htlink 
+href="#Xpetersson_collectivity_2007">Petersson</t4htlink><text:s/><t4htlink 
+href="#Xpetersson_collectivity_2007">2007</t4htlink>), but his argument concerns only forms of activity so primitive that
+they require agency it at most a highly attenuated sense. It is perhaps an interesting
+question in its own right whether we can make sense of the possibility that
+there are richer forms of joint action without shared intention. Answering this
+question may be relevant to understanding the distinctive value of joint actions
+involving shared intention. Further, it is a plausible assumption that characterising
+joint action involving shared intention will require appeal to forms of joint
+action not involving shared intention. In a groundbreaking study, Searle (<t4htlink 
+href="#XSearle:1990em">1990</t4htlink>)
+notes that shared intentions must be about an activity which in fact involves
+multiple agents but cannot, on pain of circularity or violation of constraints on
+well-foundedness, be characterised in ways that presuppose shared intention. This
+suggests that some shared intentions will involve contents that pick out actions
+potentially involving multiple agents but not involving shared intentions. This does
+not require the existence of joint actions without shared intentions, but it
+does require descriptions of what are in fact joint actions without reference to
+shared intention. Consequently it is possible that analysing joint action without
+shared intention will support claims concerning what shared intentions are
+about.
+</text:p> 
+<!--l. 160--><text:p text:style-name="First-line-indent">   We have seen that there are several reasons why an explanation of how joint actions
+relate to their goals not involving shared intention is needed. That such an explanation
+is needed does not entail that an explanation involving shared intention is incorrect. For
+all that we have said here, different joint actions may be related to their goals in
+different ways. Returning briefly to the case of individual action for comparison, there
+are accounts of the relation between actions and their goals not involving intentions or
+goal-states of any kind (e.g. <t4htlink 
+href="#XBennett:1976rg">Bennett</t4htlink><text:s/><t4htlink 
+href="#XBennett:1976rg">1976</t4htlink>; <t4htlink 
+href="#XButterfill:2001kc">Butterfill</t4htlink><text:s/><t4htlink 
+href="#XButterfill:2001kc">2001</t4htlink>; <t4htlink 
+href="#XSchueler:2003fk">Schueler</t4htlink><text:s/><t4htlink 
+href="#XSchueler:2003fk">2003</t4htlink>;
+<t4htlink 
+href="#XTaylor:1964tr">Taylor</t4htlink><text:s/><t4htlink 
+href="#XTaylor:1964tr">1964</t4htlink>). These accounts are not invariably motivated by scepticism about
+intention or about the standard theory. Rather, the motivating claim is sometimes
+that, while many goal-directed actions do involve intentions, there are also
+goal-directed actions not involving intentions. If this were correct it would arguably be
+necessary to develop multiple approaches to characterising the relation between
+individual actions and their goals, some involving intentions and some not involving
+intentions. Independently of whether or not this is correct in the individual case,
+something similar may be true in the case of joint action. For this reason we
+do not claim that accounts of the relation between joint actions and their
+goals are incorrect. Our claim is just that such accounts are either incorrect or
+incomplete.
+</text:p> 
+<!--l. 170--><text:p text:style-name="First-line-indent">   This paper provides an account of how joint actions relate to their goals without
+invoking anything like shared intentions. Its purpose is to provide a conceptual
+                                                                                
+
+                                                                                
+framework for research on joint actions without shared intentions, just as an account of
+shared intention provides a framework for investigation of joint action involving shared
+intention (<t4htlink 
+href="#XBratman:2009lv">Bratman</t4htlink><text:s/><t4htlink 
+href="#XBratman:2009lv">2009</t4htlink>, p.<text:s/>150).
+<t4htlink 
+ href="#x1-2002r2" name="x1-2002r2"></t4htlink>
+</text:p> 
+<!--start of section--><text:h text:style-name="Heading-2" text:outline-level="2" ><text:span text:style-name="section" >3.    </text:span><t4htlink 
+href="#x1-30003" name="x1-30003"></t4htlink>Distributive Goals</text:h> 
+
+<!--l. 188--><text:p text:style-name="Text-body">How can we explain the relation between some joint actions and their goals without
+invoking shared intentions? In this section we take a first step; the question is answered
+in the next section.
+</text:p> 
+<!--l. 190--><text:p text:style-name="First-line-indent">   In many (perhaps all) cases of joint action there is a single outcome to which each
+agent&#x2019;s activities are individually directed such that the following is possible: all of the
+agents&#x2019; activities succeed. Let a <text:span text:style-name="Emphasis" ><text:span 
+text:style-name="cmti-12">distributive goal</text:span></text:span> of a joint action, or of a collection
+of goal-directed activities, be any such outcome. To illustrate, suppose that
+many revellers at a village festival jump into a single boat each with the aim of
+sinking it, where each reveller&#x2019;s aim would be met if the boat were to sink
+under their collective weight. That the boat sink is a distributive goal of their
+activities.
+</text:p> 
+<!--l. 195--><text:p text:style-name="First-line-indent">   The notion of a distributive goal is not by itself enough to explain how joint
+actions relate to their goals. It is only one ingredient in the explanation we
+offer (see section<text:s/><t4htlink 
+href="#x1-40004">4<!--tex4ht:ref: section_collective --></t4htlink> on page<text:s/><t4htlink 
+href="#x1-40004">12</t4htlink>). The rest of this section highlights features of
+distributive goals which are straightforward but have sometimes occasioned
+misunderstanding.
+</text:p> 
+<!--l. 199--><text:p text:style-name="First-line-indent">   Where agents act on a shared intention, their activities often or always (depending
+on what shared intentions are) have a distributive goal. But the notion of a distributive
+goal is much broader; in many cases there are distributive goals but no shared intention.
+Winfred works in the library of an embassy currently under attack. He is setting fire to
+papers with the intention of destroying all the secret documents before they can be
+captured. With all the smoke and noise of the attack Winfred has no idea
+whether he is working alone or whether colleagues are acting on the same
+goal, nor does he have time to reflect on this. It happens that several of his
+colleagues have had the same idea and are destroying documents nearby with
+the same goal as Winfred. In this case there is no shared intention because
+none of the agents are aware of any of the others and none know that they
+are not acting alone. In fact Winfred and his colleagues&#x2019; activities arguably
+do not constitute a joint action. But their activities do have a distributive
+goal.
+</text:p> 
+<!--l. 210--><text:p text:style-name="First-line-indent">   Note that multiple agents&#x2019; activities do not have a distributive goal just in virtue of
+the agents&#x2019; actions being directed to similar outcomes or to outcomes of the
+same type. In an example from Searle (<t4htlink 
+href="#XSearle:1990em">1990</t4htlink>, p.<text:s/>92), rain causes park visitors
+simultaneously to take cover under a central shelter. Suppose that each visitor&#x2019;s activity
+is directed to a similar but distinct outcome, namely her own arrival at the
+                                                                                
+
+                                                                                
+shelter. This is not sufficient for the visitors&#x2019; activities to have a distributive
+goal.
+</text:p> 
+<!--l. 212--><text:p text:style-name="First-line-indent">   The notion of a distributive goal has applications in observation of action where
+observers have limited knowledge of the agents&#x2019; mental states. In everyday life many
+people readily assign goals to the activities of pluralities. Tyrone and Anne are looking
+out of the window in a city to whose customs they are both strangers. Anne asks what
+<text:span text:style-name="Emphasis" ><text:span 
+text:style-name="cmti-12">those people</text:span></text:span> with the brushes are doing and Tyrone replies by saying that <text:span text:style-name="Emphasis" ><text:span 
+text:style-name="cmti-12">they</text:span></text:span> are
+clearing the street of glass. Tyrone&#x2019;s reply is naturally interpreted as identifying a
+distributive goal of their activities rather than (say) the contents of any agents&#x2019;
+intentions. On this interpretation, the plural prediction involves almost no
+commitments beyond those that would be incurred by talking about each agent
+individually.
+</text:p> 
+<!--l. 218--><text:p text:style-name="First-line-indent">   As specified in the above definition, for two or more agents&#x2019; activities to have a
+distributive goal the relation between each agent&#x2019;s activities and the goal must be such
+that it is possible for all agents&#x2019; activities to succeed relative to this goal. To
+illustrate, take Sam and Marnie who are among the revellers at the village festival
+mentioned above. There is a boat which Sam and Marnie each individually intend
+to sink. Arguably there are two ways of further specifying this situation. It
+may be that Sam&#x2019;s and Marine&#x2019;s intentions are incompatible in the sense that
+they cannot both be realised; each would have to be the sole sinker of this
+particular boat to succeed. Alternatively, it may be that Sam&#x2019;s and Marnie&#x2019;s
+intentions are compatible in the sense that it is possible for both to be be
+fulfilled; they could both succeed by sinking the boat together. Only in the
+latter case would Sam&#x2019;s and Marnie&#x2019;s boat sinking activities have a distributive
+goal.
+</text:p> 
+<!--l. 223--><text:p text:style-name="First-line-indent">   Where an agent or her activities are related to a goal in such a way that the agent
+could succeed relative to this goal in some situations where other agents were also
+successful relative to the same goal, let us say that this goal relation is <text:span text:style-name="Emphasis" ><text:span 
+text:style-name="cmti-12">compatible with</text:span>
+<text:span 
+text:style-name="cmti-12">others&#x2019; success</text:span></text:span>. We have just noted that distributive goals by definition require
+compatibility with others&#x2019; success.
+</text:p> 
+<!--l. 226--><text:p text:style-name="First-line-indent">   How is this compatibility achieved? How could the relation between Sam&#x2019;s activities
+and the goal be such as to allow both Sam and Marnie to succeed in sinking the boat?
+One possibility involves Sam having an intention which is explicitly neutral concerning
+others&#x2019; success. For example, Sam might intend that he sink the boat either alone or
+with any other revellers. A second, more interesting possibility is that Sam&#x2019;s intention is
+simply an intention to sink the boat. This intention does not specify who will sink the
+boat; it is not the intention that he, Sam, sink the boat. Of course, the fact
+that this intention is Sam&#x2019;s intention means that Sam will have to be among
+the sinkers of the boat to succeed. So Sam&#x2019;s overall relation to the goal is
+such that his involvement is required for its fulfilment, even though this is
+                                                                                
+
+                                                                                
+not specified in the content of his intention. It does not follow that Sam&#x2019;s
+intention or any other aspect of his relation to the goal requires him to be the sole
+sinker of the boat in order to succeed. We can allow that there may be ways of
+elaborating the story about Sam on which his success requires him to sink
+the boat alone. But there are also ways of elaborating the story such that
+this is not a requirement&#x2014;being well into the festive spirit, Sam has given no
+thought at all to whether others will sink the boat, and there are no relevant
+conventions or norms. The existence of these elaborations shows that to be
+related to a goal in a way that is compatible with others&#x2019; success does not
+require having intentions whose contents explicitly involve agents. In some
+conditions, acting on an intention whose content does not involve agency is
+sufficient for being related to a goal in a way that is compatible with others&#x2019;
+success.
+</text:p> 
+<!--l. 239--><text:p text:style-name="First-line-indent">   On standard accounts of shared intention, compatibility with others&#x2019; success involves
+the first of these two possibilities, that is, an intention whose contents explicitly involves
+other agents. For instance, on Bratman&#x2019;s account of shared intention our sharing an
+intention to paint a house involves us each intending that <text:span text:style-name="Emphasis" ><text:span 
+text:style-name="cmti-12">we</text:span></text:span> paint the house
+(<t4htlink 
+href="#XBratman:1992mi">Bratman</t4htlink><text:s/><t4htlink 
+href="#XBratman:1992mi">1992</t4htlink>, p.<text:s/>333). We have just been arguing that compatibility with others&#x2019;
+success does not require intentions with contents that explicitly involve agency. This
+matters because we are concerned with forms of joint action that require little
+conceptual sophistication. Eventually we shall show that inability to represent other
+agents as agents is no bar to engaging in some forms of joint action (that is, to engaging
+in some goal-directed actions comprising two or more agents&#x2019; goal-directed
+activities). For now the point is just that distributive goals, despite requiring
+compatibility with others&#x2019; success, do not require abilities to represent other agents as
+agents.
+</text:p> 
+<!--l. 246--><text:p text:style-name="First-line-indent">   For readers who doubt that compatibility with others&#x2019; success is really possible
+unless the contents of agents&#x2019; intentions explicitly allow for it, we offer two
+considerations. The first is an imaginative exercise. Luke&#x2019;s goal is to destroy the brick
+wall of a neighbour&#x2019;s front garden. He passes this wall every day. In order to escape
+detection he removes a little of the pointing from the wall every time he passes it. Over
+time his activities destabilise the wall and it collapses. As we have described this
+situation, it is of course possible to elaborate it further, adding features which render
+Luke&#x2019;s relation to the goal incompatible with others&#x2019; success. But no such
+features need be present and we shall stipulate that they are absent. Now
+consider the possibility that after the wall collapses, Luke discovers to his surprise
+that an acquaintance had the same goal and, with no knowledge of Luke&#x2019;s
+intention or activities, has been working to the same end as Luke. Whether this
+possibility is actual seems to have no bearing on Luke&#x2019;s success relative to his
+goal; to know that Luke has succeeded we do not have to know that no other
+                                                                                
+
+                                                                                
+agents were involved. This is so even though Luke&#x2019;s goal was simply to destroy
+the wall and did not explicitly involve agency. The gradual nature of these
+activities makes the possibility vivid, but many less gradual actions such as getting
+a car back onto the road or catching a particular throw are no different in
+principle.
+</text:p> 
+<!--l. 259--><text:p text:style-name="First-line-indent">   The second consideration is that intentions can be neutral on a wide variety of issues
+concerning how a goal is achieved. To return to Luke&#x2019;s destruction of the wall, our
+description is consistent with neutrality on a wide variety of contributing factors. Luke&#x2019;s
+success in destroying the wall is independent of whether design faults also contribute
+to its fall, and of contributions from bad weather, moss or bacteria. (Such
+contributions may lessen his responsibility but, given our description of the
+situation, they would not prevent his success.) Luke&#x2019;s success is also clearly
+independent of whether other agents with different goals are involved in the wall&#x2019;s
+destruction. One person sits on the wall to rest her legs, another displays bravado by
+kicking it in front of her friends while a third removes some pointing in order
+to conceal chewing gum. All three contribute to the wall&#x2019;s destruction, but
+not in a way that prevents Luke from fulfilling his intention to destroy the
+wall. Given that Luke&#x2019;s relation to the goal can be compatible with potential
+contributions such as these, it seems clear that it can also be compatible with
+others&#x2019; success even where what the others intend is the same as what Luke
+intends.
+</text:p> 
+<!--l. 268--><text:p text:style-name="First-line-indent">   Some goals do not allow for compatibility with others&#x2019; success. For instance, if
+Andrew intends to win a certain prize and the competition is structured in such a way
+that ties are impossible, then compatibility with others&#x2019; success is impossible. But for
+many goals&#x2014;eating a certain pizza, lifting a heavy block, and so on&#x2014;compatibility with
+respect to others&#x2019; success is possible.
+</text:p> 
+<!--l. 271--><text:p text:style-name="First-line-indent">   Where multiple agents&#x2019; activities have a distributive goal there is a sense in which
+their activities are directed to a goal. But this may amount only to each agent&#x2019;s
+activities being individually directed to that goal. In that case, the question about how
+joint actions relate to their goals would not be interestingly different from the
+parallel question about individual actions. To make the joint version of the
+question interestingly different, we need cases where multiple agents&#x2019; activities
+being directed to a goal is not, or not only, a matter of each agent&#x2019;s activities
+individually being directed to that goal. What, in addition to a distributive
+goal, could be involved in two or more agents&#x2019; activities being directed to a
+goal?
+<t4htlink 
+ href="#x1-3001r3" name="x1-3001r3"></t4htlink>
+</text:p> 
+<!--start of section--><text:h text:style-name="Heading-2" text:outline-level="2" ><text:span text:style-name="section" >4.    </text:span><t4htlink 
+href="#x1-40004" name="x1-40004"></t4htlink>Collective Goals</text:h> 
+
+<!--l. 280--><text:p text:style-name="Text-body">Let an outcome, possible or actual, be a <text:span text:style-name="Emphasis" ><text:span 
+text:style-name="cmti-12">collective goal </text:span></text:span> of a joint action, or of any
+collection of goal-directed activities, where three conditions are met: (a) this outcome is
+                                                                                
+
+                                                                                
+a distributive goal of the activities; (b) the activities are coordinated; and
+(c) occurrences of an outcome of this type would normally be facilitated by
+coordination of this type. Examples of activities that typically have collective goals
+include uprooting a small tree together and tickling a baby together to make it
+laugh.
+</text:p> 
+<!--l. 282--><text:p text:style-name="First-line-indent">   The notion of a collective goal assumes that of coordination. This should be
+understood in a very broad sense. If some knights tasked with finding a sacred cup agree
+that each will search on a different continent, their activities count as coordinated.
+Equally, when two agents between them lift a heavy block by means of each agent
+pulling on either end of a rope connected to the block via a system of pulleys, their
+pullings count as coordinated just because the rope relates the force each exerts on
+the block to the force exerted by the other. In this second case, the agent&#x2019;s
+activities are coordinated by a mechanism in their environment, the rope, rather
+than by any psychological mechanism (of course lifting the block may well
+require other, perhaps psychological, forms of coordination). By invoking a broad
+notion of coordination and invoking coordination of activities rather than of
+agents, the definition of collective goal avoids direct appeal to psychological
+states.
+</text:p> 
+<!--l. 287--><text:p text:style-name="First-line-indent">   In characterising collective goals we have appealed to facts about
+what would <text:span text:style-name="Emphasis" ><text:span 
+text:style-name="cmti-12">normally</text:span></text:span> happen (in the third clause, (c), above). The
+relevant notion of normal is teleological, rather than statistical or
+normative.<t4htlink 
+ href="#x1-4001f4" name="x1-4001f4"></t4htlink><text:note 
+text:note-class="footnote" text:id="fn4x0"><text:note-citation>4</text:note-citation><text:note-body> <text:p 
+text:style-name="Footnote"><text:span 
+text:style-name="cmr-10">Discussion of the widely applicable notion </text:span><text:span text:style-name="Emphasis" ><text:span 
+text:style-name="cmti-10">teleologically normal</text:span></text:span> <text:span 
+text:style-name="cmr-10">would take us</text:span>
+<text:span 
+text:style-name="cmr-10">too far from the present topic. See </text:span><t4htlink 
+href="#XMillikan:1984ib"><text:span 
+text:style-name="cmr-10">Millikan</text:span></t4htlink><text:span 
+text:style-name="cmr-10"><text:s/>(</text:span><t4htlink 
+href="#XMillikan:1984ib"><text:span 
+text:style-name="cmr-10">1984</text:span></t4htlink><text:span 
+text:style-name="cmr-10">, p.</text:span><text:span 
+text:style-name="cmr-10"><text:s/>33ff.) and </text:span><t4htlink 
+href="#XPrice:2001hs"><text:span 
+text:style-name="cmr-10">Price</text:span></t4htlink><text:span 
+text:style-name="cmr-10"><text:s/>(</text:span><t4htlink 
+href="#XPrice:2001hs"><text:span 
+text:style-name="cmr-10">2001</text:span></t4htlink><text:span 
+text:style-name="cmr-10">, p.</text:span><text:span 
+text:style-name="cmr-10"><text:s/>48ff.).</text:span>
+</text:p></text:note-body></text:note>
+Conceptually it would be simpler to characterise collective goals by appeal only to what
+actually happens&#x2014;that is, to replace the third clause with the requirement that the
+coordination actually facilitate the occurrence of the goal-outcome. Why is the appeal
+to what would normally happen necessary? Consider a case in which two agents&#x2019;
+activities do have a collective goal and coordination of their activities actually
+facilitates the goal-outcome&#x2019;s occurrence: John and Anika fell a tree using a
+two-handled saw. Now imagine a case which is as similar as possible to this
+one except that John becomes exhausted and they have to give up half way
+through. In this modified case the coordination of John&#x2019;s and Anika&#x2019;s activities
+does not facilitate the occurrence of the outcome (the felling of the tree). This
+is simply because the outcome does not occur. But the differences between
+the two cases are not the sorts of difference that generally determine facts
+about which goals an activity is directed to. Whether activities succeed or fail
+does not generally play any role in determining what their goals were. So an
+adequate account of collective goals must allow that agents&#x2019; activities can
+have collective goals even where they fail. This is one reason for appealing
+to what would normally happen in characterising collective goals. A second,
+                                                                                
+
+                                                                                
+more direct but less obvious reason involves external factors which render
+coordination inefficacious. For an illustration, suppose that Isabel and Rudi are in
+the habit of lifting heavy blocks by each pulling on a rope. Normally and on
+nearly all occasions either could lift any of the blocks alone but, providing their
+pullings are coordinated, the task is easier when done jointly; and no matter how
+uncoordinated they are, the way the ropes are arranged means that it is never
+normally harder for them to lift a block jointly than alone. Normally, then,
+coordination facilitates the blocks being lifted. On one exceptional occasion
+John, a third person, intervenes. John dislikes coordination between people
+and so, seeing the coordination of Isabel&#x2019;s and Rudi&#x2019;s activities, he grabs a
+rope and attempts to prevent the block being lifted. Although John fails, he
+does make the joint lifting harder than it would have been for either Isabel or
+Rudi to lift the block alone. So in this exceptional case the coordination of
+their activities hinders rather than facilitates the blocks being lifted. But this
+case, where John intervenes, does not differ from the normal cases in ways
+that are relevant to facts about the goals of the agents&#x2019; activities. For this
+reason it would be a mistake to ascribe a collective goal to Isabel&#x2019;s and Rudi&#x2019;s
+activities in the normal cases but not in the case where John intervenes. This is
+why appeal to normal conditions is a necessary in characterising collective
+goals.
+</text:p> 
+<!--l. 316--><text:p text:style-name="First-line-indent">   The word &#x2018;collective&#x2019; in &#x2018;collective goal&#x2019; should not be understood to imply
+that the agents involved constitute a collective in any social sense. Nor
+does having a collective goal imply that the agents think of themselves as
+having a collective goal. The use of &#x2018;collective&#x2019; and &#x2018;distributive&#x2019; reflects
+(but does not exactly match) the use of these terms in literature on plural
+quantification.<t4htlink 
+ href="#x1-4002f5" name="x1-4002f5"></t4htlink><text:note 
+text:note-class="footnote" text:id="fn5x0"><text:note-citation>5</text:note-citation><text:note-body> <text:p 
+text:style-name="Footnote"><text:span 
+text:style-name="cmr-10">See Linnebo (</text:span><t4htlink 
+href="#XLinnebo:2005ig"><text:span 
+text:style-name="cmr-10">2005</text:span></t4htlink><text:span 
+text:style-name="cmr-10">) for an introduction to plural quantification. On some views, the predicate</text:span>
+<text:span 
+text:style-name="cmr-10">in &#x2018;The goal of their activities was to lift this block&#x2019; could be interpreted as either distributive and</text:span>
+<text:span 
+text:style-name="cmr-10">collective. On the distributive reading, the truth of the sentence is entailed by the truth of &#x2018;For each of</text:span>
+<text:span 
+text:style-name="cmr-10">their activities, the goal of that activity was to lift this block&#x2019;. On the collective reading this entailment</text:span>
+<text:span 
+text:style-name="cmr-10">might not hold. </text:span></text:p></text:note-body></text:note>
+The point is that for multiple agents&#x2019; goal-directed activities to have a certain
+collective goal is not equivalent to each of their activities separately having that
+goal.
+</text:p> 
+<!--l. 322--><text:p text:style-name="First-line-indent">   Where a joint action or collection of goal-directed activities has a collective goal
+there is a sense in which, taken together, the activities are directed to their collective
+goal. It is not just that each agent individually pursues the collective goal; in addition,
+there is coordination among their activities which plays a role in bringing about
+the collective goal. We can put this in terms of the direction metaphor. Any
+structure or mechanism providing this coordination is directing the agents&#x2019;
+activities to the collective goal. The notion of a collective goal therefore already
+provides one way of making sense of the idea that joint actions are goal-directed
+                                                                                
+
+                                                                                
+actions.
+</text:p> 
+<!--l. 324--><text:p text:style-name="First-line-indent">   We can now explain how joint actions could be related to their goals without
+invoking shared intention. A joint action is related to the goal (or, if there is more
+than one, to a goal) to which it is directed in virtue of this goal being the
+collective goal of the joint action. The goal of a joint action is its collective
+goal.
+</text:p> 
+<!--l. 326--><text:p text:style-name="First-line-indent">   The aim of this section, and the motivation for introducing collective goals, was to
+understand how joint actions could be related to their goals in the absence of
+shared intention. Our claim is that the notion of a collective goal can be used
+to identify one way in which joint actions are related to their goals. This is
+compatible with maintaining that there are other ways in which joint actions can be
+related to their goals and that the relation we have identified does not hold in
+every case of joint action. We return to this issue in section<text:s/><t4htlink 
+href="#x1-50005">5<!--tex4ht:ref: section_collective_vs_shared --></t4htlink> on the following
+page.
+</text:p> 
+<!--l. 331--><text:p text:style-name="First-line-indent">   To sum up so far, understanding how joint actions relate to their goals requires the
+notion of a collective goal in addition to that of a shared intention.
+</text:p> 
+<!--l. 333--><text:p text:style-name="First-line-indent">   The notion of a collective goal involves too little to provide dramatic new insights
+into the nature of joint action. Why devote a whole paper to such a simple notion? One
+reason is the mystique surrounding joint action, which is sometimes introduced by
+reference to elusive notions of togetherness or jointness (compare <t4htlink 
+href="#Xgilbert_walking_1990">Gilbert</t4htlink><text:s/><t4htlink 
+href="#Xgilbert_walking_1990">1990</t4htlink> and
+<t4htlink 
+href="#XBratman:2009lv">Bratman</t4htlink><text:s/><t4htlink 
+href="#XBratman:2009lv">2009</t4htlink>, p.<text:s/>150). It is important that the puzzle about how joint actions
+could be related to their goals in the absence of shared intention can be solved
+with appeal only to minimal, uncontroversial ingredients. The existence of
+collective goals shows that we can coherently think about joint action without
+starting from underspecified notions of jointness and without invoking ideas
+of togetherness which are somehow distinct from any involved in the three
+legs of a tripod supporting a camera together. A second reason for focusing
+on collective goals is that this notion identifies a common starting point for
+different psychological approaches to joint action. There is currently much
+debate between researchers who focus on behavioural dynamics (e.g.<text:s/><t4htlink 
+href="#Xmarsh_social_2009">Marsh
+et<text:s/>al.</t4htlink><text:s/><t4htlink 
+href="#Xmarsh_social_2009">2009</t4htlink> and <t4htlink 
+href="#Xschmidt_richardons:_2008">Schmidt &#x0026; Richardson</t4htlink><text:s/><t4htlink 
+href="#Xschmidt_richardons:_2008">2008</t4htlink>) and those whose approach to
+explaining how joint action is possible primarily involves motor cognition and
+representation (e.g.<text:s/><t4htlink 
+href="#XSebanz:2005fk">Sebanz et<text:s/>al.</t4htlink><text:s/><t4htlink 
+href="#XSebanz:2005fk">2005</t4htlink> and <t4htlink 
+href="#XKnoblich:2006bn">Knoblich &#x0026; Sebanz</t4htlink><text:s/><t4htlink 
+href="#XKnoblich:2006bn">2006</t4htlink>). As
+things stand, it is sometimes hard to identify the common ground necessary
+for the two approaches to be in genuine disagreement. The account of joint
+action in terms of collective goals identifies what both approaches can agree
+on. The substantial questions concern which types of coordination exist in
+joint action, and to what extent characterising any given type of coordination
+requires appeal to general dynamical principles or to motor cognition and
+representational control structures. The notion of a collective goal, then, is offered not
+                                                                                
+
+                                                                                
+as something which already provides deep insight into what joint action is
+but as part of a minimal framework for the construction of more substantial
+accounts.
+<t4htlink 
+ href="#x1-4003r4" name="x1-4003r4"></t4htlink>
+</text:p> 
+<!--start of section--><text:h text:style-name="Heading-2" text:outline-level="2" ><text:span text:style-name="section" >5.    </text:span><t4htlink 
+href="#x1-50005" name="x1-50005"></t4htlink>Collective Goals Are Not Shared Intentions </text:h> 
+
+<!--l. 363--><text:p text:style-name="Text-body">Collective goals are conceptually distinct from shared intentions. Shared intentions are,
+or resemble, states of agents. By contrast a collective goal is primarily an attribute of
+activities, not of agents. Furthermore, a shared intention is something that coordinates
+multiple agents&#x2019; activities. Appeal to a shared intention is therefore potentially a way of
+explaining how agents coordinate their activities. By contrast, collective goals are not
+the sort of thing that can coordinate anything; their existence presupposes
+coordination. Finally, shared intentions are supposed to be shared by agents in
+something resembling the sense in which conspirators can share a secret, not only in
+the sense in which two people can share a name. It would be a distortion to
+claim that the notion of a collective goals is the notion of something agents
+share.
+</text:p> 
+<!--l. 365--><text:p text:style-name="First-line-indent">   There is a potentially more fundamental contrast between shared intentions and
+collective goals. A shared intention integrates two functions: it determines what the
+action is by specifying its goal and it coordinates agents&#x2019; activities. By contrast, no
+single element provides both functions in the account of the relation between joint
+actions and their goals which appeals to collective goals.
+</text:p> 
+<!--l. 367--><text:p text:style-name="First-line-indent">   We should not infer from this alone that there are, or even that there might be,
+shared intentions without collective goals. That collective goals and shared
+intentions are conceptually distinct does not imply that one can exist without the
+other.
+</text:p> 
+<!--l. 369--><text:p text:style-name="First-line-indent">   Even so, it may be true that agents sometimes share intentions without their
+activities having any corresponding collective goal. To illustrate, suppose that four
+merchants get together and agree to fix their prices with the shared intention that they
+will each become rich enough to retire by the end of the year. The year turns
+out to be good for trade and the merchants&#x2019; shared intention is realised. As
+it happens these merchants are excellent traders but poor strategists. Their
+profits would have been even larger if they had not colluded in fixing prices. In
+fact their price-fixing strategy was so flawed that it could not normally have
+had a positive effect on profits. So their attempts at coordination hindered
+rather than facilitated the realisation of their shared intention. Because the
+existence of a collective goal requires coordination of agents&#x2019; activities to be
+such that it would normally facilitate the occurrence of the goal, no collective
+goal of the merchants&#x2019; activities as here described corresponds to their shared
+intention.
+</text:p> 
+<!--l. 377--><text:p text:style-name="First-line-indent">   The possibility that shared intentions exist without there being corresponding
+                                                                                
+
+                                                                                
+collective goals is not a superficial feature of the way we have defined collective goal.
+Where there are shared intentions, one or more propositional attitudes serve to link the
+agents and their goals with any means of coordination. For example, the merchants
+described above believe, falsely, that coordinating their pricing will facilitate fulfilment
+of their shared intention. Apart from their beliefs and other propositional attitudes,
+nothing appropriately connects their coordination to their activities and their goal.
+In characterising collective goals our aim is to better understand how joint
+actions are related to their goals when such propositional attitudes are absent.
+In the case of collective goals, then, the link between a goal and a means of
+coordination can only involve facts, not beliefs or expectations, about its efficacy.
+This is why, on standard accounts of shared intention, it is possible for agents
+to act on shared intentions without there being any corresponding collective
+goal.
+</text:p> 
+<!--l. 385--><text:p text:style-name="First-line-indent">   We began this paper with a preliminary identification of a broad class of joint
+actions. Our concern is with joint actions which involve two or more agents&#x2019;
+goal-directed activities where the activities taken together are directed to a goal and
+this is not, or not only, a matter of each agent&#x2019;s activities being individually
+directed to that goal. Characterising how joint actions relate to their goals
+is essential for more fully understanding what joint actions are. Given the
+premise that shared intentions exist, we have shown that there are at least two
+ways in which joint actions relate to their goals. Sometimes joint actions are
+related to their goals by virtue of the agents&#x2019; shared intention, and sometimes
+joint actions are related to their goals by virtue of the collective goal of the
+activities comprising them. These relations are empirically distinct. It is possible
+for joint actions to involve shared intentions with no corresponding collective
+goals and it is possible for joint actions to involve collective goals without
+any shared intentions. So there are at least two kinds of goal-directed joint
+action.
+<t4htlink 
+ href="#x1-5001r5" name="x1-5001r5"></t4htlink>
+</text:p> 
+<!--start of section--><text:h text:style-name="Heading-2" text:outline-level="2" ><text:span text:style-name="section" >6.    </text:span><t4htlink 
+href="#x1-60006" name="x1-60006"></t4htlink>An Objection </text:h> 
+
+<!--l. 400--><text:p text:style-name="Text-body">The requirements for agents&#x2019; activities to have a collective goal can be met without the
+agents being aware that they are met (these requirements are given on page<text:s/><t4htlink 
+href="#x1-40004">12</t4htlink>). This is
+because two agents&#x2019; activities can be coordinated without either agent intending to
+coordinate, and even without the agents being aware that their activities are
+coordinated (<t4htlink 
+href="#XSebanz:2003kf">Sebanz et<text:s/>al.</t4htlink><text:s/><t4htlink 
+href="#XSebanz:2003kf">2003</t4htlink>;<text:s/><t4htlink 
+href="#Xschmidt_understanding_2010">Schmidt et<text:s/>al.</t4htlink><text:s/><t4htlink 
+href="#Xschmidt_understanding_2010">2010</t4htlink>). It follows that two agents&#x2019;
+activities might have a collective goal and that the agents might be engaged in
+a joint action together even though each agent&#x2019;s overall knowledge state is
+consistent with the possibility that she is acting alone. But (runs the objection)
+it is surely true that the agents involved in a joint action must each be in a
+position to know that she or he is not acting individually. So the account we have
+                                                                                
+
+                                                                                
+offered of how joint actions relate to their goals is mistaken, or so the objection
+entails.
+</text:p> 
+<!--l. 410--><text:p text:style-name="First-line-indent">   There are two possible responses to this objection. One would be to modify the
+definition of collective goal. For instance, we could add this requirement: concerning the
+outcome which is the collective goal, each agent must know both that this outcome is a
+distributive goal of some (or all) of the activities comprising the joint action and also
+that some of these activities are her own activities. This further stipulation
+would avoid the objection by entailing that where some agents&#x2019; activities have a
+collective goal, each agent is in a position to know she is not acting individually.
+Note that this modification requires only that the agents of a joint action are
+able to represent distributive goals and to identify activities as their own. The
+modified account retains consistency with the possibility that agents can engage in
+joint action without being able to represent intentions or other propositional
+attitudes.
+</text:p> 
+<!--l. 419--><text:p text:style-name="First-line-indent">   This first response is only acceptable if there are grounds to think that the objection
+is correct. For it would be a mistake complicate the definition of collective
+goal without decisive reasons for doing so. A second possible response to the
+objection is to reject its second premise, that is, to reject that claim that each
+agent of a joint action must be in a position to know that she is not acting
+alone.
+</text:p> 
+<!--l. 425--><text:p text:style-name="First-line-indent">   Several philosophers have implied that this claim is true. Kutz asserts that
+participants in a joint action have &#x2018;a conception of themselves as contributors to a
+collective end&#x2019; (<t4htlink 
+href="#XKutz:2000si">2000</t4htlink>, p.<text:s/>10). Similarly, Roth asserts that in joint action &#x2018;each
+participant &#x2026;<text:s/>can answer the question of what he is doing or will be doing by saying for
+example &#x201C;We are walking together&#x201D; or &#x201C;We will/intend to walk together&#x201D;&#x2019; (<t4htlink 
+href="#XRoth:2004ki">2004</t4htlink>,
+p.<text:s/>361). Relatedly, <t4htlink 
+href="#Xmiller_social_2001">Miller</t4htlink><text:s/>(<t4htlink 
+href="#Xmiller_social_2001">2001</t4htlink>, p. 56) asserts that each agent of a joint action believes
+that her actions are interdependent with the others&#x2019;. If any of these assertions are
+true then each agent of any joint action is in a position to know she is not
+acting alone. As far as we know, no arguments have yet been given for these
+assertions.<t4htlink 
+ href="#x1-6001f6" name="x1-6001f6"></t4htlink><text:note 
+text:note-class="footnote" text:id="fn6x0"><text:note-citation>6</text:note-citation><text:note-body> <text:p 
+text:style-name="Footnote"><text:span 
+text:style-name="cmr-10">For instance, Miller (whose approach perhaps most closely resembles our own, although we</text:span>
+<text:span 
+text:style-name="cmr-10">disagree on some important points) writes &#x2018;we need to distinguish between joint action and various</text:span>
+<text:span 
+text:style-name="cmr-10">kinds of interdependent individual action that are closely related&#x2019; (</text:span><t4htlink 
+href="#Xmiller_social_2001"><text:span 
+text:style-name="cmr-10">2001</text:span></t4htlink><text:span 
+text:style-name="cmr-10">, p. 56). We agree that the</text:span>
+<text:span 
+text:style-name="cmr-10">distinctions Miller wants to make are important. But he does not explain (as far as we can tell) why</text:span>
+<text:span 
+text:style-name="cmr-10">such distinctions are distinctions between joint and individual actions rather than distinctions between</text:span>
+<text:span 
+text:style-name="cmr-10">two kinds of joint action. </text:span></text:p></text:note-body></text:note>
+</text:p> 
+<!--l. 438--><text:p text:style-name="First-line-indent">   The lack of argument suggests that common sense or intuition may be what grounds
+these assertions. Is this plausible? Start by distinguishing the claim at issue from related
+claims which are consistent with the unmodified account of collective goals. The
+unmodified account entails the possibility of joint actions with agents who are not all
+individually in a position to know that they are not acting alone. It does not follow (and
+it is no part of our view) that such cases are either teleologically normal or theoretically
+significant. It is possible that coordination mechanisms on which effective joint
+                                                                                
+
+                                                                                
+action hinges are such that it is teleologically normal for them to facilitate
+joint action only when agents intend or expect to coordinate their actions. If
+so, there is a sense in which joint actions without some minimal awareness
+of jointness are not normal, and they may also lack theoretical significance.
+This would be consistent with the unmodified account. So any grounds which
+support the objection have to distinguish the claim at issue, which concerns
+conceptual or logical possibility, from similar claims about what is teleologically
+normal or theoretically significant. Common sense and intuition are not generally
+reliable when it comes to such fine distinctions, nor when it comes to deciding
+borderline or limiting cases. Further, it is plausible that different people have
+inconsistent intuitions about what counts as joint action. These considerations
+indicate that the objection cannot be grounded on intuition or common sense
+alone.
+</text:p> 
+<!--l. 451--><text:p text:style-name="First-line-indent">   As things stand, we lack decisive grounds both for accepting the objection and for
+rejecting it. For this reason we tentatively endorse the second response and
+stick with the unmodified definition of collective goals. Even if this were a
+mistake, the first response above shows that the objection can be avoided
+by adding to the definition; this addition would not substantially alter our
+conclusions.
+<t4htlink 
+ href="#x1-6002r6" name="x1-6002r6"></t4htlink>
+</text:p> 
+<!--start of section--><text:h text:style-name="Heading-2" text:outline-level="2" ><text:span text:style-name="section" >7.    </text:span><t4htlink 
+href="#x1-70007" name="x1-70007"></t4htlink>Conclusions</text:h> 
+
+<!--l. 458--><text:p text:style-name="Text-body">The question was how joint actions are related to their goals. On most contemporary
+accounts of joint action the answers hinge on shared intention. Shared intentions do for
+joint actions what non-shared intentions do for non-joint actions: they coordinate
+activities and specify the goals to which these activities are directed. Given the notion
+of shared intention, whether an action is individual or joint makes almost no
+difference to an explanation of the relation between actions and their goals. This is
+why the question about how joint actions relate to their goals has not been
+considered. The question only becomes pressing because, as psychological and
+philosophical research on joint action reveals, there are joint actions without shared
+intentions.
+</text:p> 
+<!--l. 465--><text:p text:style-name="First-line-indent">   The existence of joint actions without shared intentions is at least superficially
+puzzling. It is puzzling because, given existing accounts of what joint action is, it is
+unclear how a joint action could be directed to a goal except by virtue of something like
+a shared intention.
+</text:p> 
+<!--l. 470--><text:p text:style-name="First-line-indent">   Our solution, which may not be the only possible solution, involved two steps. The
+first step concerned distributive goals. An outcome is a <text:span text:style-name="Emphasis" ><text:span 
+text:style-name="cmti-12">distributive goal</text:span></text:span> of multiple
+agents&#x2019; activities just if this outcome is a goal to which each agent&#x2019;s activities are
+individually directed where it is possible for all agents (not just any agent, all of them
+together) to succeed relative to this goal. Distributive goals do not require intentions or
+                                                                                
+
+                                                                                
+thought about others&#x2019; agency.
+</text:p> 
+<!--l. 476--><text:p text:style-name="First-line-indent">   The notion of distributive goal is not sufficient to explain how joint actions are
+related to goals, as we saw.
+</text:p> 
+<!--l. 478--><text:p text:style-name="First-line-indent">   The second step in solving the puzzle was to introduce the notion of a collective
+goal. An outcome is by definition a collective goal of multiple agents&#x2019; activities when
+(a) this outcome is a distributive goal of the activities; (b) the activities are
+coordinated; and (c) occurrences of an outcome of this type would normally be
+facilitated by coordination of this type. Where there is a collective goal there is
+a sense in which the agents&#x2019; activities are directed to this goal, and this is
+not only a matter of each agent&#x2019;s activities being individually so directed. So
+the notion of a collective goal provides one way of making sense of the claim
+that there are joint actions which are goal-directed but do not involve shared
+intentions.
+</text:p> 
+<!--l. 481--><text:p text:style-name="First-line-indent">   The point of elucidating the notion of a collective goal is not that this notion by
+itself identifies a theoretically significant form of joint action. Its value lies in showing
+how there could be goal-directed joint actions without shared intention, and in
+providing the foundation on which more significant forms of jointness in action are
+built.
+</text:p> 
+<!--l. 484--><text:p text:style-name="First-line-indent">   How should we think of joint action in the light of this discussion? Differences in the
+ways that actions (joint or individual) relate to their goals can demarcate different kinds
+of action. Accordingly, we saw that the notions of collective goal and shared intention
+are associated with two kinds of joint action. There is no straightforward hierarchical
+relation between these kinds of joint action. For, as we saw, some joint actions involve
+collective goals but no shared intentions while others involve shared intentions without
+corresponding collective goals. There are, however, several ways in which these two
+kinds of joint action may be related. First, the contents of propositional attitudes which
+are or comprise shared intentions can refer to joint actions involving collective
+goals; because collective goals do not constitutively involve intentions, this
+involves no threat of circularity and raises no issues about well-foundedness.
+Second, joint actions involving only collective goals may be proper parts of larger
+structures which do involve shared intention, much as (on some views) merely
+purpose activities can be components of actions that are intentional in a stronger
+sense. Third, collective goals and the associated form of joint action may be
+a precursor, in evolution or development (or both), to the potentially more
+cognitively and conceptually demanding forms of joint action associated with shared
+intention.
+</text:p> 
+<!--l. 494--><text:p text:style-name="First-line-indent">   It is no part of our view that there are just two forms of joint action. One
+reason for suspecting there may be greater heterogeneity in the notion of joint
+action turns on background facts about shared intention. There are different
+philosophical accounts of what shared intention is. At least some of these are
+                                                                                
+
+                                                                                
+inconsistent if interpreted as competing accounts of a single phenomenon. Despite
+this, each account appears to be conceptually coherent and there are do not
+appear to be arguments which decisively favour one account over its apparent
+competitors. This diversity may be partly due to the fact that the term &#x2018;shared
+intention&#x2019; is metaphorical, for (given some plausible premises) shared intentions are
+neither literally shared nor literally intentions. It is possible, then, that not
+all of the different ways of developing the metaphor are in fact competing
+accounts of a single phenomenon. Instead there may be multiple targets of
+analysis, and these might be linked to further distinctions among kinds of joint
+action.
+</text:p> 
+<!--l. 503--><text:p text:style-name="First-line-indent">   Forms of joint action which are goal-directed but involve nothing like shared
+intention have been neglected by philosophers, perhaps partly because they are, or are
+thought to be, too simple to present conceptual puzzles. This is a mistake. To
+understand the cognitive bases of abilities to engage in joint action or their
+evolution or development, the fact that a conception of joint action presents
+conceptual puzzles is no virtue. It may be better to start with the simplest possible
+notions, such as those of distributive and collective goal, and add the minimum
+required to further demarcate the category of interest in any given inquiry. Fully
+understanding joint action may require shared intention and other philosophically
+problematic notions; but understanding goal-directed joint action at its most basic
+requires nothing like shared intention, and no more than the notion of a collective
+goal.
+</text:p> 
+<!--start of section*--><text:h text:style-name="Heading-2" text:outline-level="2" ><t4htlink 
+href="#x1-80007" name="x1-80007"></t4htlink>References</text:h> 
+
+  <text:bibliography text:name="bib-1" > <text:bibliography-source> 
+<text:index-title-template>References</text:index-title-template> 
+<text:bibliography-entry-template 
+text:bibliography-type="custom1" text:style-name="Bibliography11" > 
+<text:index-entry-bibliography text:bibliography-data-field="identifier" /> 
+<text:index-entry-span>: </text:index-entry-span> 
+<text:index-entry-bibliography text:bibliography-data-field="author" /> 
+<text:index-entry-span>, </text:index-entry-span> 
+<text:index-entry-bibliography text:bibliography-data-field="title" /> 
+<text:index-entry-span>, </text:index-entry-span> 
+<text:index-entry-bibliography text:bibliography-data-field="year" /> 
+</text:bibliography-entry-template> 
+ 
+</text:bibliography-source> 
+<text:index-body> 
+<text:p text:style-name="p-bibitem" >
+<t4htlink 
+ href="#Xalonso_shared_2009" name="Xalonso_shared_2009"></t4htlink>Alonso, F.<text:s/>M. (2009).  Shared intention, reliance, and interpersonal obligations.
+  <text:span 
+text:style-name="cmti-12">Ethics</text:span>, <text:span 
+text:style-name="cmti-12">119</text:span>(3), 444&#x2013;475.
+  </text:p><text:p text:style-name="p-bibitem" >
+<t4htlink 
+ href="#XBennett:1976rg" name="XBennett:1976rg"></t4htlink>Bennett, J. (1976). <text:span 
+text:style-name="cmti-12">Linguistic Behaviour</text:span>. Cambridge: Cambridge University Press.
+  </text:p><text:p text:style-name="p-bibitem" >
+<t4htlink 
+ href="#XBratman:1992mi" name="XBratman:1992mi"></t4htlink>Bratman,  M.  (1992).   Shared  cooperative  activity.   <text:span 
+text:style-name="cmti-12">The Philosophical Review</text:span>,
+  <text:span 
+text:style-name="cmti-12">101</text:span>(2), 327&#x2013;341.
+  </text:p><text:p text:style-name="p-bibitem" >
+<t4htlink 
+ href="#XBratman:1993je" name="XBratman:1993je"></t4htlink>Bratman, M. (1993). Shared intention. <text:span 
+text:style-name="cmti-12">Ethics</text:span>, <text:span 
+text:style-name="cmti-12">104</text:span>, 97&#x2013;113.
+  </text:p><text:p text:style-name="p-bibitem" >
+<t4htlink 
+ href="#XBratman:2009lv" name="XBratman:2009lv"></t4htlink>Bratman,  M.  (2009).    Modest  sociality  and  the  distinctiveness  of  intention.
+  <text:span 
+text:style-name="cmti-12">Philosophical Studies</text:span>, <text:span 
+text:style-name="cmti-12">144</text:span>(1), 149&#x2013;165.
+                                                                                
+
+                                                                                
+  </text:p><text:p text:style-name="p-bibitem" >
+<t4htlink 
+ href="#XButterfill:2001kc" name="XButterfill:2001kc"></t4htlink>Butterfill,  S.  (2001).    Two  kinds  of  purposive  action.    <text:span 
+text:style-name="cmti-12">European  Journal  of</text:span>
+  <text:span 
+text:style-name="cmti-12">Philosophy</text:span>, <text:span 
+text:style-name="cmti-12">9</text:span>(2), 141&#x2013;165.
+  </text:p><text:p text:style-name="p-bibitem" >
+<t4htlink 
+ href="#XDavidson:1969ie" name="XDavidson:1969ie"></t4htlink>Davidson, D. (1980 [1969]). The individuation of events. In <text:span 
+text:style-name="cmti-12">Essays on Actions and</text:span>
+  <text:span 
+text:style-name="cmti-12">Events </text:span>(pp.<text:s/>163&#x2013;180). Oxford: Oxford University Press.
+  </text:p><text:p text:style-name="p-bibitem" >
+<t4htlink 
+ href="#XDavidson:1971fz" name="XDavidson:1971fz"></t4htlink>Davidson, D. (1980 [1971]).  Agency.  In <text:span 
+text:style-name="cmti-12">Essays on Actions and Events</text:span>. Oxford:
+  Oxford University Press.
+  </text:p><text:p text:style-name="p-bibitem" >
+<t4htlink 
+ href="#XGilbert:2006wr" name="XGilbert:2006wr"></t4htlink>Gilbert, M. (2006).   Rationality in collective action.   <text:span 
+text:style-name="cmti-12">Philosophy of the Social</text:span>
+  <text:span 
+text:style-name="cmti-12">Sciences</text:span>, <text:span 
+text:style-name="cmti-12">36</text:span>(1), 3&#x2013;17.
+  </text:p><text:p text:style-name="p-bibitem" >
+<t4htlink 
+ href="#Xgilbert_walking_1990" name="Xgilbert_walking_1990"></t4htlink>Gilbert, M.<text:s/>P. (1990).   Walking together: A paradigmatic social phenomenon.
+  <text:span 
+text:style-name="cmti-12">Midwest Studies in Philosophy</text:span>, <text:span 
+text:style-name="cmti-12">15</text:span>, 1&#x2013;14.
+  </text:p><text:p text:style-name="p-bibitem" >
+<t4htlink 
+ href="#XGold:2007zd" name="XGold:2007zd"></t4htlink>Gold, N. &#x0026; Sugden, R. (2007). Collective intentions and team agency. <text:span 
+text:style-name="cmti-12">Journal of</text:span>
+  <text:span 
+text:style-name="cmti-12">Philosophy</text:span>, <text:span 
+text:style-name="cmti-12">104</text:span>(3), 109&#x2013;137.
+  </text:p><text:p text:style-name="p-bibitem" >
+<t4htlink 
+ href="#XHursthouse:1991rd" name="XHursthouse:1991rd"></t4htlink>Hursthouse, R. (1991). Arational actions. <text:span 
+text:style-name="cmti-12">The Journal of Philosophy</text:span>, <text:span 
+text:style-name="cmti-12">88</text:span>(2), 57&#x2013;68.
+  </text:p><text:p text:style-name="p-bibitem" >
+<t4htlink 
+ href="#XKnoblich:2010fk" name="XKnoblich:2010fk"></t4htlink>Knoblich,  G.,  Butterfill,  S.,  &#x0026;  Sebanz,  N.  (2010).   Psychological  research  on
+  joint action: Theory and data.  In B.<text:s/>Ross (Ed.), <text:span 
+text:style-name="cmti-12">Psychology of Learning and</text:span>
+  <text:span 
+text:style-name="cmti-12">Motivation</text:span>, volume<text:s/>51. Academic Press.
+  </text:p><text:p text:style-name="p-bibitem" >
+<t4htlink 
+ href="#XKnoblich:2006bn" name="XKnoblich:2006bn"></t4htlink>Knoblich, G. &#x0026; Sebanz, N. (2006).  The social nature of perception and action.
+  <text:span 
+text:style-name="cmti-12">Current Directions in Psychological Science</text:span>, <text:span 
+text:style-name="cmti-12">15</text:span>(3), 99&#x2013;104.
+  </text:p><text:p text:style-name="p-bibitem" >
+<t4htlink 
+ href="#XKnoblich:2008hy" name="XKnoblich:2008hy"></t4htlink>Knoblich, G. &#x0026; Sebanz, N. (2008). Evolving intentions for social interaction: from
+  entrainment to joint action. <text:span 
+text:style-name="cmti-12">Philosophical Transactions of the Royal Society B</text:span>,
+  <text:span 
+text:style-name="cmti-12">363</text:span>, 2021&#x2013;2031.
+  </text:p><text:p text:style-name="p-bibitem" >
+<t4htlink 
+ href="#XKutz:2000si" name="XKutz:2000si"></t4htlink>Kutz, C. (2000).  Acting together.  <text:span 
+text:style-name="cmti-12">Philosophy and Phenomenological Research</text:span>,
+  <text:span 
+text:style-name="cmti-12">61</text:span>(1), 1&#x2013;31.
+                                                                                
+
+                                                                                
+  </text:p><text:p text:style-name="p-bibitem" >
+<t4htlink 
+ href="#XLinnebo:2005ig" name="XLinnebo:2005ig"></t4htlink>Linnebo, &#x00D8;. (2005).  Plural quantification.  In E.<text:s/>N. Zalta (Ed.), <text:span 
+text:style-name="cmti-12">The Stanford</text:span>
+  <text:span 
+text:style-name="cmti-12">Encyclopedia of Philosophy (Spring 2005 Edition)</text:span>.
+  </text:p><text:p text:style-name="p-bibitem" >
+<t4htlink 
+ href="#Xmarsh_social_2009" name="Xmarsh_social_2009"></t4htlink>Marsh, K.<text:s/>L., Richardson, M.<text:s/>J., &#x0026; Schmidt, R.<text:s/>C. (2009).  Social connection
+  through joint action and interpersonal coordination. <text:span 
+text:style-name="cmti-12">Topics in Cognitive Science</text:span>,
+  <text:span 
+text:style-name="cmti-12">1</text:span>(2), 320&#x2013;339.
+  </text:p><text:p text:style-name="p-bibitem" >
+<t4htlink 
+ href="#Xmiller_social_2001" name="Xmiller_social_2001"></t4htlink>Miller, S. (2001). <text:span 
+text:style-name="cmti-12">Social action: a teleological account</text:span>. Cambridge University Press.
+  </text:p><text:p text:style-name="p-bibitem" >
+<t4htlink 
+ href="#XMillikan:1984ib" name="XMillikan:1984ib"></t4htlink>Millikan,  R.<text:s/>G.  (1984).   <text:span 
+text:style-name="cmti-12">Language,  Thought  and  Other  Biological  Categories</text:span>.
+  Cambridge, Mass.: MIT Press.
+  </text:p><text:p text:style-name="p-bibitem" >
+<t4htlink 
+ href="#XPacherie:2010fk" name="XPacherie:2010fk"></t4htlink>Pacherie, E. (forthcoming 2010). The phenomenology of joint action: Self-agency
+  vs. joint-agency. In A.<text:s/>Seeman (Ed.), <text:span 
+text:style-name="cmti-12">Joint Action</text:span>. MIT Press.
+  </text:p><text:p text:style-name="p-bibitem" >
+<t4htlink 
+ href="#Xpetersson_collectivity_2007" name="Xpetersson_collectivity_2007"></t4htlink>Petersson, B. (2007). Collectivity and circularity. <text:span 
+text:style-name="cmti-12">Journal of Philosophy</text:span>, <text:span 
+text:style-name="cmti-12">104</text:span>(3),
+  138&#x2013;156.
+  </text:p><text:p text:style-name="p-bibitem" >
+<t4htlink 
+ href="#XPrice:2001hs" name="XPrice:2001hs"></t4htlink>Price, C. (2001). <text:span 
+text:style-name="cmti-12">Functions in Mind</text:span>. Oxford: Clarendon Press.
+  </text:p><text:p text:style-name="p-bibitem" >
+<t4htlink 
+ href="#XRoth:2004ki" name="XRoth:2004ki"></t4htlink>Roth,  A.<text:s/>S.  (2004).    Shared  agency  and  contralateral  commitments.    <text:span 
+text:style-name="cmti-12">The</text:span>
+  <text:span 
+text:style-name="cmti-12">Philosophical Review</text:span>, <text:span 
+text:style-name="cmti-12">113</text:span>(3), 359&#x2013;410.
+  </text:p><text:p text:style-name="p-bibitem" >
+<t4htlink 
+ href="#Xschmidt_understanding_2010" name="Xschmidt_understanding_2010"></t4htlink>Schmidt, R., Fitzpatrick, P., Caron, R., &#x0026; Mergeche, J. (2010).  Understanding
+  social motor coordination. <text:span 
+text:style-name="cmti-12">Human Movement Science</text:span>, <text:span 
+text:style-name="cmti-12">In Press, Corrected Proof</text:span>.
+  </text:p><text:p text:style-name="p-bibitem" >
+<t4htlink 
+ href="#Xschmidt_richardons:_2008" name="Xschmidt_richardons:_2008"></t4htlink>Schmidt,  R.<text:s/>C.  &#x0026;  Richardson,  M.<text:s/>J.  (2008).     Dynamics  of  interpersonal
+  coordination.     In  A.<text:s/>Fuchs  &#x0026;  V.<text:s/>K.  Jirsa  (Eds.),  <text:span 
+text:style-name="cmti-12">Coordination:  Neural,</text:span>
+  <text:span 
+text:style-name="cmti-12">Behavioral and Social Dynamics </text:span>chapter<text:s/>XV, (pp.<text:s/>280&#x2013;308). Berlin, Heidelberg:
+  Springer.
+  </text:p><text:p text:style-name="p-bibitem" >
+<t4htlink 
+ href="#XSchueler:2003fk" name="XSchueler:2003fk"></t4htlink>Schueler,  G.<text:s/>F.  (2003).    <text:span 
+text:style-name="cmti-12">Reasons  and  Purposes:  Human  Rationality  and  the</text:span>
+  <text:span 
+text:style-name="cmti-12">Teleological Explanation of Action</text:span>. Oxford: Clarendon Press.
+                                                                                
+
+                                                                                
+  </text:p><text:p text:style-name="p-bibitem" >
+<t4htlink 
+ href="#XSearle:1990em" name="XSearle:1990em"></t4htlink>Searle, J.<text:s/>R. ([2002] 1990).  Collective intentions and actions.  In <text:span 
+text:style-name="cmti-12">Consciousness</text:span>
+  <text:span 
+text:style-name="cmti-12">and Language </text:span>(pp.<text:s/>90&#x2013;105). Cambridge: Cambridge University Press.
+  </text:p><text:p text:style-name="p-bibitem" >
+<t4htlink 
+ href="#XSebanz:2006yq" name="XSebanz:2006yq"></t4htlink>Sebanz, N., Bekkering, H., &#x0026; Knoblich, G. (2006). Joint action: Bodies and mind
+  moving together. <text:span 
+text:style-name="cmti-12">Trends in Cognitive Sciences</text:span>, <text:span 
+text:style-name="cmti-12">10</text:span>(2), 70&#x2013;76.
+  </text:p><text:p text:style-name="p-bibitem" >
+<t4htlink 
+ href="#XSebanz:2003kf" name="XSebanz:2003kf"></t4htlink>Sebanz, N., Knoblich, G., &#x0026; Prinz, W. (2003).  Representing others&#x2019; actions: just
+  like one&#x2019;s own? <text:span 
+text:style-name="cmti-12">Cognition</text:span>, <text:span 
+text:style-name="cmti-12">88</text:span>(3), B11&#x2013;B21.
+  </text:p><text:p text:style-name="p-bibitem" >
+<t4htlink 
+ href="#XSebanz:2005fk" name="XSebanz:2005fk"></t4htlink>Sebanz,   N.,   Knoblich,   G.,   &#x0026;   Prinz,   W.   (2005).       How   two   share   a
+  task:  Corepresenting  stimulus-response  mappings.   <text:span 
+text:style-name="cmti-12">Journal  of  Experimental</text:span>
+  <text:span 
+text:style-name="cmti-12">Psychology: Human Perception and Performance</text:span>, <text:span 
+text:style-name="cmti-12">31</text:span>(6), 1234&#x2013;1246.
+  </text:p><text:p text:style-name="p-bibitem" >
+<t4htlink 
+ href="#XTaylor:1964tr" name="XTaylor:1964tr"></t4htlink>Taylor, C. (1964). <text:span 
+text:style-name="cmti-12">The Explanation of Behaviour</text:span>. London: Routledge.
+  </text:p><text:p text:style-name="p-bibitem" >
+<t4htlink 
+ href="#XTollefsen:2005vh" name="XTollefsen:2005vh"></t4htlink>Tollefsen, D. (2005).  Let&#x2019;s pretend: Children and joint action.  <text:span 
+text:style-name="cmti-12">Philosophy of the</text:span>
+  <text:span 
+text:style-name="cmti-12">Social Sciences</text:span>, <text:span 
+text:style-name="cmti-12">35</text:span>(75), 74&#x2013;97.
+  </text:p><text:p text:style-name="p-bibitem" >
+<t4htlink 
+ href="#Xtuomela_collective_2000" name="Xtuomela_collective_2000"></t4htlink>Tuomela, R. (2000). Collective and joint intention. <text:span 
+text:style-name="cmti-12">Mind &#x0026; Society</text:span>, <text:span 
+text:style-name="cmti-12">1</text:span>(2), 39&#x2013;69.
+  </text:p><text:p text:style-name="p-bibitem" >
+<t4htlink 
+ href="#Xtuomela_we-intentions_2005" name="Xtuomela_we-intentions_2005"></t4htlink>Tuomela,  R.  (2005).   We-Intentions  revisited.   <text:span 
+text:style-name="cmti-12">Philosophical  Studies</text:span>,  <text:span 
+text:style-name="cmti-12">125</text:span>(3),
+  327&#x2013;369.
+  </text:p><text:p text:style-name="p-bibitem" >
+<t4htlink 
+ href="#Xvesper_minimal_2010" name="Xvesper_minimal_2010"></t4htlink>Vesper,  C.,  Butterfill,  S.,  Knoblich,  G.,  &#x0026;  Sebanz,  N.  (2010).    A  minimal
+  architecture for joint action. <text:span 
+text:style-name="cmti-12">Neural Networks</text:span>, <text:span 
+text:style-name="cmti-12">23</text:span>(8-9), 998&#x2013;1003.
+  </text:p></text:index-body></text:bibliography>
+   <!--end of section*--><!--end of section--><!--end of section--><!--end of section--><!--end of section--><!--end of section--><!--end of section--><!--end of section--></office:text></office:body> 
+</office:document-content>
+                                                                                
+
+

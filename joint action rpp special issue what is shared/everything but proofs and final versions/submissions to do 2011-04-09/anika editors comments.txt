@@ -1,0 +1,24 @@
+Reviewer #1
+
+My view is that it's still not quite there yet. I think the main thesis is still not fully  intelligible.  The authors suggest that JA is a basic joint action, 'on analogy with' what other theorists call basic actions, then proceed to explain helpfully that these various theorists have a number of different in mind — only to leave open which construal of 'basic action' to the 'analogy' they are proposing. Also the presentation still strikes me as unhelpful in several ways.
+
+
+Reviewer #2
+
+A central claim of the paper is that "joint attention as a basic joint action is included in all complex joint path-goal actions".  The author gives an example: "In more complex forms of joint path-goal actions e.g., in playing a conventional game like chess ... we jointly attend to each move and joint attention is involved in almost the whole interaction. ... we need to pay close and explicit attention to the action itself -- both of us jointly attending to our individual moves on the chessboard." (p. 10)  As far as I can see, it would be possible for two agents to play chess without them jointly attending to any of the moves.  In an extreme case each player might attend to the board before and after the other player's move, detecting what the other had done by comparing the state of the board on the two occasions.  This seems to be a counterexample to the author's claim that "joint attention ... is included in all complex joint path-goal actions".  The author has almost certainly thought of this sort of case (the paper is polished and generally insightful), but it does seem to be a straightforward counterexample and no explanation is offered.
+
+There is a less straightforward problem with the paper which arises when we take into account the particular conception of joint attention which is at focus.  Consider these claims:
+
+1. "having common knowledge (shared awareness) of aiming for that goal" is a necessary condition for joint action (p. 3)
+
+2. "When ... mutual shared attention involves a shared intention, we have joint attention, in the strict sense." (p. 6)
+
+3. "joint attention [in the strict sense, i.e. involving shared intention] as a basic joint action is included in all complex joint path-goal actions"
+
+Therefore:
+
+4. In all complex joint path-goal actions, agents share an intention that they maintain mutual shared intention (or some other intention to this effect).
+
+As I read the paper, the author is committed to (4).  But this claim is open to quite strong objections.  For even someone who accepted that joint path-goal actions require some form of shared attention might deny that they must involve more than what the author calls 'shared attention' (p. 5).  For example, in the case of walking together (which is used as an example of joint action involving a path-goal) it seems straightforward that the agents' will have to attend to each other in order to walk in step.  But why assume that the agents have shared intentions concerning the attending?  On the face of it, it seems sufficient that each attends to the other.
+
+I was also uncertain about the author's justification for several of the claims made about joint action in Section 1; here the authors combine elements from Searle (we-intentions as special attitudes) and Bratman (a common knowledge requirement) in a novel account of joint action.  This makes the conclusion less general than it should be: it would be better to show that joint attention is linked to joint action on standard accounts of joint action rather than only on the author's own account.

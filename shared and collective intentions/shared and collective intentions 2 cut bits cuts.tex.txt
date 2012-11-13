@@ -1,0 +1,203 @@
+
+
+\section{EVERYTHING ELSE IS BIN}
+***HERE
+We started with the suggestion that joint actions are or resemble actions and involve more than one agents' goal-directed activities.
+This says so little that it seems reasonable to take it as a stipulation about terminology: perhaps few philosophers would accept this statement as giving sufficient conditions for joint action, but we know of none who would disagree that it gives necessary conditions.
+In being or resembling an action, a joint action taken as a whole must be goal-directed.
+
+
+The notion of a collective goal provides a way of identifying one species of joint action.  As we saw, the events which are joint actions in the sense of having 
+
+
+
+
+
+
+
+\section{Empirical motivation}
+
+So far we have shown that it is theoretically coherent to suppose that there are joint actions without shared intention.
+This follows just from the existence of the notion of a collective goals together with the fact that where multiple agents' activities have a collective goal there is a sense in which they are directed to that goal which does not amount only to each agent's activities individually being directed to that goal.
+We have yet to argue that the notion of a collective goal is empirically motivated.  
+
+Empirical motivation matters because, for all we have shown, there may be other theoretically coherent ways to make sense of the relations between joint actions and their goals which do not involve anything like shared intention.  
+What makes our way of explicating this relation valuable is its applications to understanding discoveries about how the mechanisms enabling effective joint action. 
+
+*Controversy between dynamical systems and representational researchers
+
+
+
+
+
+\section{Collective goals without shared intentions}
+
+*People walking.  Walking is entrained.  Have no sense of walking together.  But coordination facilitates 
+
+
+\section{Joint action}
+*Explain what is implied about the nature of joint action
+*Two strangers walk towards each other down the middle of a street.  In order to pass, each coordinates their sideways movements with the other's.  Their activities may have a distributive goal, that of passing without collision.  (It is also possible that each has the goal of passing each other.)  This distributive goal is a collective goal because it depends on both agents' activities and on their coordination.
+
+
+
+
+
+
+
+
+
+\subsection{independence of collective goal and common effect}
+COLLECTIVE GOAL BUT NO COMMON EFFECT In many cases the collective goal of a joint action will correspond to the content of a shared intention.  But this is not invariably so.  For example, the three knights might be acting on the shared intention that they find the cup.  The fact that  agents are acting on a shared intention does not entail that their activities have a collective goal.
+
+COMMON EFFECT BUT NO COLLECTIVE GOAL: ***example? (requires a miracle)
+
+
+
+\subsection{joint actions with neither shared intentions nor collective goals}
+Consider a team of three quiz show contestants who together win a round.
+That their team won the round was a goal-outcome of each player's activity, so this is a distributive goal.  
+Furthermore,  and the winning is a common effect of all of their activities.
+But their activities are not coordinated.  Each player simply attempts to answer whatever questions she thinks she might be able to answer with no regard to other players' behaviour or expertise.
+This lack of coordination prevents the team's winning from being a collective goal.
+It may also prevent the players from acting on the shared intention that they win the round.  Because, on at least one account, shared intention requires intentions to succeed by way of meshing subplans.  The disposition of each player to answer questions without regard to the others shows that there are no meshing subplans.
+So here there seems to be neither a collective goal nor a shared intention.
+
+Despite this, it seems appropriate to describe the team as having attempted to win and succeeded in doing so.  In what way could this be appropriate?
+
+Aggregate agents: ascription is supported by existence of team and structure of the quiz, which treats the team as a unit.
+
+ 
+
+\section{Alternative Approach---Aggregate Agents}
+%aggregate in OED: 4. Zool. Consisting of distinct animals united into a common organism.
+
+Suppose there were \emph{aggregate agents}, that is agents among whose parts are two or more agents 
+%this is to rule out `Russian doll' cases
+none of which are parts of the others. 
+(`Aggregate' is used here  because in zoology an aggregate animal is one consisting of distinct animals; the notion is related to Gilbert (\citeyear{Gilbert:1992rs})'s \emph{plural subject} *cite Helm too.)  
+Suppose, further, that, in every joint action, the agents involved were to constitute a single aggregate agent.  
+Then it would be possible to have a notion of joint action which is, conceptually, exactly like individual action except that the agent is aggregate.  Special features of joint actions would become special features of their agents.
+
+On this approach, the standard theory about the relation between actions and their intentions does not need modification: it already applies to joint actions.  A joint action is related to its goal by virtue of the aggregate agent's acting on an intention whose content specifies that goal.  
+
+This approach amounts to taking at face value things people sometimes say about their own joint actions.  Ayesha, asked about the table lifting episode mentioned above, might insist, `Our intention wasn't to smash the glass but to free the cat.'  If she and Beatrice constituted an aggregate agent we could take this ascription of intention at face value.
+
+Opposing this approach some may deny the existence of aggregate agents consisting of primates.  Or, taking a different line, opponents may assert that introducing aggregate agents postpones or even obscures the distinctive empirical and philosophical problems associated with joint action.  These lines of objection raise deep and difficult questions about agency which are beyond the scope of this paper.  Fortunately the central claims of this paper also permit us to be almost neutral on the correctness or not of these objections.  For our purposes, the potential challenge is the possibility that appeal to aggregate agents provides a single, unified approach to understanding how joint actions relate to their goals and so renders alternatives unnecessary.  
+
+To rule out this possibility we need not show that no aggregate agents exist.  It is sufficient to establish that there are some joint actions where the agents do not constitute a single aggregate agent whose intention fixes the goal of the joint action.  Consider the case of an audience clapping together after a performance \citep{Bratman:2009lv}.  As we will see, the members of the audience do not always constitute an aggregate agent whose intention fixes the goal of their joint action.
+
+How can this claim be established?  In some cases joint actions happen in part because of, and in accordance with, individual agents' beliefs, desires and intentions.  In the case of the audience clapping, suppose that individuals clap more or less depending in part on how much overall clapping they think there is in proportion to how good they felt the performance was.  (The stipulation does not exclude other causes of the individuals' clapping; perhaps shared emotional experience is also important.)  Accordingly, the way their joint action unfolds is causally and rationally related to individual agents' psychological states.  If introducing an aggregate agent is to adequately explain joint actions of this kind, the aggregate agent's psychological states (or at least those on which it acts) must be related to the constituent agents' psychological states.  For example, shifts in how much a constituent agent wants to clap must cause or constitute a corresponding shift in how much the aggregate agent wants to applaud.  This is a first requirement on aggregate agents.
+
+
+Note that this first requirement is not offered as a general requirement on aggregate agents.  
+%Presumably motivation for introducing aggregate agents includes the thought that there may be cases of joint action which seem to involve an aggregate agent with a mind of its own, one whose beliefs and desires are not related in any simple, lawlike way to the desires of the individual agents  composing it.\footnote{
+%While Sugden's views do not commit him to aggregate agents, he does argue that multiple agents' can have collective preferences that are not reducible the agents' individual preferences \citep{Sugden:2000mw}.  
+%}
+%The first requirement does not conflict with this.  
+The first requirement is just that \emph{if} an aggregate agent is postulated in the audience clapping case as described above (or any relevantly similar case), then changes in a constituent agent's beliefs, desires or intentions relevant to the joint action must cause or constitute corresponding shifts in  \emph{this} aggregate agent's states.
+
+A second requirement on aggregate agents is that their introduction should not *.  Suppose that an individual audience member gradually raises their estimation of the performance so that (because all other things are equal) there is a corresponding increase in the volume of applause.  This increase reflects a change in the aggregate agent's behaviour.  The explanation of this change should not involve factors other than the change in the aggregate agent's desires that were triggered or constituted by the change in the constituent agent's desires.  In other words, the mere existence of an aggregate does not prevent changes in constituent agents from causing simple additive changes in the behaviour of the group.
+
+A third requirement on aggregate agents is more general.  All agents have intentions or goal-states of some kind.  In order to have goal-states an agent must also have related beliefs, desires and perhaps other psychological states as well.  These states must be capable of interacting with each other in order to cause and rationalise actions which the agent performs.  So while an aggregate agent, like an individual agent, will not necessarily satisfy norms of rationality, it must at least be capable of doing so. 
+
+These two requirements on aggregate agents cannot both be satisfied in cases such as the audience's clapping described above.  To see why, consider an artificially simple elaboration.  
+For half the audience, each individual's beliefs cause and justify loud applause even for average performances; the other half reject this liberal attitude and are more stringent in how loudly they will clap.  
+Initially those in the liberal half of the audience each rate the performance as poor whereas those in the other, more stringent half each rate the performance as average.  
+The upshot is restrained applause.  
+But as the audience members recall different aspects of the performance, those in the stringent half gradually lower their estimation of its quality while those in the liberal half do the opposite.  
+These changes result in a steadily increasing volume of applause.  The aggregate agent is now applauding more than it was before.  What explains this shift?  
+There has not been a shift in how good the audience as a whole thinks the performance was, nor has any individual's attitude towards how much applause performances of a given standard merit.
+
+
+%Suppose there are two respects in which the performance was particularly brilliant where most of the audience only recognises one of these, with about half recognising each.  For each individual, we stipulate that her limited appreciation of the performance together with her other beliefs and desires causes and justifies her clapping activities.  To make the aggregate agent similarly rational is not straightforward, but we might attempt this by saying that the aggregate agent is dimly aware of both brilliant aspects of the performance.
+
+On the one hand, changes in any component agent's states trigger or constitute corresponding changes in the aggregate agent's states.  
+
+entail that there must be rational coordination among the psychological states of the agents constituting an aggregate agent.  But in the case of an audience clapping (for example), there need be no such coordination.  So there are at least some cases of joint action to which the present approach, which hinges on aggregate agents' intentions, does not apply.
+
+*General point: hard theoretical limit on what aggregate agents can do.
+
+\section{Second Approach---Shared Intentions}
+*Start by saying that if we don't have aggregate agents we can't straightforwardly extend theory from individual to joint action.  This opens up the possibility that there are multiple theoretically coherent ways to extend the individual theory each of which is also empirically motivated. [This might go into the previous section]
+
+*The shared intention approach involves extending the model by identifying a state which stands to the joint action in many of the ways that an individual intention stands to an individual action.  Having said what shared intentions are and what it means for agents to act on a shared intention, it is then possible to follow the standard model and say that the goal of a joint action is the goal specified by the shared intention the agents are acting on.
+
+*Goal-states play individuative and coordinative roles; can either retain both or drop the coordinative role. [*This might go into the next section]
+
+*Shared intention: disagreement about what it is but two ways to think about it---fundamentally, it is something that plays a coordinative role; less fundamentally, at least one of the three necessary conditions holds when agents share an intention (awareness of joint-ness etc). 
+
+*Too much already written about this notion for it to benefit from  extended discussion here
+
+*[Possible line] the notion of shared intention, being neither shared nor an intention, is doubly metaphorical.  Diversity in the attempts to explain this metaphor may reflect the fact that the metaphors can be cashed out in different ways.  In any case, it is tricky, in explaining one metaphor (joint action) to appeal to another, potentially more thorny metaphor.
+
+
+
+
+
+\section{Xth Approach---Instrumentalism}
+*This is the application of a model other than the standard model of individual action mentioned at the outset to the joint case; it's application is straightforward.
+
+*Of course if one thought that the Dennettian twist to instrumentalism about intentions and other psychological states (which is not actually instrumentalism) were correct, this approach would collapse into the first approach (Aggregate Agents).  Note that the argument against the claim that this approach could apply to all joint actions apply also in this case; those arguments are, then, arguments against the combination of instrumentalism about joint action and instrumentalism about psychological states.
+
+
+\section{Fourth Approach---Teleological Goals}
+*Goals as properties of the action rather than as properties of an agent.  This is a second way (the first was Aggregate Agents, First Approach) in which the transition from individual to joint action is, conceptually, entirely straightforward.
+
+*Here we are appealing to a model other than the standard model of individual action mentioned at the outset.
+
+*Useful for insects (ants, bees illustrate) partly because doesn't involve commitments to the idea that individual agents have goals.
+
+
+
+\section{Conclusion}
+The notion of joint action involves extending theories from the individual, single-agent case to cases involving multiple agents.  There is no straightforward way to so extend these theories, any extension will be truer to some features of individual action at the expense of abandoning others.  Further, no single extension distinguishes itself as uniquely correct.
+
+ 
+
+
+\section{Cuts---still useful}
+
+
+
+.  This answer cannot straightforwardly be extended to the case of joint action because, in this case, no goal-state is related to the joint action in just the way that . 
+
+
+Exposition is simplified by assuming that goal-states have a propositional content although this is not strictly required for the truth of claims defended here. 
+
+
+
+
+
+
+As background for what follows this section rehearses some elementary points about individual action.  It also explains why there is a question about the relation between joint actions and their goals that can't be answered by a straightforward extension of the answer given to the corresponding question about how individual actions relate to their goals.
+
+%A goal-state specifies a unique goal-outcome.  Exactly how this works depends on general issues about the nature of psychological states.  But it is harmless for present purposes to assume that goal-states have propositional contents.  The specified outcome is then the outcome whose occurrence would consist in the propositional content's being true. (*think!)
+
+
+Of course the agents of a joint action may themselves be acting on goal-states, but as none of their individual
+ but this is not the same thing as there  being 
+
+
+
+*Why can't we give the same answer for joint action?  Because not all joint actions are such that all the agents involved in the joint action constitute a single aggregate agent.
+
+
+As already mentioned, an individual action's occurrence consists in an agent acting on a goal-state.  The goal-states plays (at least) two roles.
+
+One role is individuative.  To say which action an agent performed we identify an event and a description of it (*Davidson).  The content of the goal-state on which the agent acted is this description.  So to know which goal-state an agent is acting on is to know which action she is performing (*ref).
+
+Another role is coordinative.  An action may involve multiple activities whose execution is subject to ordinal and temporal constraints.  The goal-state coordinates these activities (*ref).
+
+In joint action, counterparts of goal-states must play individuative and coordinative roles.  However, while one counterpart plays the coordinative role, another does not.  This, in barest outline, is why there are significant differences among the ways in which the relation between a joint action and its goal-outcome can be construed.
+
+
+
+
+
+\section{}
+We have seen that in individual action goal-states play both individuative and coordinative roles.  In joint action there is no goal-state because there is no agent in the ordinary sense.  
+
+There is only something which is metaphorically described as a goal-state.
+
+Because joint action is not literally a 

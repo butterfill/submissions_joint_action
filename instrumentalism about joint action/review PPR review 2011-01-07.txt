@@ -1,0 +1,30 @@
+06-Jan-2011
+
+Dear Dr. Butterfill:
+
+This is about manuscript # PandPR-2010-10-0105 entitled "Joint Action without Shared Intention" which you submitted to PPR.
+
+In view of our reviewer's recommendation and comments found at the bottom of this letter, your manuscript has been denied publication in PPR. Our acceptance rate is now miniscule and our backlog much too long. We are forced to make many hard choices among fine submissions.
+
+We are making a concerted effort to reduce drastically the assessment lag that authors regularly suffer at too many journals, even if in doing so we often provide only brief comments or none at all. Our main priority is to make a well-informed decision without undue delay.
+
+Thank you for considering PPR for the publication of your research.
+
+Sincerely,
+
+Sara Saborido
+PPR Editorial Office
+
+
+
+Comments to the Author
+Referee’s report on Joint Action without Shared Intention (PandPR-2010-10-0105
+
+The author claims in the paper that while philosophical research on joint action has focused on shared intention, also other factors, especially neurophysiological and environmental factors, enabling joint action have to be taken into account. He (or she) claims that there are intentional joint actions that are not based on shared intentions. As such that is hardly news, but the author gives experimentally backed or suggested examples of such cases. The paper consists of a short survey of relevant philosophical and psychological literature and an attempt to present counterexamples to the claim that all joint actions involve shared intentions. The author probably means to speak of intentional joint actions in this context rather than unintentional or nonintentional joint actions. Obviously, people may jointly bring about some collective results and be acting only individually intentionally or even unintentionally without a properly shared intention. The existence of this kind of collective actions (including “invisible hand” cases) is a well-known phenomenon. 
+When speaking of joint action, the author sometimes speaks of intentional joint action and sometimes of broadly understood joint action that is not intentional. In the latter kind of cases the participants may perform their part actions intentionally yet without sharing an intention to perform the action jointly. The author appears to acknowledge that there yet are cases of joint action that do require joint intention. 
+While cases of collective activities that do not involve shared intention are well-known and do not require “re-inventing the wheel,” the philosophically most central problem is whether  intentional joint action can be understood and explained without appeal to shared intention. Yet the author does not say much about this problem that is philosophically new and interesting.
+In his discussion of broad kinds of joint action the author identifies some necessary conditions for shared intention: awareness of jointness, awareness of others’ agency, awareness of others’ states or commitments (pp. 4-5). While these seem acceptable conditions it is to be noted that there are no conditions related to goals and intentions—some such generally acceptable conditions can be found it seems.
+The central contribution of the paper is the presentation of results from some experimental case studies from the literature. These cases are about joint activities in a wide sense. The first type of case is where the environment can be taken to coordinate joint actions. There is the “pulley case” (pp. 6-8) that the author takes intuitively to be joint action where none of the above necessary conditions for shared intention are met. Now, ‘joint action’ is a vague term, and the author uses it to include examples which in the present reviewer’s view are not intuitively joint activities in a psychological sense—the participants need not even be thinking of each other as intentional agents in them. There is not much philosophical interesting in this example. 
+The second case involves motor simulation (pp. 8-10). The agents are building a stack out of cubes and are assumed to act on their individual intentions only. Still they rapidly build up a stack. This is interpreted by the experimenters as a case involving predictive and anticipatory coordination rather than only reactive coordination. Shared intentions cannot be present because “the timescale is too short to be served by shared intentions.” Yet the author gives no arguments for this view. It might be that shared intentions can be formed subconsciously very fast, and fast enough to function as explanantia. Another possibility is that some of the subactions are governed by a shared intention in a manner similar to how comples routine actions come about that do not involve separate intentions for all the subactions involved.The author emphasizes the role of motor cognition, but does not with empirical arguments block the plausible possibility that the motor cognitions are induced by a shared intention. 
+There is, thirdly, the case of the imaginary “we” in which a participant assumes that there is an imaginary composite agent with which each participant identifies.  The necessary conditions for shared intentions need not apply according to the author. But it seems that then the joint results often come about because just due to good luck, and no intentional joint action is present but only a joint outcome. This not how group agents in general act when performing intentional actions, and when they so act some sharing of an intention may be argued to be present.
+The paper is in general clearly written, although some of the central concepts (such a the very notion of joint intention) should have been clarified better. The paper is basically publishable but would better fit a theoretical journal in psychology or cognitive science. It does not contain important new philosophical arguments and results. Therefore I cannot recommend the publication of this paper in PPR.

@@ -1,0 +1,20 @@
+Case Study -- Asymmetric case of adult helping child
+==================================================
+
+
+Consider a child attempting to fasten a button; after several failed attempts, an uncle surreptitiously supports the child's efforts by inserting a thumb behind the button.  With his assistance, the child can push the button through.
+
+The child, who is unaware of being assisted, fails to meet any of the necessary conditions for shared intention (no awareness of others' intentions, no conception of activity as involving a 'we').
+
+Why think of this as a case of joint action?  There is a clear sense in which the child and her uncle fastend the button together; it makes intuitive sense.   After all, the fastening of the button is a common effect of the purposive actions of two agents (neither agent's actions would have been individually sufficient).  In addition, it is conceivably useful to construe this event as if it involved only one agent.  I think this is sufficient reason to regard this as a case of joint action.  
+
+Of course one might want to distinguish cases where one agent assists another with her goal from cases of joint action proper.  But how are we to draw this distinction without appeal to the idea that assistance does not involve shared intention?  
+
+Distinguish three claims:
+  (1) As a matter of terminology, I don't want to call cases involving asymmetric assistance cases of 'joint action'
+  (2) There are some interesting theoretical differences between cases involving asymmetric assistance and cases involving shared intention
+  (3) We have a robust pre-theoretic and intuitive ability to distinguish between cases that are and aren't joint actions and cases of asymmetric assistance are not joint actions in this sense.
+
+
+
+

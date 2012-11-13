@@ -1,0 +1,92 @@
+TODO: Need to be really clear about what the aims of the theory are.  After all, main criticism of other accounts is that it's unclear what their objectives are!
+
+TODO: shared intentions neither literally shared nor literally intentions; sharing isn't magic
+
+Q: bring in minimal theory of mind?
+
+Thoughts
+-----------------------
+In collective goals we separate the individuative and coordinative functions.
+In shared intention, having a shared intention is the same thing as knowing that you have a shared intention.
+In shared goals, having a shared goal is not the same thing as knowing that you have a shared goal.  (Having a shared goal might be the same thing as knowing that you have a collective goal.)
+
+
+Basic Points
+-----------------------
+* Question to structure theorising about joint action is: what is the relation between a joint action and the goal or goals to which it is directed?
+* There are cases of joint action with nothing like shared intention
+* Characterising these requires the notion of collective goal
+* You could call joint actions without shared goal-states 'group activities' if you like
+* There is a distinction between goal-states and full-blown intentions
+* Understanding this distinction requires understanding what *planning* is
+* Parallel to this, there is a distinction between shared goals and shared intentions
+* Joint action without shared intention can involve shared goals
+* Knowledge of collective goals (rather than of shared goals, or of shared intentions) is sufficient for success on the pointing/reaching paradigm
+
+
+What have you got against shared intentions?
+------------------------------------------
+Actually, I haven't got anything against them.  I do think that in some cases they are necessary---in particular they are necessary when joint actions require that we coordinate not only our activities but also our plans.  So, for example, I doubt whether it would be possible to organize a wedding party together without them.  But I also think that their role has been overstated; and that focus exclusively on shared intention has distorted our understanding of both joint action and of shared intention itself.
+
+
+
+
+Leipzig outline
+---------------
+
+'Joint Action without Shared Intention'
+
+Joint action occurs when multiple agents' activities taken together are directed to a goal and this is not, or not only, a matter of each agent's activities individually being directed to that goal.
+
+Philosophers' examples of joint action ...
+
+Joint actions that young children engage in include tidying up the toys together (Behne, Carpenter and Tomasello 2005), cooperatively pulling handles in sequence to make a dog-puppet sing (Brownell, Ramani and Zerwas 2006), bouncing a ball on a large trampoline together (Tomasello and Carpenter 2007) and pretending to row a boat together. 
+
+Reason for interest in joint action include:
+
+ - conceptual: not straightforward in which sense an action can have multiple agents (compare---not straightforward in what sense an animal could have multiple mothers) ≥÷mkper
+
+ - development and evolution: Vygotsky intelligence hypothesis (here the existence of joint action, and of abilities to engage in joint action, is used to explain things); 
+ 
+ - may involve distinctive cognitive and social underpinnings or it may not (Sebanz & Knoblich); here joint action is the thing to be explained.  
+ 
+
+The usual way of thinking about joint action hinges on shared intention.  The basic idea is that shared intention stands to multiple agents' activities as individual intention stands to a single agent's activities.  This means that shared intentions coordinate activities and plans.  Beyond this, there is almost no agreement among philosophers on what shared intentions are.
+
+ - examples include Gilbert, X, and Carpenter (2009, p. 381): "Shared intentionality is the foundation upon which joint action is built." (see also  "Shared intentionality ... refers to collaborative interactions in which participants share psychological states with one another" (Tomasello and Carpenter 2007))
+
+
+* the exclusive focus on shared intention is, in my view, a mistake.  This is not because I think there is anything wrong with shared intention as such.  Surely this notion, or something like it, is needed for sophisticated cases of joint action.  But because in many cases joint action involves nothing like shared intention.  These cases are conceptually foundational; and they may also have significance for understanding the development and evolution of joint action as well as its cognitive underpinnings.
+
+* But here I am getting ahead of myself.  It is not obvious, at this stage, that talk about joint action without shared intention is even theoretically coherent let alone empirically motivated.
+
+I want to start with a basic philosophical question about joint action that will structure this discussion.  What is the relation between a joint action and its goal or goals?
+
+* cat-glass-table example
+
+* standard story for individual action
+
+* shared intentions replace intentions in the standard story
+
+* two alternatives to shared intention: (i) it's not shared *intention* but some other goal-state; and (ii) no shared goal state at all, nothing like shared intention.
+
+* I want to pursue both alternatives.  The picture of joint action that results is comparable to one we might have of individual action ...
+
+Why care?
+ - because the philosophical research on shared intention is a complicated mess and it may be helpful, in aiming to understand joint action, to start further back with more basic notions of joint action
+
+ - because it's hard to understand continuities and discontinuities between basic and sophisticated cases of joint action (ants vs. house painters; see Moll & Tomasello 2007, p. 3 on 'group action' vs. 'joint action')
+
+ - cognitive: interest in real-time interactions:  "philosophers … postulate complex intentional structures that often seem to be beyond human cognitive ability in real-time social interactions." {Knoblich, 2008 #1429@2022@2026}
+
+ - development: broad interest in how more conceptually and cognitively demanding cases arise from simpler ones.
+  
+ - "We employ ... a "shared intentionality" approach (from the philosophy of action) to characterize the types of cognitive skills and social engagements that make possible ... skills of cultural cognition."  (Tomasello, Carpenter, et al. 2005: 676)  Because these researchers don't distinguish joint action from shared intentionality, there is no room on their view to distinguish the hypotheses about joint action from hypotheses about shared inten
+ 
+ LONG:  [shared intentionality] makes "make possible uniquely human activities such as the creation and use of linguistic and mathematical symbols, the creation and use of artifacts and technologies that accumulate modifications over generations in cultural evolution, and the creation of social practices and institutions such as marriage and government that depend on collective beliefs---in short, what we will call skills of cultural cognition." (Tomasello, Carpenter, et al. 2005: 676)
+ 
+
+ 
+Bottom line: we may be able to make gains both in explanatory power and in theoretical coherence by reflection on cases of joint action without shared intention.
+
+

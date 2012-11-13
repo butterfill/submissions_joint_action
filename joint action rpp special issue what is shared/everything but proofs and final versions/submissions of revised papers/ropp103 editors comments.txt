@@ -1,0 +1,5 @@
+ROPP103 
+
+(1) Joint Action --- the discussion has several problematic features.  In particular, it merges Searle's and Bratman's views in a way that does not seem to be coherent.  (Searle's we-intentions differ in many ways from Bratman's shared intentions; e.g. Searle's we-intentions are attitudes of an individual whereas Bratman's shared intentions are not).  Much greater care and precision is needed here.
+
+(2) Basic action --- the notion of basic action needs more careful introduction with greater reference to the literature, and an adequate definition or explication must be provided.  In addition, the sense in which joint attention could be a basic action needs clarification (many definition of basic action apply to individual action only without revision).

@@ -1,0 +1,159 @@
+
+
+======================================
+	Start time:2010-01-22 15:43:30.281000
+	TEST MODE (no emails will be sent)
+	message_file_name: invite invited contributor.txt
+	address_file_name: invited_contributors_emails.csv
+	SENDER: s.butterfill@warwick.ac.uk
+--------------------------------------
+
+======================================
+	Start time:2010-01-22 15:45:31.906000
+	TEST MODE (no emails will be sent)
+	message_file_name: invite invited contributor.txt
+	address_file_name: invited_contributors_emails.csv
+	SENDER: s.butterfill@warwick.ac.uk
+--------------------------------------
+line: 0, to: 'Wolfgang' <Wolfgang Prinz <prinz@cbs.mpg.de>>
+['Wolfgang Prinz', 'Wolfgang', 'Wolfgang Prinz <prinz@cbs.mpg.de>']
+line: 1, to: 'Elisabeth' <Elisabeth Pacherie <pacherie@ens.fr>>
+['Elisabeth Pacherie', 'Elisabeth', 'Elisabeth Pacherie <pacherie@ens.fr>']
+line: 2, to: 'Celia' <Celia Brownell <brownell@pitt.edu>>
+['Celia Brownell', 'Celia', 'Celia Brownell <brownell@pitt.edu>']
+line: 3, to: 'Michael' <Michael Bratman <bratman@csli.stanford.edu>>
+['Michael Bratman', 'Michael', 'Michael Bratman <bratman@csli.stanford.edu>']
+line: 4, to: 'Mike' <Mike Martin <michael.martin@ucl.ac.uk>>
+['Mike Martin', 'Mike', 'Mike Martin <michael.martin@ucl.ac.uk>']
+
+End time: 2010-01-22 15:45:32.859000
+
+
+======================================
+	Start time:2010-01-22 15:46:29.984000
+	TEST MODE (no emails will be sent)
+	message_file_name: invite invited contributor.txt
+	address_file_name: invited_contributors_emails.csv
+	SENDER: s.butterfill@warwick.ac.uk
+--------------------------------------
+line: 0, to: 'Wolfgang' <Wolfgang Prinz <prinz@cbs.mpg.de>>
+['Wolfgang Prinz', 'Wolfgang', 'Wolfgang Prinz <prinz@cbs.mpg.de>']
+line: 1, to: 'Elisabeth' <Elisabeth Pacherie <pacherie@ens.fr>>
+['Elisabeth Pacherie', 'Elisabeth', 'Elisabeth Pacherie <pacherie@ens.fr>']
+line: 2, to: 'Celia' <Celia Brownell <brownell@pitt.edu>>
+['Celia Brownell', 'Celia', 'Celia Brownell <brownell@pitt.edu>']
+line: 3, to: 'Michael' <Michael Bratman <bratman@csli.stanford.edu>>
+['Michael Bratman', 'Michael', 'Michael Bratman <bratman@csli.stanford.edu>']
+line: 4, to: 'Mike' <Mike Martin <michael.martin@ucl.ac.uk>>
+['Mike Martin', 'Mike', 'Mike Martin <michael.martin@ucl.ac.uk>']
+
+End time: 2010-01-22 15:46:30.578000
+
+
+======================================
+	Start time:2010-01-22 15:47:19.765000
+	TEST MODE (no emails will be sent)
+	message_file_name: invite invited contributor.txt
+	address_file_name: invited_contributors_emails.csv
+	SENDER: s.butterfill@warwick.ac.uk
+--------------------------------------
+line: 0, to: 'Wolfgang' <Wolfgang Prinz <prinz@cbs.mpg.de>>
+['Wolfgang Prinz', 'Wolfgang', 'Wolfgang Prinz <prinz@cbs.mpg.de>']
+line: 1, to: 'Elisabeth' <Elisabeth Pacherie <pacherie@ens.fr>>
+['Elisabeth Pacherie', 'Elisabeth', 'Elisabeth Pacherie <pacherie@ens.fr>']
+line: 2, to: 'Celia' <Celia Brownell <brownell@pitt.edu>>
+['Celia Brownell', 'Celia', 'Celia Brownell <brownell@pitt.edu>']
+line: 3, to: 'Michael' <Michael Bratman <bratman@csli.stanford.edu>>
+['Michael Bratman', 'Michael', 'Michael Bratman <bratman@csli.stanford.edu>']
+line: 4, to: 'Mike' <Mike Martin <michael.martin@ucl.ac.uk>>
+['Mike Martin', 'Mike', 'Mike Martin <michael.martin@ucl.ac.uk>']
+
+End time: 2010-01-22 15:47:20.375000
+
+
+======================================
+	Start time:2010-01-22 15:48:09.937000
+	message_file_name: invite invited contributor.txt
+	address_file_name: invited_contributors_emails.csv
+	SENDER: s.butterfill@warwick.ac.uk
+--------------------------------------
+line: 0, to: 'Wolfgang' <Wolfgang Prinz <prinz@cbs.mpg.de>>
+['Wolfgang Prinz', 'Wolfgang', 'Wolfgang Prinz <prinz@cbs.mpg.de>']
+
+======================================
+	Start time:2010-01-22 15:49:00.406000
+	message_file_name: invite invited contributor.txt
+	address_file_name: invited_contributors_emails.csv
+	SENDER: s.butterfill@warwick.ac.uk
+--------------------------------------
+line: 0, to: 'Wolfgang' <Wolfgang Prinz <prinz@cbs.mpg.de>>
+['Wolfgang Prinz', 'Wolfgang', 'Wolfgang Prinz <prinz@cbs.mpg.de>']
+
+======================================
+	Start time:2010-01-22 15:50:29.015000
+	TEST MODE (no emails will be sent)
+	message_file_name: invite invited contributor.txt
+	address_file_name: invited_contributors_emails.csv
+	SENDER: s.butterfill@warwick.ac.uk
+--------------------------------------
+
+======================================
+	Start time:2010-01-22 15:50:45.250000
+	TEST MODE (no emails will be sent)
+	message_file_name: invite invited contributor.txt
+	address_file_name: invited_contributors_emails.csv
+	SENDER: s.butterfill@warwick.ac.uk
+--------------------------------------
+line: 0, to: 'Wolfgang Prinz' <prinz@cbs.mpg.de>
+['Wolfgang Prinz', 'Wolfgang', 'prinz@cbs.mpg.de']
+line: 1, to: 'Elisabeth Pacherie' <pacherie@ens.fr>
+['Elisabeth Pacherie', 'Elisabeth', 'pacherie@ens.fr']
+line: 2, to: 'Celia Brownell' <brownell@pitt.edu>
+['Celia Brownell', 'Celia', 'brownell@pitt.edu']
+line: 3, to: 'Michael Bratman' <bratman@csli.stanford.edu>
+['Michael Bratman', 'Michael', 'bratman@csli.stanford.edu']
+line: 4, to: 'Mike Martin' <michael.martin@ucl.ac.uk>
+['Mike Martin', 'Mike', 'michael.martin@ucl.ac.uk']
+
+End time: 2010-01-22 15:50:46.078000
+
+
+======================================
+	Start time:2010-01-22 15:51:20
+	TEST MODE (no emails will be sent)
+	message_file_name: invite invited contributor.txt
+	address_file_name: invited_contributors_emails.csv
+	SENDER: s.butterfill@warwick.ac.uk
+--------------------------------------
+line: 0, to: Wolfgang Prinz <prinz@cbs.mpg.de>
+['Wolfgang Prinz', 'Wolfgang', 'prinz@cbs.mpg.de']
+line: 1, to: Elisabeth Pacherie <pacherie@ens.fr>
+['Elisabeth Pacherie', 'Elisabeth', 'pacherie@ens.fr']
+line: 2, to: Celia Brownell <brownell@pitt.edu>
+['Celia Brownell', 'Celia', 'brownell@pitt.edu']
+line: 3, to: Michael Bratman <bratman@csli.stanford.edu>
+['Michael Bratman', 'Michael', 'bratman@csli.stanford.edu']
+line: 4, to: Mike Martin <michael.martin@ucl.ac.uk>
+['Mike Martin', 'Mike', 'michael.martin@ucl.ac.uk']
+
+End time: 2010-01-22 15:51:20.625000
+
+
+======================================
+	Start time:2010-01-22 15:51:41.484000
+	message_file_name: invite invited contributor.txt
+	address_file_name: invited_contributors_emails.csv
+	SENDER: s.butterfill@warwick.ac.uk
+--------------------------------------
+line: 0, to: Wolfgang Prinz <prinz@cbs.mpg.de>
+['Wolfgang Prinz', 'Wolfgang', 'prinz@cbs.mpg.de']
+line: 1, to: Elisabeth Pacherie <pacherie@ens.fr>
+['Elisabeth Pacherie', 'Elisabeth', 'pacherie@ens.fr']
+line: 2, to: Celia Brownell <brownell@pitt.edu>
+['Celia Brownell', 'Celia', 'brownell@pitt.edu']
+line: 3, to: Michael Bratman <bratman@csli.stanford.edu>
+['Michael Bratman', 'Michael', 'bratman@csli.stanford.edu']
+line: 4, to: Mike Martin <michael.martin@ucl.ac.uk>
+['Mike Martin', 'Mike', 'michael.martin@ucl.ac.uk']
+
+End time: 2010-01-22 15:51:53.765000

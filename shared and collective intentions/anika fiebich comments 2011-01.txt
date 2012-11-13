@@ -1,0 +1,57 @@
+
+-------- Original Message --------
+Subject: 	Re: collective goals
+Date: 	Tue, 25 Jan 2011 14:29:53 +0100
+From: 	Anika Fiebich <anifiebich@googlemail.com>
+To: 	Stephen Butterfill <s.butterfill@warwick.ac.uk>
+
+
+
+
+Dear Steve,
+
+thanks for this paper. It was very inspiring to read. In general, I like this approach much more than your previous one.
+
+Minor: What I noticed several times was e.g. that you write that 1) intentions coordinate actions (that's certainly not the case; agents might coordinate their action because of the shared intention but it's not the intention itself that coordinates something), and 2) goals that involve nothing like shared intentions or resemble shared intentions (since you do not discuss what the resembleness means, it's confusing to the reader; I suggest to explain this or simply leave it out and write "no shared intentions").
+
+Major: I also liked that you informed the reader by using many examples/illustrations but unfortunately, I didn't understand some.If I understood you correctly is compatibility with others' success the main criterion for distributive goals and that no knowledge of other agents aiming for the same goal needs to be involved here. But then the criterion to distinguish an individual goal from a distributive goal seems to rely merely on a 3rd person perspective observation and it seems to have no implications for the agent having an individual or a distributive goal. However, the boat case you discussed at the beginning seems to involve more. Your write that Sam's and Marnie' boat sinking activities have a distributive goal just if both succeed in sinking the boat together. If Sam knows that his weight is not enough to sink the boat and he does not know about Marnie's intention to the sink the boat and that Marnie aims to jump into the boat as well - what would motivate Sam to jump into the boat if not 1) mutual knowledge of both agents to aim for the same goal and 2) mutual knowledge/agreement about the coordinated behavior patterns that are required to achieve that goal, i.e. jumping together in the boat. This seems to be a collective goal to me (according to your definition).
+
+Collective goals: I was amused by reading my and John's name in one of your illustrations ;) Here, you wrote John and Anika fell a tree using a two-handled saw. Now imagine a case which is as similar as possible to this one except that John becomes exhausted and they have to give up half way through. In this modified case the coordination of John’s and Anika’s activities does not facilitate the occurrence of the outcome [AF1] (the felling of the tree).
+
+ [AF1]I think that the coordinated behavior pattern itself facilitates the occurrence of the outcome since if the same coordinated behavior pattern would have been performed a bit longer, the goal/outcome would have been achieved. So, why not say the coordination facilitates the outcome?
+
+Another example: suppose that Isabel and Rudi are in the habit of lifting heavy blocks by each pulling on a rope. Normally and on nearly all occasions either could lift any of the blocks alone but, providing their pullings are coordinated, the task is easier when done jointly; and no matter how uncoordinated they are, the way the ropes are arranged means that it is never normally harder for them to lift a block jointly than alone[AF1] .
+
+ [AF1]I have problems with this example since I think it always matters how they pull. Even if the way the ropes are arranged means that it is never harder for them to lift a block jointly than alone, there may be better or worse ways of coordination that are more or less effective and mean to be it more or less harder for them to lift the block;
+
+Furthermore, still coordination facilitates the outcome. It’s the rope that coordinates their actions in a way that the forces of each agent do not contradict each other (that’s why it is never harder for them to lift a block jointly than alone). Interesting case, but nonetheless coordination
+In general, I have a main problem to grasp the idea how two agents can coordinate their behavior in virtue of reaching a collective goal without a grasp how they need to coordinate their behavior, i.e. without having a shared intention. On my view, coordination needs to be specified somehow and it is specified by the shared intention of the agents ... If I understand you correctly, you define distributive and collective goals as an attribute of activites, not of agents? But what makes my behavior goal-directed if not my intention to reach that goal? Maybe you can explain this to me once more? This would be great, thank you.
+
+Thanks also for your confidence to send me your paper to proofread. Does this appear in the special issue of "Joint Action: What is Shared?"
+
+All the best,
+Anika
+
+
+
+
+2011/1/17 Stephen Butterfill <s.butterfill@warwick.ac.uk>
+
+    Dear Anika,
+
+    I really enjoyed our discussion at your workshop in Aarhus.  I'm not sure if you will remember it, but it really stuck in my mind and changed the way I was writing about joint action.  Anyway, I have a paper which is an attempt to reply to the objection you made in Aarhus and I was wondering whether you might have time to comment on it.  I imagine you are probably much too do this, and I hope you don't mind me asking out of the blue like this.
+
+    This is a good moment to thank you (and John) again for the invitation to your workshop which was unusually helpful for me.
+
+    best wishes,
+    Steve
+
+    On 30/08/2010 11:18, Anika Fiebich wrote:
+>     Dear Steve,
+>
+>     some of the speakers of our Aarhus conference on "Shared Emotions, Joint Attention, and Joint Action" also gave a reference of an own paper they refer to in their talk. That's not necessary but if you have any reference you'd like to mention in the programme, please send it to me as soon as possible.
+>
+>     Thanks in advance and best wishes,
+>     Anika
+>
+

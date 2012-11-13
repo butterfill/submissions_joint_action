@@ -1,0 +1,29 @@
+Many (probably most) philosophers accept that agency is linked to intending.  To be the agent of an action involves having an intention appropriately related to that action.  How must agents' intentions relate to an action when the action is joint rather than individual?  
+
+There is also a hard question about whether Ayesha or Beatrice can individually intend to carry the basket, since in the joint case whether the basket is carried or not depends on another agent's action.
+
+
+
+One obstacle to addressing these questions is lack of agreement on what joint action is.  For present purposes we can suppose that a joint action is simply an action with two or more agents.  We also distinguish *intentional* joint action from joint action.  To explain the distinction it is helpful to borrow Donald Davidson's notion that an action can be intentional under some descriptions and not intentional under others.  To illustrate, suppose Ayesha brings calf brain sandwiches to the picnic, thereby offending Beatrice.  Ayesha's action is correctly described both as brining sandwiches and also as offending Beatrice.  Her action may be intentional under the first description but not the second.  
+
+
+
+In developmental psychology, joint action is closely connected with research on theory of mind and its precursors.  With respect to a particular notion of joint action, we can ask which theory of mind abilities are required to engage in joint action, and also whether there are theory of mind abilities whose acquisition might be facilitated by abilities to engage in joint action.  One obstacle to pursuing such questions is uncertainty over which notion or notions of joint action matter for understanding development.  According to Tomasello and Rackoczy, forms of cooperative activity which appear around infants' first birthdays are "all manifestations of a single underlying social-cognitive skill".  They call this skill *shared intentionality* and characterise it as "the understanding of persons as intentional agents who have a perspective on the world that can be followed into, directed, and shared" (Tomasello and Rakoczy 2003: 125).  On this view, joint action of the sort children in their second year engage in already presupposes a relatively sophisticated understanding of other's minds.  If this is right, it seems unlikely that engaging in joint action could significantly facilitate developments in theory of mind abilities.  A key cluster questions for understanding development, then, concern which abilities are required for particular forms of joint action.
+
+
+
+
+Abilities to follow others' gaze appear early in infancy and seem to increase in sophistication as infants show greater sensitivity to the enabling conditions of perceptual modalities.  Around their first birthday, infants produce and comprehend pointing gestures whose function is to inform as well as those which function as requests for an object.  Children in their second year spontaneously help adults by, for example, opening a door or retrieving a dropped object; and they comprehendingly engage in cooperative activities with others, who they expect to play their part and may support when they fail to do so.  Tomasello and Rackoczy argue that these various abilities---pointing, helping and cooperation---and others are "all manifestations of a single underlying social-cognitive skill, namely, the understanding of persons as intentional agents who have a perspective on the world that can be followed into, directed, and shared" (Tomasello and Rakoczy 2003: 125).  They call this skill 'shared intentionality'.  An opposing view 
+
+
+
+
+
+
+
+one apparently basic question is when humans first engage in intentional joint action.  Given that there are apparently substantial and unresolved disagreements about what joint action is and what sorts of intention it involves, the basic question makes no sense.  
+
+on theory of mind has been one focus for over thirty years.  
+
+issues about 
+Developmental psychology: Focus on development of theory of mind; in exploring pre-cursors to ToM such as joint attention/pointing, infants’ and toddlers’ strong motivation to share perceptual experiences with others, to help others, and to act together with others has become apparent. While the motivation to share and its developmental trajectory are now quite well documented many questions about the abilities required to engage in joint action remain. → Brownell

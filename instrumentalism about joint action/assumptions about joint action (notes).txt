@@ -1,0 +1,59 @@
+Assumptions about joint action
+
+*see also assumptions about shared intention
+
+[1] awareness of the joint nature of the activity: 'I think that each participant is committed in that at least for now, the participant can answer the question of what he is doing or will be doing by saying for example "We are walking together" or "We will/intend	to walk together."' (Roth 2006, p. 361)   
+
+intention to be involved in a joint action "For a and b to be involved in a joint action they must intend to be involved in a joint action under some description even though that description may not be a description which applies to them." \citep[p. 118]{brooks_joint_1981}
+
+
+[4] Awareness of the other as intentional agent: 'Cooperation ... is cooperation between intentional agents each of whom sees and treats the other as such' (Bratman 1992, p. 333).
+
+[x] awareness of the other: `for our going to Chicago together to be joint,
+we each must believe it at least possible the other knows of or will try to predict our choice, and be favorably disposed to the other's knowledge or anticipation of that choice, at least in the sense that no one would modify his or her plans in virtue of disclosure.' \citep[p.\ 6]{Kutz:2000si}
+
+also: `each must not only act in light of beliefs about the other's plan, but each must also be favorably disposed towards the other's possible knowledge of this strategic sensitivity.' \citep[p.\ 6]{Kutz:2000si}
+
+[x] intentions mentioning the other: "in an n-agent action of any sort the intentions of each agent must refer to the others ... a 2-agent [i.e. joint] action is a set of bodily movements which are intentional under some description; and the descriptions under which the movements are intentional for the agents involved must mention the other agent" \citep[p. 118]{brooks_joint_1981}.  But nb. Brooks does allow that two people competing may not know of each other's existence (p. 118); but see final page (p. 119): "Joint actions are divided into mob actions and n-agent actions.  In mob-actions the intentions of the participants need not refer to other agents.  In n-agent actions they must."  But this seems to be contradicted in the same paragraph: n-agent actions are irreducibly or reducibly so; in reducibly n-agent actions "the participants' beliefs but not their goals mention other agents." (p. 119)
+
+
+[6] commitment to support others: 'If I believe that you need my help I will provide it if I can. ... Each agent is committed to supporting the efforts of the other to play her role in the joint activity.' (Bratman 1992, p.327-8)
+
+
+[2] contralateral commitments -- nb. it's *assumed* that some commitments attend joint actions and *argued* from this premise that the commitments cannot be explained by appeal to general moral principles.
+
+'If Jack and Sue are walking together, and Jack begins to walk so fast that Sue cannot keep up, Sue is entitled to complain to Jack that they were walking together and that he is walking too fast. Sue's entitlement appears to be based on Jack being in some sense committed to Sue to maintain a pace that allows Sue to keep up. ... Sue is in a *special* position to criticize Jack when he walks too fast.' (Roth 2006, pp. 363-4)
+
+'Jack has a commitment-to-Sue to pursue that commonly held goal, to do his share in their pursuit of this goal. Sue has the corresponding commitment-to-Jack. This distinctive pattern of special and executive commitments-what I've been calling contralateral commitments-is	characteristic of shared agency.' (Roth 2006, pp. 369)
+
+Contrast Bratman 2006, p. 8: 'this interdependence need not bring with it mutual obligations of each to each not to opt out. Or, anyway, it would require substantive argument in moral theory to establish that interdependence of the cited sort really does generate—quite generally and not solely in cases with further features—mutual obligation.'
+
+
+[3] 'When individuals act together, their relevant intentions and contralateral commitments are subject to interpersonal consistency and coherence.' (Roth 2006, pp. 368-9)
+
+[4] `all forms of collective action share a common element in the form of overlapping, individual participatory intentions.' \citep[p.\ 4]{Kutz:2000si}
+
+[5] responsive to intentions of other: 'I will be trying to be responsive to your intentions and actions, knowing that you will be trying to be responsive to my intentions and actions.' (Bratman 1992, p.327)
+
+[7] something we value: [a] 'Modest sociality is a deep feature of our lives, something we frequently value both for its own sake and instrumentally.' (Bratman 2009, p. 150)  [b] SCA is something that 'many of us see as important in out lives' (Bratman, 1992, 327)
+
+[8] joint action requires interdependence PLUS realisation of the interdependence (\citep[p.56]{miller_social_2001}: we both want to get from London to Oxford; I have no car and offer to pay you for petrol if you give me a lift, which you do.  `this is not joint action.  For although I have an end to get to London and achieve it on condition that you drive me, you are not similarly placed ... you will get to London whatever I do.  Since the interdependence is not two way [sic] this is not joint action.'  PLUS now suppose that `unbeknownst to you the money you had carefully saved for the trip was taken from your wallet the night before ... this is still not joint action because neither you nor I believe that your action is dependent on mine.')
+
+[9] `the key property of joint action lies in its internal component. It lies in the participants’ having a “collective” or “shared” intention to so act.' \citep[pp. 444-5]{alonso_shared_2009}
+
+[10] There is a single distinction between collective action and interdependent individual actions: "My complaint was that if we skip that implicit reference, Bratman's theory does not uphold the distinction between a collective action, and a set of individual interdependent actions." \citep[p. 146]{petersson_collectivity_2007}
+
+[11] "individuals engaged in joint agency are each accountable to the others in a way that allows the others to demand compliance from them." (Helm 2008, p. 33)
+
+[12] Seeman (from Anscombe paper): `What is different [as between in the phenomenology of joint and individual actions] is that there is a sense of joint inveolvement to such experiences: one has a sense of acting *together* with another in collective undertakings ... it is that sense which is constitutive of the joint character of the event.'
+
+STATEMENTS OF WHAT THE CHALLENGE IS
+
+"This is the challenge of collective action: bridging the gap between the statements true of the group and the statements true of its members." (Kutz 2000, p. 2).
+
+"I want to determine what makes true such statements as "They prepared the picnic food for tomorrow" or "She participated in their robbery by acting as a lookout." The general intuition that I shall be exploring at length is that collective action is the product of individuals who orient themselves around a joint project." (Kutz 2001, p. 3)
+
+
+`The key question in the philosophy of collective action is simply: what does it amount to? In other terms: under what conditions are two or more people doing something together?' \citep[p.\ 67]{Gilbert:2010fk}
+
+`One way to approach the issues here is to ask what distinguishes actions of individuals that together constitute shared activity from those that amount to a mere aggregation of individual acts. What is left over when we subtract what each of us did from what we did together?' \citep{roth_shared_agency}

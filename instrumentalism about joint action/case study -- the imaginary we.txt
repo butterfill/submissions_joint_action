@@ -1,0 +1,23 @@
+Case Study -- the imaginary 'we'
+===================================================
+
+This case study depends on attributing states to an imaginary agent and executing actions on behalf of the agent.  This can seem like a strange idea.  But think first about how two- and three-year-old children interact with their teddies and dolls.  It's quite common for children to describe these imaginary agents as doing and feeling things, and as trying to do things.  Given what the imaginary agent is supposed to be doing, children are able to identify how they need to act on its behalf and to execute those actions on behalf of the imaginary agent.  
+
+Note that children sometimes do this in order to bring about their own real-world objectives (especially when they risk getting into trouble).  So using an imaginary agent is compatible with achieving a real-world objective. 
+
+I want to suggest that joint action sometimes involves imaginary agents as well.
+
+Lucina and Charlie each want to complete a multi-step puzzle.  Neither has the skill or motivation to do it alone, but they do have complementary skills which are jointly sufficient to complete the puzzle.  Lucina:
+
+	- imagines that she and Charlie are a single agent
+	- attributes to the imaginary agent the intention of completing the puzzle
+	- identifies and executes part of what must be done on behalf of the imaginary agent in order for the puzzle to be completed
+	
+Charlie does the same, ascribing the same intention to the imaginary agent and identifying and executing complementary parts of what must be done.  That Charlie hits on the same intention is more a matter of luck than reliable coordination; similarly, that he executes parts of the imaginary agent's behaviour which complement those Lucina executes is more a matter of luck than reliable coordination.
+
+Of course I don't think that very much joint action is so thoroughly based on mindless optimism.  But I do think it sometimes is, and I think that joint action probably involves more mindless optimism---and more imagination---than philosophers typically allow.
+
+This counts as joint action because two agents work together to achieve an outcome which occurs as a common effect of their actions, and they themselves construe their actions as if they were the actions of a single agent.
+
+There is no role for shared intention in this case because the compatibility of intentions and roles is a matter of luck.  And the minimal conditions are not met: the agents need not be aware of each others' intentions, and they need not think of themselves as contributors to a collective end.
+

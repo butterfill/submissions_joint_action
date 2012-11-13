@@ -1,0 +1,39 @@
+Which Joint Actions Ground Social Cognition?
+
+Several researchers have conjectured that joint action partially explains how sophisticated* forms of cognition emerge in development or evolution (for example, Knoblich & Sebanz 2006; Moll & Tomasello 2007).  If any such conjecture is correct, what could joint action be?
+
+The leading approach to characterising joint action focuses on shared intention (Bratman 1993, 2009).  A shared intention is something that stands to a joint action roughly as an ordinary intention stands to an individual action.  Given some widely held claims about rationality and knowledge, shared intention requires knowledge of intentions about intentions (Butterfill forthcoming).  So shared intention already presupposes sophisticated* (social) cognition.  If the conjectures about evolution and development are true, not all significant cases of joint action can involve shared intention: if they did, abilities to engage in joint action would presuppose sophisticated* forms of cognition and so could not explain how they are acquired in evolution or development.
+
+An alternative approach to joint action starts from the claim, motivated by semantic considerations, that a joint action is an action with two or more agents (Ludwig 2007).  An immediate objection to this claim is that, given any of several widely held views about action, events standardly offered as paradigm joint actions turn out not to be joint actions at all.  This objection can be overcome by refining the claim that a joint action is an action with two or more agents.  This alternative approach is necessary for characterising the joint actions that could explain how sophisticated* forms of cognition emerge in development or evolution.
+
+
+* - yes, I do realise that the term 'sophisticated' isn't very scientific; the talk will be more specific
+
+
+Bratman, M. (1993). Shared intention. Ethics, 104:97–113.
+
+Bratman, M. (2009). Modest sociality and the distinctiveness of intention. Philosophical Studies, 144(1):149–165.
+
+Butterfill, S. (forthcoming) "Joint Action and Development", Philosophical Quarterly [http://goo.gl/ZNoWH]
+
+Knoblich, G. and Sebanz, N. (2006). The social nature of perception and action. Current Directions in Psychological Science, 15(3):99–104.
+
+Ludwig, K. (2007). Collective intentional behavior from the standpoint of semantics. Nous, 41(3):355–393.
+
+Moll, H. and Tomasello, M. (2007). Cooperation and human cognition: the vygotskian intelligence hypothesis. Philosophical Transactions of the Royal Society B, 362(1480):639–648.
+
+
+
+
+
+Outline
+
+1. The conjectures
+  Distinguish explanation in the sense of (we have sophisticated cognition in order that we can engage in joint action) from explanation in the sense of (abilities to engage in joint action explain how sophisticated forms of cognition emerge in evolution or development)
+2. Explicit ascription of psychological states is sophisticated* (develops late; requires conceptual sophistication, linked to narrative explanation; is cognitively demanding)
+...
+3. The relevant forms of social interactions are joint actions, exemplified by the developmental cases ...
+
+
+
+The objection can be overcome by revising the claim that a joint action is an action with two or more agents.  

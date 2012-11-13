@@ -1,0 +1,254 @@
+ROPP53
+"The social motivation for joint action"
+
+
+
+
+Dear Marion,
+
+Many thanks for submitting "The social motivation for joint action" to The Review of Philosophy and Psychology's special issue on Joint Action: What Is Shared?
+
+I am sorry that we have been so slow in getting back to you.
+
+We have now received two reviewers' reports which are included in the body of this email.  As you can see, Reviewer #2 is persuaded that the topic of your paper is important and relevant.  Natalie Sebanz and I, as guest editors, are very keen to have a paper on this topic in our special issue.  However the reviewers raise many objections, both to the clarity and structure as well as to the substance of your paper as it stands.  In my view the paper cannot be published in its present form for the reasons given in the reviews.  I have therefore decided to reject the paper but to give you the opportunity to submit a substantially revised paper which addresses the reviewers' objections.
+
+If you do decide to submit a revised paper, please consider making it much shorter and focusing more narrowly on social motivation, explaining what it is and why it is necessary to consider it.  I believe that this alone would be a substantial contribution to the literature on joint action.  It would also be helpful to readers to provide a more substantial conclusion stating your main claims.
+
+Were you to rewrite this paper, we would need it to be submitted by 27 February 2011.  Because time is short we would probably send the revised manuscript to a single reviewer.
+
+Thank you again for submitting to the special issue of the RPP on Joint Action.
+
+Best wishes,
+
+Stephen Butterfill
+Guest Editor
+
+COMMENTS FOR THE AUTHOR:
+
+Reviewer #1: One goal of the manuscript seems to be to argue a comprehensive picture of joint action requires to also investigate the motivations for joint action. The more specific claim is that joint actions are often, but not always based upon a social motivation to create social bonds. 
+
+I don't think anyone would disagree with the first claim (although, as noted in the manuscript, for analytical reasons one might focus on different questions related to joint actions). It would perhaps be important to work out in more detail whether current theories would have to be re-conceptualized or whether this would just complement existing approaches. The second claim about social bonds seems to be more provocative and potentially interesting. However, neither does the manuscript provide a comprehensive argumentation for this claim, nor does it provide an explanation when different social motivations lead to different kinds of joint action. 
+
+Overall, I think the insight we gain from this submission is rather little. This is in part due to the fact that the manuscript is full of detours into areas that are peripheral to the question and not really integrated into an argumentation. Examples are the paragraphs on inclusive fitness and group selection, as well as the paragraphs on oxytocin and empathy. Often the author just states that s/he agrees with a certain claim, without giving reasons for doing so (e.g. p. 18: I agree with Csibra & Gergely --- so what?). The reason for including these diverse topics should either be made more explicit or dropped altogether to streamline the paper.
+
+I have to admit that I am unable or reluctant (or both) to get into a thorough discussion of this manuscript because I find it rather incomprehensible and I feel like it has been submitted prematurely. It does not require a review process to receive feedback on such basic issues as to whether a manuscript is written comprehensibly and focused on a specific question. Moreover, the manuscript is full of typos, missing words and grammatical errors in the main text and even in headings ("Mechanisms for socially motivation"). For example, on p. 2, there are five errors in the two sentences between "Moreover .... phenomenon". That's one error per line, certainly too much for anyone writing in English and submitting it to a scientific journal, native speaker or not.
+
+Overall, I think it is an important topic to think about the relationship between joint actions and the underlying social motivations. I would very much like to see an insightful paper on this topic. I hope that the author will be able to write a more succinct paper, thinking more clearly about what exactly the paper is supposed to achieve, focusing in on the most relevant arguments and pieces of evidence.
+
+
+
+Reviewer #2: Manuscript number: ROPP53
+Title: The social motivation for joint action
+Article Type: Joint Action: What is Shared? 
+
+
+The idea proposed in this paper -- that joint actions are driven by agents' shared social motivation to form and reinforce bonds with one another -- is certainly very compelling, and has been neglected in the joint action literature. The authors make a plausible case to account for the adaptive advantage of social bonds, which gave rise to the selection of psychological and physiological mechanisms in which such motivation is manifest.  It follows that the motivation behind joint actions is not only the attainment of the target goal, but also forming and fortifying social bonds between actors. 
+
+My main concern with the manuscript is that it lacks fluidity.  I found it very difficult to read. To that end I would suggest that the authors restructure the paper. 
+
+
+Specific Issues: 
+
+p. 3 and 6:     
+First of the 4 target cases of joint action does not quite fit the account as the author states on p. 6 that 'social motivation can only count as explanatorily redundant in [this] case.' It is further claimed that this case is 'almost the exception to the rule for joint actions'. For this very reason, I would really like to hear how the author(s) would argue for the presence of shared social motivations in this case, as noted in footnote 5. 
+
+p.  4:
+In the target case 3, the author assumes there is no shared intention as the intentions of actors are not identical. I beg to differ: the children have the shared intention to play this game. One may be running while the other hiding, however this does not overrule their shared intention to play. 
+
+p. 4, para 2:
+It is not clear to me what the author refers to with 'shared intentions in the normal sense of the word'.  What is considered to be normal? 
+
+p. 6, para 1: 
+If  'a lot of what [the author] says about how social bonds promote inclusive fitness will of course also be true if we allow for group-level selection', then why stick to the inclusive framework? This paragraph could be more succinct. 
+
+p. 7, para 2:
+Final sentence. If same adaptive advantage of social bonds exists in other species, then this is not specific to humans. 
+
+p. 7-10, section 4:
+It is stated in the first paragraph of this section that there are mechanisms that increase the chances of social bonds. How are social bonds ordinarily formed without such mechanisms in place? Does the author mean that social motivations are manifest in the proposed mechanisms?
+It is acknowledged in the first sentence of the last paragraph on p. 7 that 'there may of course be other relevant' mechanisms than the two (psychological and physiological) proposed ones. What are they? And what's the rationale behind picking the two? 
+The way I understand it, these mechanisms render interactions either favorably or unfavorably, as a result of which interactions gain significance and shape our future behavior. If such is the case, the point should be better spelled-out. 
+
+p. 7, section 4, para 1:
+The final sentence of the first paragraph warns the reader about a gap in the argument, however it's not clear what that gap is. 
+
+p. 8:
+While emotions are directed towards another (we feel trust or love etc., towards another), empathy is resonating with another's emotion (we feel their pain). As such a distinction between the two should be drawn.
+    
+p. 10, section 5: 
+As a general note, altruistic behavior observed in humans (including infants) and chimpanzees (cf. Warneken et al.) could be another case where social motivations are at the foreground. 
+
+p. 12
+I do not think the author needs to go detail the imitation point. Although the imitation account proposed by Uzgiris has clearly inspired the authors to extend the idea to joint actions; imitation itself is not quite a joint action (with the exception of certain cases - where both agents have the goal of transmitting that particular skill/action). 
+
+p. 17, para 2:
+In the final sentence, 'it entails that?', what does 'it' refer to? 
+
+Section 8:
+I wouldn't say that social motivation can alone account for initiation and coordination of joint actions. The shared goal to be achieved prevails social motivation in initiation. Also, other online processes (action monitoring, prediction) are at work to achieve coordination (cf. Vesper et al., 2010). Social motivation plausibly contributes to the driving force perhaps behind initiation of joint actions more so than coordination.
+
+
+Minor points: 
+
+p. 2, para 1: Sentence starting with "Moreover, as far?", the word 'as' is missing after 'as far'. The word 'motivation in the same sentence should be 'motivational'. 
+
+p. 2, para 2: The sentence that begins with 'It also quite?', the word 'draw' should be 'draws'. 
+
+p. 3, section 2, para 1: Sentence beginning with 'Two experienced movers..',  after 'from the fourth' the word 'floor' is missing.
+
+p. 6, para 1: the phrase 'extremely long time' in the first sentence seems redundant. 
+
+p. 6, para 1:  Sentence beginning with 'Social bonds seems' should be 'Social bonds seem'.
+
+p. 7, para 3: First sentence. '? two kind of socio-motivational mechanisms?' should be '?two kinds of?' 
+
+p. 8, para 1: Final sentence. '...motivate us in other social interaction', should be '?interactions?'.
+
+p. 8, para 2: The ending of the first sentence  'conscious of us' is wrong. 
+
+p. 10, para 1: First sentence, 'The next step is to understanding?' should be '? to understand?' or '?step is understanding?'. 
+
+p. 19: First sentence 'of' is missing after 'couple'. 
+
+p. 19, para 2: Instead of the term 'autistic subjects' I would much prefer 'participants with autism'. 
+
+p. 20, para 2: 'Basically in joint actions emotions not only motivate but also communicate and this will then enable coordinated social interactions'. I suggest rephrasing.
+
+
+
+
+Reviewer #1 Warnekin
+
+
+Review Sheet: General Judgement
+============================================================
+
+1. Is the paper acceptable for publication
+ 
+            (a)    in its present form?  NO
+
+            (b)   with minor revisions? NO
+
+  Should the paper be reconsidered after
+  major revision?                        
+
+MAYBE, BUT I AM NOT THAT OPTIMISTIC.
+
+  Is it unacceptable for publication?    
+
+2. Please list any other general comments or specific
+  suggestions in the separate blind comments to author's 
+  box.
+
+Comments to Author:
+One goal of the manuscript seems to be to argue a comprehensive picture of joint action requires to also investigate the motivations for joint action. The more specific claim is that joint actions are often, but not always based upon a social motivation to create social bonds. 
+
+I don't think anyone would disagree with the first claim (although, as noted in the manuscript, for analytical reasons one might focus on different questions related to joint actions). It would perhaps be important to work out in more detail whether current theories would have to be re-conceptualized or whether this would just complement existing approaches. The second claim about social bonds seems to be more provocative and potentially interesting. However, neither does the manuscript provide a comprehensive argumentation for this claim, nor does it provide an explanation when different social motivations lead to different kinds of joint action. 
+
+Overall, I think the insight we gain from this submission is rather little. This is in part due to the fact that the manuscript is full of detours into areas that are peripheral to the question and not really integrated into an argumentation. Examples are the paragraphs on inclusive fitness and group selection, as well as the paragraphs on oxytocin and empathy. Often the author just states that s/he agrees with a certain claim, without giving reasons for doing so (e.g. p. 18: I agree with Csibra & Gergely --- so what?). The reason for including these diverse topics should either be made more explicit or dropped altogether to streamline the paper.
+
+I have to admit that I am unable or reluctant (or both) to get into a thorough discussion of this manuscript because I find it rather incomprehensible and I feel like it has been submitted prematurely. It does not require a review process to receive feedback on such basic issues as to whether a manuscript is written comprehensibly and focused on a specific question. Moreover, the manuscript is full of typos, missing words and grammatical errors in the main text and even in headings ("Mechanisms for socially motivation"). For example, on p. 2, there are five errors in the two sentences between "Moreover .... phenomenon". That's one error per line, certainly too much for anyone writing in English and submitting it to a scientific journal, native speaker or not.
+
+Overall, I think it is an important topic to think about the relationship between joint actions and the underlying social motivations. I would very much like to see an insightful paper on this topic. I hope that the author will be able to write a more succinct paper, thinking more clearly about what exactly the paper is supposed to achieve, focusing in on the most relevant arguments and pieces of evidence.
+
+
+
+Terry Eskenazi (Reviewer 2)
+Review Sheet: General Judgement
+============================================================
+
+1. Is the paper acceptable for publication
+ 
+            (a)    in its present form?  
+
+            (b)   with minor revisions? 
+
+  Should the paper be reconsidered after
+  major revision?                        
+
+  Is it unacceptable for publication?    
+
+2. Please list any other general comments or specific
+  suggestions in the separate blind comments to author's 
+  box.
+
+Comments to Author:
+Manuscript number: ROPP53
+Title: The social motivation for joint action
+Article Type: Joint Action: What is Shared? 
+
+
+The idea proposed in this paper -- that joint actions are driven by agents' shared social motivation to form and reinforce bonds with one another -- is certainly very compelling, and has been neglected in the joint action literature. The authors make a plausible case to account for the adaptive advantage of social bonds, which gave rise to the selection of psychological and physiological mechanisms in which such motivation is manifest.  It follows that the motivation behind joint actions is not only the attainment of the target goal, but also forming and fortifying social bonds between actors. 
+
+My main concern with the manuscript is that it lacks fluidity.  I found it very difficult to read. To that end I would suggest that the authors restructure the paper. 
+
+
+Specific Issues: 
+
+p. 3 and 6:     
+First of the 4 target cases of joint action does not quite fit the account as the author states on p. 6 that 'social motivation can only count as explanatorily redundant in [this] case.' It is further claimed that this case is 'almost the exception to the rule for joint actions'. For this very reason, I would really like to hear how the author(s) would argue for the presence of shared social motivations in this case, as noted in footnote 5. 
+
+p.  4:
+In the target case 3, the author assumes there is no shared intention as the intentions of actors are not identical. I beg to differ: the children have the shared intention to play this game. One may be running while the other hiding, however this does not overrule their shared intention to play. 
+
+p. 4, para 2:
+It is not clear to me what the author refers to with 'shared intentions in the normal sense of the word'.  What is considered to be normal? 
+
+p. 6, para 1: 
+If  'a lot of what [the author] says about how social bonds promote inclusive fitness will of course also be true if we allow for group-level selection', then why stick to the inclusive framework? This paragraph could be more succinct. 
+
+p. 7, para 2:
+Final sentence. If same adaptive advantage of social bonds exists in other species, then this is not specific to humans. 
+
+p. 7-10, section 4:
+It is stated in the first paragraph of this section that there are mechanisms that increase the chances of social bonds. How are social bonds ordinarily formed without such mechanisms in place? Does the author mean that social motivations are manifest in the proposed mechanisms?
+It is acknowledged in the first sentence of the last paragraph on p. 7 that 'there may of course be other relevant' mechanisms than the two (psychological and physiological) proposed ones. What are they? And what's the rationale behind picking the two? 
+The way I understand it, these mechanisms render interactions either favorably or unfavorably, as a result of which interactions gain significance and shape our future behavior. If such is the case, the point should be better spelled-out. 
+
+p. 7, section 4, para 1:
+The final sentence of the first paragraph warns the reader about a gap in the argument, however it's not clear what that gap is. 
+
+p. 8:
+While emotions are directed towards another (we feel trust or love etc., towards another), empathy is resonating with another's emotion (we feel their pain). As such a distinction between the two should be drawn. 
+    
+p. 10, section 5: 
+As a general note, altruistic behavior observed in humans (including infants) and chimpanzees (cf. Warneken et al.) could be another case where social motivations are at the foreground. 
+
+p. 12
+I do not think the author needs to go detail the imitation point. Although the imitation account proposed by Uzgiris has clearly inspired the authors to extend the idea to joint actions; imitation itself is not quite a joint action (with the exception of certain cases - where both agents have the goal of transmitting that particular skill/action). 
+
+p. 17, para 2:
+In the final sentence, 'it entails that…', what does 'it' refer to? 
+
+Section 8:
+I wouldn't say that social motivation can alone account for initiation and coordination of joint actions. The shared goal to be achieved prevails social motivation in initiation. Also, other online processes (action monitoring, prediction) are at work to achieve coordination (cf. Vesper et al., 2010). Social motivation plausibly contributes to the driving force perhaps behind initiation of joint actions more so than coordination.
+
+
+Minor points: 
+
+p. 2, para 1: Sentence starting with "Moreover, as far…", the word 'as' is missing after 'as far'. The word 'motivation in the same sentence should be 'motivational'. 
+
+p. 2, para 2: The sentence that begins with 'It also quite…', the word 'draw' should be 'draws'. 
+
+p. 3, section 2, para 1: Sentence beginning with 'Two experienced movers..',  after 'from the fourth' the word 'floor' is missing.
+
+p. 6, para 1: the phrase 'extremely long time' in the first sentence seems redundant. 
+
+p. 6, para 1:  Sentence beginning with 'Social bonds seems' should be 'Social bonds seem'.
+
+p. 7, para 3: First sentence. '… two kind of socio-motivational mechanisms…' should be '…two kinds of…' 
+
+p. 8, para 1: Final sentence. '...motivate us in other social interaction', should be '…interactions…'.
+
+p. 8, para 2: The ending of the first sentence  'conscious of us' is wrong. 
+
+p. 10, para 1: First sentence, 'The next step is to understanding…' should be '… to understand…' or '…step is understanding…'. 
+
+p. 19: First sentence 'of' is missing after 'couple'. 
+
+p. 19, para 2: Instead of the term 'autistic subjects' I would much prefer 'participants with autism'. 
+
+p. 20, para 2: 'Basically in joint actions emotions not only motivate but also communicate and this will then enable coordinated social interactions'. I suggest rephrasing.
+
+
+

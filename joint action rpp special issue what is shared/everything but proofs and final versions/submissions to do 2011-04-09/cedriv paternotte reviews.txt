@@ -1,0 +1,237 @@
+ All reviewers request that you specify more clearly what weak joint actions are.  In addition:
+
+Reviewer #1: (a) The paper needs a clear, well-supported conclusion.  (b) 'statements are made without any further justification or support'
+
+Reviewer #2: (a) 'dozens if not hundreds of minor language errors'.  (b) show that a definition of weak joint action is needed, and how the present paper will contribute to arriving at one.  As this reviewer points out, if what the paper achieves is really only 'to soften up the reader' then it is not suitable for publication.  (c) the appeal to demonstrations as examples of weak joint actions appears to conflict with the claim that all weak joint actions involve a group identity.
+
+Reviewer #3: (a) what identifying knowledge of others' does common knowledge presuppose?  (b) there are some problems with the discussion of common knowledge, including a too narrow focus on the research of a single author.  (c) the notions of indirect common knowledge and of group identification require clarification.  Note that  reviewer #3 is not the author of any work whose inclusion is recommended in their review.
+
+***
+
+Reviewer, Hanne De Jaegher: Review Sheet: General Judgement 
+============================================================ 
+
+1. Is the paper acceptable for publication 
+
+(a) in its present form? NO 
+
+(b) with minor revisions? NO 
+
+Should the paper be reconsidered after 
+major revision? 
+
+Is it unacceptable for publication? I think so. 
+
+
+Dear Steve, dear Natalie, 
+
+some remarks on this paper: 
+First, something went wrong with it, so that it was not anonymous. The name of the author appeared on the 2nd page of the review document, and also one reference was clearly to another paper of the author, which can be very easily found, even if his name was deleted. 
+Second, I'm not so familiar with the philosophical literature on joint action and joint intention that the author discusses in section 2.1., and this may have biased my review. I hope that another reviewer has been able to assess the content of section 2.1. 
+Finally, I did find this paper unconvincing and weak in explaining what the author is even attempting, as I explain in my letter to the author. As I say in my comments to him as well, I don't think the paper is ready for publication. 
+
+Best wishes 
+Hanne 
+
+2. Please list any other general comments or specific 
+suggestions in the separate blind comments to author's 
+box. 
+
+
+Reviewer, Mark Alfano, Ph.D.: Review Sheet: General Judgement 
+============================================================ 
+
+1. Is the paper acceptable for publication 
+
+(a) in its present form? No 
+
+(b) with minor revisions? No 
+
+Should the paper be reconsidered after 
+major revision? Yes 
+
+Is it unacceptable for publication? In its current form, it is unacceptable. After major revisions, perhaps it would be acceptable. 
+
+2. Please list any other general comments or specific 
+suggestions in the separate blind comments to author's 
+box. 
+
+
+Reviewer, Paul Egre: Review Sheet: General Judgement 
+============================================================ 
+
+1. Is the paper acceptable for publication 
+
+(a) in its present form? no 
+
+(b) with minor revisions? no, it needs more work than that 
+
+Should the paper be reconsidered after 
+major revision? yes 
+
+Is it unacceptable for publication? no 
+
+2. Please list any other general comments or specific 
+suggestions in the separate blind comments to author's 
+box. 
+
+
+The paper is interesting. I think the examples taken of so-called weak joint actions, and the discussion, make the paper interesting and worth publishing, provided some of the details in the argumentation are improved (see my comments). Note that this is a theoretical paper, so it does not discuss empirical data. It is still relevant I believe, but provided some
+Editor's Comments to Author:	Reviewer #1: 
+
+(I will use the abbreviation JA for joint action throughout the review.) 
+
+The general topic of this paper -- joint actions, in particular actions in large groups of people who mostly do not know each other, that the author wants to call "weak JA" -- is interesting and worthwhile, and could capture the imagination of the reader. As far as I understand it, the author wants to confront current definitions of JA with something he thinks they cannot capture (yet?), which he would like to call weak JA. He illustrates weak JA using two examples, and examines some consequences of this notion. 
+
+But unfortunately the paper lacks precision, makes many unjustified claims, does not disentangle well enough the issues that it wants to establish a difference between, namely JA and weak JA, and there is a lack of commitment to a conclusion. 
+
+The author is preoccupied with the definition of weak joint action, but not prepared to give a definition yet. It is fine to work up to a definition, and that activity in itself is useful and can constitute a valid step in the development of knowledge, and therefore could be enough to warrant a paper in itself. But I would like the author to make it much clearer how this paper will contribute to an eventual definition of weak joint action. After first also having made a more convincing case that such a definition is needed, which, in my opinion, was not done here. On the basis of these problems, anything else that follows from the paper stands on very shaky ground, and is hard to further evaluate. 
+
+I will now pick out some issues throughout the paper to illustrate these overarching problems with the paper: 
+
+- One of the central claims is that there is something like "weak joint actions" and that they do not fit the definition of joint action in general. But what weak joint actions are, is not clear. Nor is it clear what constitutes them. The author suggests that they are characterised by a lack of "direct links." What are direct links? What is a "link"? What would make it direct? No handles are given on how to treat this notion. 
+
+- Often, statements are made without any further justification or support. E.g., p. 2: "Although weak, such joint actions are typically human and cannot be found in any other animal species." Can they not? What about the phenomenon of so-called crèching in emperor penguins, where chicks and adults huddle together to stay warm? 
+
+- Another unfounded statement: p. 2 "It can thus be surprising that actions that require weaker links between individuals can be attained by human beings but not by individuals with lesser cognitive capacities" This is either a petition of principle because the author assumes that joint actions require high-level cognitive capacities, which is empirically not the case. It is hard to assess the logic of this if we still do not know what the author means by a link. Should the author be surprised by the fact that someone can achieve a "strong" link, when they have a "weak" "constitution"? This statement is as senseless, because it relies on the same play of words, instead of on an argument. 
+
+- This relates to another problem: the author takes no note of empirical work on joint action. Should he do that, he could do some serious reality check of several of these kinds of statements. 
+
+- The author gives the example of a demonstration as a weak joint action, and he says this about them: p. 7 "The main characteristic of weak joint actions is that they are anonymous, one-shot interactions" and "In weak joint actions, individuals have only one decision to make: to make the effort to participate or not." Has the author ever been on a demonstration? Are they really loose conglomerations of anonymous individuals? Is it not the case that the large majority of individuals will know at least some of the others? There seems to be, in the author's mind, no mid-way between either a mob of totally encapsulated individuals, who have nothing whatsoever to do with each other, or otherwise connections between everyone. 
+
+The above issues are just some examples of why I think this paper is not ready for publication. There are other problems, but I don't think it is worth going into a detailed analysis of them, because the above issues are sufficiently serious. 
+
+Apart from all this, there is another issue that I have. It is perhaps too far removed from the present concerns of the author to be useful to him at this stage, but I think that it is an important issue. 
+The author chooses to commit himself to an individualistic explanation of joint action (see footnote 1). To me, the basic premise of the research that the author is concerned with, nl. that in order to find out more about JA, we can base ourselves solely on what happens in individuals, and can leave untouched what is literally "in-between" individuals, is utterly misguided. It seems very difficult to find the "conceptual core of 'jointness'" (p. 2) if one starts from, and stays with, what individuals do. How can the "direct link" that the author talks about be understood if one does not address the "in-between" between individuals? What is the "direct link", again? This is perhaps the most unclear notion in the paper. It would really help if the author could explain in clear terms what he understands a direct link to be. 
+
+There is a methodological assumption that what happens in-between is somehow inert and plays no role in shaping individual actions and decisions. This assumption is incorrect. 
+
+
+
+Reviewer #2: General Comments (I refer throughout to the author as "E") 
+
+E argues that all existing accounts of joint action are inadequate because they do not apply to a particular species of joint action, namely weak joint action. Although weak joint action is not explicitly defined, E suggests that a weak joint action is one in which agents share no direct link and have no first-hand information about or knowledge of each other. Examples of weak joint actions are political demonstrations and flash-mobs. E articulates a new account of joint action intended to cover weak joint actions, in addition to the more paradigmatic cases for which previous theories were built. For E's theory to work, E must defend a weakened notion of common knowledge, which appeals to public events rather than infinitely iterated applications of the K operator. In addition, E's theory relies on the mechanism of group identification, so E sketches a theory of that notion as well. 
+
+As mentioned above, E does not explicitly say what makes a joint action weak, ordinary, or strong. In some places, E suggests that weakness is (just) a matter of whether participants have direct knowledge of the others' identities. In other parts of the text, E says that in weak joint action even less is known, such as the number of others. In still other parts of the text, E also talks of weak joint actions as being "one shot." Is being one-shot a necessary condition for being weak? E does not tell us. 
+
+If accepted, this article would require extensive English-language editing, as there are dozens if not hundreds of minor language errors. While the majority of these defects would be simple to correct, in some cases they make E's intentions unclear, which means that I cannot offer a confident appraisal of the article as a whole. 
+
+
+Specific Comments 
+
+E says the aim of the paper is merely "to soften up the reader to the seemingly paradoxical idea that increasingly sophisticated forms of joint action can exist even if what is shared between individuals is extremely flimsy." This seems a rather low bar to set oneself. 
+
+E characterizes Bratman's theory of joint action as dynamic, but perhaps a better word would be diachronic. 
+
+E's argument that weak joint actions don't involve the we-mode (page 7) is unconvincing, especially because E later invokes the notion of shared group identity in defending an account of weak joint action. Does not shared group identity presuppose the we-mode? 
+
+On page 8, E claims that "for anything to be public between individuals, at least their identities must be public themselves. It cannot be common knowledge among agents that someone is talking if nobody knows who exactly is listening." I don't see why E thinks this. Consider by way of example a traffic cop gesturing to drivers of cars, telling some to go and others to stop. The drivers see the traffic cop and see that the other drivers see the traffic cop. The cop's gestures are paradigmatically public. Nevertheless, the drivers of the cars do not know one another's identities. 
+
+E might want to refer to David Lewis's Convention, where he defines a basis for common knowledge in a way very similar to Gilbert and E. In addition, E says his definition is the same as Gilbert's, but Gilbert's definition presupposes that the agents know each other's identities. E, however, has repeatedly stressed that the agents in weak joint action typically do not know each other's identities. 
+
+One of the key steps in E's argumentation is severely marred by the language barrier. E says on page 17, "when an agent perceives an salient collective outcome, its existence becomes indirect common knowledge between all people who perceived it, as well as the fact that they identified with the group (of those who wish to realise the outcome)." I'm not sure exactly what to make of this sequence of words. What precisely is the content of the common knowledge? That members of a certain group (to which I belong) might (qua members of the group) desire that p? I think this may be what E means, but it's hard to be sure. 
+
+Also on page 17, E says that in cases of weak joint action, "the strength tendency for agents to identify with a group has to be indirect common knowledge." I don't understand what is meant by "strength tendency." 
+
+In general, the discussion of group identity is too brief and elliptical to be of much use to anyone who is not already familiar with the literature. 
+
+On page 18, E suggests that common knowledge (publicity) is not a binary but a matter of degree ("An agent may not know what others think or know, but she has at least some vague idea as to how public or well-known her knowledge is.") The whole discussion up until this point seems to presuppose, however, that common knowledge is a binary. E should eliminate this suggestion or provide an account of how common knowledge could come in degrees. 
+
+Some worries: (1) How is weak joint action different from the much better-understood concept of a Nash equilibrium? (2) E's own counterexample regarding demonstrations seems to work against E's account of weak joint action: not everybody who attends a demonstration shares the same group identity; they may even have hostile group identities. 
+
+
+
+Reviewer #3: Review of ROPP 49, A case for disjoint action 
+
+This paper is about a range of phenomena described as "weak joint actions" by the author, and about the epistemic conditions on which such actions are possible. Weak joint actions include, on the author's description, collective actions such as demonstrations and flash mobs, whose success is uncertain and that cannot rest on full explicit agreement to coordinate. The question raised by the paper is the following: prima facie, it seems that weak joint actions do not involve the common knowledge condition involved in more typical joint actions: is it so, and how do such actions therefore proceed? The author argues that some form of common knowledge is needed for weak joint actions to take place. This form is qualified "indirect common knowledge" in the paper. The author goes on to argue that indirect common knowledge is only a necessary condition for weak joint actions. To get to a necessary and sufficient condition, the author adds another criterion, namely group identification. 
+
+The paper raises an interesting and real question and gives some elements of answer worth considering. The concept introduced, of weak joint action, and the ones put forward to characterize it (namely indirect common knowledge and group identification) could make this paper valuable in a special issue on joint action. However, I think the paper should be improved on several points of detail. 
+
+1)The author begins with a summary four different analyses of joint action, explaining that a common feature to all of them is the common knowledge of some set of propositions among the agents involved. On pg. 8, then, the author points out that in so-called weak joint actions, however, the threat on common knowledge would have to do with lack of knowledge of the exact extension of the group: "it cannot be common knowledge among agents that someone is talking if nobody knows who exactly is listening". This is an interesting observation, but it is not given adequate or sufficient justification in the paper. Is the claim supposed to be justified by some formal analysis of the concept of common knowledge, or it the justification supposed to derive from an appeal to intuition? This is not clear. Consider an example: I am in a crowd and hear a speech by Obama. I hear the speech and believe that everyone else in the crowd (whoever that is) hears the speech. It could well happen that everyone hears the speech, everyone believes that everyone else hears the speech, and everyone (in the crowd) believes that everyone (in the crowd) believes that everyone else hears the speech, and so on. Intuitively, it seems that common belief could very well arise without participants knowing the identity of people in the group. All that is needed is for people to have a representation of "everyone in the group". This may be even consistent with the remarks made later in the paper. 
+
+I am not saying that there is not a real issue behind the author's remark, but it is much too allusive. There is a distinction to make between de re and de dicto belief in sentences of the form "I believe that everyone hears the speech": it can mean that I believe of everyone that they hear the speech (de re), or that I simply have the representation: "everyone hears the speech" (de dicto). The latter, de dicto form of representation appears sufficient here to construct some form of common belief. On this point, the author should refer back to Lewis's own remarks in Convention on pgs 64 and 65 (what Lewis calls sensu composito vs diviso, following Aberlard). See also recent work by A. Baltag that takes seriously the distinction between de dicto and de re belief in the formal description of common belief (I do not know if this work had been published yet). 
+
+What remains true, nevertheless, is that there is indeed a formal analysis of the concept of common knowledge (whether in iterative form or other) on which common knowledge of p will fail between members of a group G if not every agent adequately represents to themselves who exactly the members of the group are. That would be sufficient to vindicate the point made on page 8, but in any case the author needs to be much more precise. 
+
+Still on the the same point, I was wondering if the remark involves a sharp distinction between common belief and common knowledge? That is not specified in the paper. My sense was that in most of the examples discussed, common knowledge is used generically to cover cases of common belief (as in Lewis 1969), and rightly so. This is also a point that should be clarified in the paper, even in footnote (that is, say that common knowledge is used generically to cover what people sometimes call common belief). 
+
+2) Most of sections 3.2 and 3.3 are devoted to defending the validity of the concept of common knowledge against criticisms about the iterative, infinitary definition. However, I note that this problem is independent of the problem raised on pg. 8 about weak joint action, which concerned the prerequisite of the knowledge of the identity of members in the group. This is a further reason for clarification. 
+
+In fact, the author should say much more clearly that there are three problems with common knowledge in relation to weak joint actions, and these problems should be distinguished more clearly: 
+
+i) can there be common knowledge, even assuming that agents are ideal reasoners, in situations of weak joint action: this is the problem raised on pg. 8, whether common knowledge is even possible when individuals do not have complete knowledge of the group (even assuming the iterative definition) 
+
+ii) the second problem is: supposing there can be common knowledge in weak joint actions, isn't that concept of common knowledge too demanding anyway? 
+
+iii) the third and more central problem finally is: setting aside the problem in i) and ii), and supposing that there could be common knowledge, is common knowledge even necessary to the occurrence of such joint actions? Or can something weaker be provided instead? 
+
+
+3) About 3.2: the author points out that common knowledge can be defined noniteratively. The only reference given there is (apparently) the author's own work. But the author should point out that many others have proposed alternative definitions of common knowledge before. See for instance Aumann's definition in terms of the existence of a self-evident event entailing a proposition. Is that not already a way of making the concept more plausible ? What about the fixpoint definition of common knowledge? References should be added here. Lewis himself should be given more credit in that section (see Convention, pg. 56 and following). When the author writes "this definition can be proven to be equivalent to the iterative one", say more explicitly which of these results is intended (Aumann's? the authors'? someone else?). 
+
+4) The discussion of the dancing example given by Parikh seems not to significantly improve on Lewis's own analysis of similar examples in Convention. Here too, Lewis should be given much more credit. See in particular Lewis's analysis of the notion of precedent, or of salience. That the two dancers "have received a similar training, have learnt the same sequence of steps and are aware of this" is illustrative of what Lewis would call precedent (and that he relates to conventions). The second case, of the dance with no earlier training, should be likened to Lewis's favorite example, namely Hume's example of the two rowers rowing at the same rhythm for a while. Here too, it would be useful if the author brought up the Lewisian analysis again, in particular the existence of an event that indicates to the two rowers, or dancers, a system of mutual expectations. 
+
+Regarding the third Parikh case, of the dance with a robot, here the point no longer seems to concern iterations of belief, but the fact that, arguably, a robot does not even have beliefs, but follows an algorithm blindly (as the example is presented). If so, the author should question whether this still counts as a case of joint action at all (to make the case even more compelling against Parikh). Take a vegetable mixer robot: if I press on the button and follow a few other steps, the mixer and my pressing the button will collectively produce soup. But hardly anyone would describe this as joint action: the interaction is one-way here. It is rather a case of individual action, in which the robot is only a tool to a particular individual action. 
+
+5) The notion of indirect common knowledge is not sufficiently elaborated in the paper and remains a bit mysterious to me. The example given is suggestive, but it seems to be that once agents both know they are philosophers, the important point is that they will believe that some things are common belief between them. On this issue, a key reference is Stalnaker 2002, "Common Ground" (Linguistics and Philosophy), who analyzes the notion of pragmatic presupposition in terms of belief that some propositions are common belief. My sense is that the author's notion of indirect common knowledge comes close to that notion, sufficiently close at least to be worthy of an examination. In particular, Stalnaker describes a phenomenon called accommodation (and first introduced by Lewis himself), which describes the condition under which some events can become common belief even when they were not initially common belief, based on how people adjust their beliefs to the presuppositions of others. It may be a useful paper to consider. 
+
+6) The notion of group identification itself is interesting, but how exactly it interacts with what the author calls indirect common knowledge remains a bit too sketchy. This does not mean that the author is not on the right track. However, it would help if the author could consider some of his/her examples more precisely and from a game-theoretical point of view. 
+
+Take a flash mob. How would you represent the payoffs in such a game? Possibly, the payoffs should increase for the organizers and participants as the number of participants increases. But is such a game even a pure coordination game in the sense of Lewis/Schelling? That's far from obvious, since if two agents go to the mob, and one does not, supposing they are three, maybe the two who go get a payoff, though only less than they would if the third went. 
+
+Similarly, the question raised initially by the author, of whether common knowledge is really required for such actions to happen, should receive a clearer answer. Couldn't coordination in such events be premised on some low level of shared belief? For instance: "I would like it if a lot a people went to the mob. I believe that the more people go, the merrier. I expect that at least some people will have the same preferences and expectations as I have. So I decide to go". Couldn't we imagine weak joint actions to be based on such a reasoning in each agent? If so, the strongest premise is: "I expect that at least some people will have the same preferences and expectations as I have". How would such a premise fit with the account here suggested? Presumably, it is where (indirect) common knowledge would kick in, but I think the author should present that kind of more thorough analysis to make the account more convincing (especially given the fact that this paper is mostly theoretical). 
+
+Could it not be the case, finally, that second-order expectations do all the job: that for some individual to go to the flash mob, they only need to expect some other people to have the same preferences, and to expect that those others in turn expect others will have the same preferences? This question should be addressed, in particular because weak joint actions are not as strong as what Lewis describes as conventions. They are less stable, as the author says, they are "one shot". From a game-theoretical point of view, it is natural to ask whether such events might not supervene on some level of shared belief that is weaker than common knowledge, even sticking to the iterative definition. 
+
+7) The title of the paper is: "a case for disjoint action". But most of the paper is about so-called weak joint action. I fail to see how a disjoint action is defined. Please clarify or adjust title accordingly. 
+
+8) Bibliographical references 
+
+On common knowledge and criticisms addressed to the iterative definition, even before Sperber and Wilson, another useful reference is Clark and Marshall's 1981 "Definite reference and mutual knowledge" (repr. in Clark's "Arenas of Language Use") 
+
+Work by R. Aumann on the definition of common knowledge from a self-evident event should appear in the references (see "Agree to Disagree" or any textbook in game theory) 
+
+
+
+
+
+------- 
+
+Typos and minor points 
+
+pg. 3: fn. 2: "try define joint intentions": try to define 
+
+pg. 4: "it is be easily met": delete "be" 
+
+"this is often be the case": same 
+
+"it could allow to detect it": could allow one 
+
+pg. 5: "But he also brings": delete "But" (to avoid repetition with "but" in previous sentence) 
+
+pg. 7, 3 lines from bottom: not be misunderstood: not been 
+
+pg. 9: "to fit a definition weak joint action": of weak joint action 
+
+pg. 14: "for a fact to be manifest, it is sufficient to be perceptible": for it to be perceptible 
+
+"paradigm situation of common knowledge": overline 
+
+pg. 15, second paragraph: "The very same situation that leads normal agents...": I am not sure to understand the sentence, maybe because it lacks a main verb, clarify 
+
+3.4: "At on point": one 
+
+"It gives Mary vast amount of knowledge": a vast amount of 
+
+"makes them reveals their common background": reveal 
+
+"each of which give agents": gives (?) 
+
+pg. 16: "it can lead to the same amount knowledge": of knowledge 
+
+pg. 17: last paragraph: "speeches": overline 
+
+"an salient": a salient 
+
+"the strength tendency": strong 
+
+pg. 19: last paragraph, middle: "it is a forma of disconnected joint action is minimal": that is minimal

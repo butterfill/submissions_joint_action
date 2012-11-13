@@ -1,0 +1,27 @@
+Dear Luca,
+
+I am sorry that it has taken so long to get back to you about 'Shared Intention Revisited', your submission to the special issue of the RPP on Joint Action.
+
+We now have reports from two referees.  The second is constructive but recommends substantial changes.  In particular, this referee suggests changing the structure of the paper:
+
+"the paper's detailed discussion of how agents might reason in order to achieve success in Hi-Lo situtations might be valuable in its own right. ... most of what the author says is quite compatible with that analysis. It would be more proper to describe the project as an attempt to show how a shared intention (in Bratman's sense) can come into existence, and which other conditions that would have to be fulfilled in order for two agents to choose successfully in a Hi-Lo situation."
+
+I agree with the objection and this seems to me to be a good suggestion, particularly as it will avoid many of the objections raised by Reviewer #1.  
+
+While I dislike the negative tone of Reviewer #1's comments and believe that this reviewers' overall assessment greatly underestimates the value of your paper, I do think that the objections this reviewer makes are compelling and would need to be addressed in order for the paper to be accepted for publication.  On the issue of Robots, it seems to me that you might separate (a) what can be claimed about the robots from (b) what this might imply about shared intention more generally.  Even if readers, like reviewer #1, disagree with your views on (b), your claims (a) are of sufficient interest in their own right, particularly given the context and Bratman's own interest in this area.
+
+I was struck by something which neither reviewer mentions.  Gold and Sugden have recently published to papers which, among other things, raise an objection related to yours ("they don‟t have a decisive reason to use the blue paint in the first place" (p. 7)).  The papers are:
+
+Gold, Natalie and Robert Sugden (2007), "Collective Intentions and Team Agency". Journal of Philosophy, 104(3):109-137
+
+Gold, Natalie and Robert Sugden (2007), "Theories of team agency", in F. Peter and H. B. Schmid (eds.), Rationality and Commitment. Oxford: Oxford University Press. 
+
+Since Gold and Sugden come to a very different conclusion to your own, it seems necessary to include some discussion of their views and their relation to your own.  The contrast may strengthen the impression that the view you end up with is quite close to Bratman's own.  (See also Bratman's discussion of these papers in his "Modest Sociality and the Distinctiveness of Intention". Philosophical Studies, 144(1):149-165.)
+
+I agree with Reviewer #1's observation that the presentation of Bratman's view needs careful citation as the analysis you present on p. 2 differs markedly in presentation (at least)  from any of Bratman's own presentations of his view (e.g. it doesn't correspond to any of the Views in Bratman's 1992 paper).
+
+There also are some other small points that the reviewers don't mention.  For instance, in footnote 5 (p. 5) you define common knowledge in terms of belief states.
+
+After discussion with Natalie Sebanz, the other guest editor, we have decided, that unfortunately we can't accept the paper as it stands but we would welcome a resubmission which addresses the referees' concerns and those mentioned above.  I hope that you might consider doing this.  Time is very short so if you did decide to do this we would need a revision by the end of March, March 31st.  We would then send this out to a single referee and read the paper carefully ourselves before making a final decision.
+
+

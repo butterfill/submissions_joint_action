@@ -1,0 +1,1098 @@
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+
+%NB if you change paper size, change it in preamble too (where geometry is loaded)
+\documentclass[12pt,a4paper]{extarticle}
+% extarticle is like article but can handle 8pt, 9pt, 10pt, 11pt, 12pt, 14pt, 17pt, and 20pt text
+
+\def \ititle {What Is Joint Action?}
+\def \isubtitle {A modestly deflationary approach}
+\def \iauthor {Stephen A. Butterfill}
+\def \iemail{s.butterfill@warwick.ac.uk}
+%for anonymous submisison
+%\def \iauthor {}
+%\def \iemail{}
+%\date{}
+
+\input{$HOME/Documents/submissions/preamble_steve_paper}
+
+\begin{document}
+
+\setlength\footnotesep{1em}
+
+\bibliographystyle{newapa} %apalike
+
+%these two lines are for anonymous submission --- they remove author and date
+%but don't forget to remove defs above as well --- otherwise it will be in the metadata
+%\author{}
+%\date{}
+
+
+\maketitle
+%\tableofcontents
+
+\begin{abstract}
+\noindent
+Joint actions paradigmatically include 
+	two people 
+		painting a house together 
+		or 
+		lifting a heavy sofa together.
+What more is needed to understand what joint action is?
+Joint action is standardly characterised by appeal to shared intention (a technical notion) or some other ingredient distinguishing joint from individual action.
+By introducing the notion of a collective goal,
+we argue that it is possible to characterise joint action without shared intention or any other distinctive ingredient.
+This has implications for understanding 
+	what joint actions are
+	and which abilities are involved in understanding or engaging in them,
+	as well as for philosophy of action generally.
+
+\begin{comment}
+% I like this version but I'm not happy about casting things in terms
+% of events having multiple agents --- too far from this paper
+% and from the literature.
+A joint action is an event with two or more agents, as opposed to an individual action which has just one agent \citep{ludwig_collective_2007}.
+Paradigm examples include 
+	two people 
+		painting a house together 
+		or 
+		lifting a heavy sofa together.
+What more is needed to understand what joint action is?
+Clearly we have to explain what it is for some individuals to be the agents of an event.
+Standardly the explanation involves appeal to shared intention (a technical notion) or some other ingredient which distinguishes joint from individual action.
+By introducing the notion of a collective goal,
+we argue that it is possible to characterise joint action without shared intention or any other distinctive ingredient.
+This has implications for understanding 
+	what joint actions are
+	and what sort of abilities are involved in understanding or engaging in them,
+	as well as for philosophy of action generally.
+\end{comment}
+	
+
+
+\end{abstract}
+
+
+\ 
+
+
+\section{The Question}
+	\label{section_the_question}
+
+There are phenomena, call them \emph{joint actions}, paradigm cases of which are held to involve two people 
+	painting a house together \citep{Bratman:1992mi}, 
+	lifting a heavy sofa together \citep{Velleman:1997oo}, 
+	preparing a hollandaise sauce together \citep{Searle:1990em}, 
+	going to Chicago together \citep{Kutz:2000si}, 
+	and walking together \citep{gilbert_walking_1990}.
+In developmental psychology paradigm cases of joint action include  two people 
+	tidying up the toys together \citep{Behne:2005qh},
+	cooperatively pulling handles in sequence to make a dog-puppet sing \citep{Brownell:2006gu},
+	bouncing a block on a large trampoline together \citep{Tomasello:2007gl},
+	and pretending to row a boat together.
+Other paradigm cases from research in cognitive psychology include two people
+	lifting a two-handled basket  \citep{Knoblich:2008hy},
+	putting a stick through a ring \citep{ramenzoni_joint_2011},
+	and swinging their legs in phase \citep[p. 284]{schmidt_richardons:_2008}.
+
+These examples are not supposed to be merely cases of joint action, whatever that is.
+They are also supposed to be paradigm cases, 
+and they are supposed to be cases reflection on which could provide an intuitive understanding of what joint action is.
+Given that there is some notion (at least one but not necessarily only one) an intuitive understanding of which could be gained by reflection on these supposedly paradigm cases, what is this notion---or, if there is more than one, what are those notions?
+Our aim, broadly put, is to answer this question.
+(We shall gradually narrow focus in this section and the next.)
+
+The question can be constrained by noting that joint actions are the focus of a tangle of scientific and philosophical questions.  Psychologically we want to know which mechanisms make it possible to engage in and understand different sorts of joint action
+\citep{vesper_minimal_2010}.  
+Developmentally we want to know when joint action emerges, what it presupposes and whether abilities to engage in it somehow facilitate socio-cognitive, pragmatic or symbolic development \citep{Moll:2007gu,Hughes:2004zj,Brownell:2006gu}.  
+Conceptually, we want a principled way of distinguishing joint from individual actions which supports investigation of mechanisms and development \citep{Bratman:2009lv}, plus a formal account of how practical reasoning for joint action differs (if at all) from individual practical reasoning \citep{Sugden:2000mw,Gold:2007zd}.  
+Phenomenologically we want to characterise what (if anything) is special about experiences of action and agency when the actions are joint actions \citep{Pacherie:2010fk}.  
+Metaphysically we want to know what kinds of entities and structures are implied by the recognition that some actions are joint actions \citep{Gilbert:1992rs,Searle:1994lb}.  
+And normatively we want to know what kinds of commitments (if any) are imposed on participants in joint actions or how these commitments arise \citep{Roth:2004ki}.
+
+These questions provide one possible motive for asking our question about the nature of joint action.
+Perhaps better understanding the nature of joint action will facilitate  progress with the tangle of philosophical and scientific questions about it.
+Accordingly we impose a further constraint on acceptable answers to our question about the nature of joint action.
+Any answer  must be at least potentially relevant to the tangle of scientific and philosophical questions commonly taken to be questions about joint action.
+As we shall see (in section \vref{section_first_objection}), 
+this constraint distinguishes our project from narrowly semantic and conceptual projects (which is not to say that there is anything wrong with those projects, only that they are not subject to the same constraints).
+
+To recap, we assume that there is a notion (at least one, but not necessarily only one) which is both 
+	(a) such that an implicit conception of it is available through reflection on a collection of supposedly paradigm cases including all or many of those listed in our opening paragraph
+	and also 
+	(b) central to a tangle of philosophical and scientific questions  commonly taken to be questions about joint action.
+{By stipulation, and in line with much of the literature, we call any such notion a notion of \emph{joint action}.
+\label{df_joint_action}}
+Our question is, What is that notion or, in case there is more than one, what are those notions?  
+%Aside from these questions, (a), and paradigm cases, (b), we have not identified any constraints on what the notion or notions could be.
+
+\label{end_section_the_question}
+
+
+\section{Deflationary Approaches to Joint Action}
+	\label{section_deflationary}
+
+Our question is not new.
+According to Gilbert:
+%
+\begin{quote}
+`The key question in the philosophy of collective action is simply ... under what conditions are two or more people doing something together?' \citep[p.\ 67]{Gilbert:2010fk}
+\end{quote}
+%
+While acknowledging Gilbert's sustained attempt to elaborate and answer this question, we shall distance ourselves from a
+potentially puzzling feature of this passage, one which  reflects an attitude widespread among researchers in this area.
+Gilbert takes the question to be a question in `the philosophy of collective action.' 
+(Since differences in terminology do not appear to mark explicit theoretical differences, we take `collective action' to be another term for joint action.)
+Why think there is any such thing as the philosophy of collective action?
+
+For comparison, consider the claim that there is a philosophy of feline action.
+There are two sorts of objection to this claim.
+One would be that cats are not agents and so there is no such thing as feline action.
+Another would allow that there are feline actions but deny that they are associated with philosophical questions significantly distinct from those concerning action generally;
+feline actions are simply actions performed by cats, end of (philosophical) story.
+Take this second sort of objection and consider a parallel for the assumption, made by Gilbert and others, that there is a philosophy of joint action.
+The objection would be that joint actions do not raise philosophical questions significantly distinct from those raised by actions generally.
+Just as agents' felinity might make no difference, philosophically speaking, so also their numbering more than one may be irrelevant.
+If this were right, the correct approach to our question about joint action would be deflationary.
+Instead of trying to identify conditions, necessary or sufficient, for something to be a joint action, we should instead attempt to show that a notion of joint action is already contained in a notion of action.
+
+Can such a deflationary approach be dismissed at the outset?
+It is true, of course, that philosophical claims about action tend to apply directly only to actions with one agent and cannot straightforwardly be generalised to actions with two or more agents (examples are discussed below).  
+But since this historical fact may reflect a blind-spot rather than an insight, it alone should not persuade us that notions of joint action deserve a philosophy of their own.
+
+It is also true that existing accounts of joint action are not deflationary.
+It has generally been assumed by those attempting to characterise joint action that all joint action necessarily and constitutively involves an ingredient not already needed for characterising individual action.
+{Call any such thing a \emph{distinctive ingredient}.
+\label{df_distinctive_ingredient}}
+The distinctive ingredient is often held to be shared intention, collective intention or we-intention.
+For instance:  
+%
+\begin{quote} 
+`I take a collective action to involve a collective intention.'  \citep[p.\ 5]{Gilbert:2006wr}
+\end{quote}
+%
+Many further examples could be given  (%
+	\citealp[p.\ 381]{Carpenter:2009wq}; 
+	\citealp[p.\ 369]{Call:2009fk};
+	\citealp{Kutz:2000si}; 
+	\citealp[p.\ 117]{rakoczy_pretend_2006}; 
+	\citealp{Tollefsen:2005vh}%
+	).
+In all cases, the distinctive ingredient is supposed to stand to joint action roughly as an individual intention stands to an ordinary action.
+That is, it is supposed to coordinate two or more agents' actions and represent a goal or end to which these actions are directed.
+Beyond this there is much divergence on what the distinctive ingredient of joint action is.
+Some hold that it differs from
+ordinary intention with respect to the attitude involved (\citealp{Searle:1990em}). 
+Others have explored the notion that it differs from ordinary intention with respect to its subject, which is plural \citep{Gilbert:1992rs,helm_plural_2008}, 
+or that it differs from ordinary intention in the way it arises, namely through team reasoning \citep{Gold:2007zd}, 
+or that it involves distinctive obligations or commitments to others (\citealp{Gilbert:1992rs}; \citealp{Roth:2004ki}).
+Opposing all such views, \citet{Bratman:1992mi,Bratman:2009lv} argues that the distinctive ingredient, which he calls `shared intention', can be realised by multiple ordinary individual intentions and other attitudes whose contents interlock in a distinctive way. 
+
+Is there a notion of joint action that can be characterised without using any distinctive ingredients at all?  
+A deflationary approach to joint action aims to show that there is.
+
+To clarify what the deflationary approach amounts to let us distinguish two extreme positions.
+The strong deflationist says that no notion of joint action is such that characterising it requires any ingredient not already involved in characterising action generally.
+The strong anti-deflationist says, conversely, that all notions of joint action are such that characterising them requires appeal to a distinctive ingredient.
+Those philosophers who insist that all joint action involves shared  intention thereby endorse the strong anti-deflationist's position.
+Philosophers who claim, more modestly, that shared intention or some other distinctive ingredient is necessary to characterise a notion of joint action thereby reject the strong deflationist's position; 
+but they need not be committed to strong anti-deflationism unless they also hold that there is just one notion of joint action.
+For our part, we are neutral on whether there are notions of joint action which cannot be characterised without using distinctive ingredients.
+Our concern is with a position that is modestly  deflationary.
+The question for this paper is whether there is \emph{a} notion of joint action which can be characterised using no distinctive ingredient---that is, using no ingredient not already needed in characterising individual action. 
+
+To our knowledge only one philosopher has even raised this question in print (we are, however, indebted to many for discussion%; in particular Mike Martin, Thomas Smith and Olle Blomberg%
+).
+Chant considers the possibility that joint actions---she calls them `collective actions'---may be composed of non-joint actions and that relations between joint actions and their constituent actions may be `analogous' to relations between complex non-joint actions and their constituent actions \citep[p.\ 254]{chant_unintentional_2007}.  
+While there are differences between Chant's position and ours, this suggests she is sympathetic to the idea that no distinctive ingredients are needed to characterise a notion of joint action.
+Other than Chant, it is true that several authors have used terms such as `joint action' for notions which they characterise without using distinctive ingredients \citep[e.g.][]{ludwig_collective_2007,smith_playing_2011}.
+We shall draw on their ideas.
+But note that these authors were not attempting to engage directly with the tangle of philosophical and scientific questions mentioned above.
+Nor are their accounts presented as characterising notions of joint action in our sense (see p.\ \pageref{df_joint_action} above).
+These philosophers' positions,
+while relevant to those pursuing a deflationary approach,
+are not incompatible with strong anti-deflationism because they are not offering competing accounts of any phenomena philosophers have attempted to characterise in terms of shared intention or other distinctive ingredients.
+
+Why pursue a deflationary approach?
+Naturally part of our motivation is to demystify joint action.
+But since we are agnostic concerning strong deflationism, we cannot claim that the deflationary approach, even if successful, will resolve all philosophical issues about joint action.
+In fact, one good reason for pursuing the deflationary approach is to better understand shared intention.
+On the leading accounts, shared intentions involve individual intentions about a joint action \citep[e.g.][]{Bratman:1993je}.  
+Since the contents of these individual intentions cannot without circularity all concern shared intentional actions as such \citep[p. 95]{Searle:1990em}, characterising shared intention would require identifying a notion of joint action that can be characterised without appeal to shared intention
+ (\citealp{petersson_collectivity_2007}; \citealp[p. 163]{Bratman:2009lv}).  
+The deflationary approach, if successful, would enable us to meet this requirement.
+
+On the motivation for pursuing a deflationary approach,
+we also note that some researchers have
+raised the possibility of joint action without shared intention \citep[e.g.][]{vesper_minimal_2010}.
+Others, such as Bratman, are even committed to there being joint actions not involving shared intention.%
+%
+\footnote{
+See his discussion of `cooperatively neutral joint-act-types' \citep[p.\ 330]{Bratman:1992mi}.
+Bratman does not discuss such actions in any detail and, strictly speaking, his central claims require only that some cases of joint action can be `understood in a way that is neutral with respect to shared intentionality' (\citeyear[p.\ 147]{Bratman:1999fr}).  
+%\citet[p. 448 fn. 17]{alonso_shared_2009} agrees with Bratman in stating that joint action does not require shared intention but, puzzlingly, also claims that `what distinguishes joint action from other kinds of aggregated phenomena ... lies in the participants' having a ... ``shared'' intention' (pp. 444-5).
+}
+Given the sorts of knowledge requirement generally associated with shared intention,%
+%
+\footnote{
+	See, for example, \citet{Bratman:1993je},
+	\citet[p.\ 10]{Kutz:2000si} or 
+	\citet[p. 56]{miller_social_2001}.
+}
+%
+this commitment is also a consequence of 
+	\citeauthor{schmidt_understanding_2010}'s 
+	(\citeyear[p. 7]{schmidt_understanding_2010})
+claim that `many joint actions occur spontaneously or automatically without the participants being consciously aware of their coordination with each other.'
+A deflationary approach to joint action, if successful, would vindicate these commitments.
+
+
+Here is one final reason for interest in a deflationary approach to joint action.
+In everyday life we regularly think and talk about actions involving two or more agents.
+Asked about the concert, we might report that after some solo numbers, Emily %Haines%
+sang a duet with Lyra. %Lyra Brown.%
+Catching sight of wedding celebrations outside a church, we might notice that the bride and groom are sawing through a log with a two-handled saw.
+%I suggest that she is not pulling her weight but you have seen that her dress is coming under pressure from her efforts.
+This duet and this sawing are distinct from otherwise similar cases in which the same agents are each acting alone---cases in which, say, the singers are competing for attention or the bride and groom are each individually sawing through two logs.
+Everyday thinking about action appears to respect this distinction. 
+So we can think and talk about joint actions involving two or more agents as well as individual actions involving just one.
+Are these distinct abilities?
+For those who already have number concepts, does an ability to think or talk about joint actions as such necessarily require conceptual sophistication not already required for thinking or talking about actions involving just one agent?
+The success of a deflationary approach would (nondeductively) support a negative answer to this question.
+Given either moderate or strong deflationism, it is plausible that those capable of thinking about action generally are thereby already equipped to think about joint action.
+%Strong anti-deflationists are arguably committed to giving a positive answer to this question.
+%f a shared intention or other distinctive ingredient is what makes something a joint action, then thinking about joint action as such will arguably involve having a concept of shared intention or similar.
+
+A deflationary approach to joint action, if successful, will show  that
+an adequate philosophical account of action already contains an account of joint action.
+Understanding joint action, or at least understanding one notion of it, does not require novel kinds of agent, commitment or attitude, or even novel structures of commitments or attitudes.
+It is enough to be able to count and to know what an action is.
+
+\label{end_section_deflationary}
+
+
+\section{The Simple Definition}
+	\label{section_simple_definition}
+
+Our deflationary aim is to identify a notion of joint action which can be characterised without appeal to shared intention or any other distinctive ingredient.
+(Recall from section \ref{section_deflationary} that a \emph{distinctive ingredient} is one not required for characterising individual action.)
+Our starting point we call  \emph{the simple definition}.
+To introduce it with an analogy, consider feline action again.
+How can we define feline action?
+This is not  a deep question.
+A feline action is simply an action performed by one or more cats.
+Similarly, the simple definition says that a {joint action} is an action with two or more agents, as contrasted with an {individual action} which is an action with a single agent.%
+%
+\footnote{
+We take the simple definition from \citet[p.\ 366]{ludwig_collective_2007} and are indebted to his work throughout.
+Related proposals have been made by \citet[p.\ 4]{smith_playing_2011} and \citet{chant_special_2006}.
+Note that none of these authors is committed to the claim that the simple definition defines a notion of joint action in our sense.
+Our objections to the simple definition are not objections to any view these philosophers have endorsed.
+}
+
+Despite its attractions, the simple definition faces compelling objections.
+We do not claim that this definition is adequate to our aim.
+Instead we shall offer a series of objections and refinements.
+
+\label{end_section_simple_definition}
+
+
+\section{First Objection}
+	\label{section_first_objection}
+
+
+The first objection to the simple definition is that, given standard views of action, what are taken to be paradigm cases of joint action would not be joint actions at all.
+In this section we explain the objection.
+
+According to Davidson, whose views have shaped discussion,
+%
+\begin{quote}
+`our primitive actions, the ones we do not by doing something else, ... these are all the actions there are.'
+(\citeyear[p.\ 59]{Davidson:1971fz})
+\end{quote}
+%
+A \emph{primitive action} is one that `cannot be analysed in terms of [its] causal relations to acts of the same agent' 
+\citep[p.\ 49]{Davidson:1971fz}.
+(This notion  has been clarified and refined by \citet{hornsby_actions_1980} and  others, but, as we shall explain, the refinements will not directly affect our argument.)
+Unless the existence of joint action can be ruled out in advance, this definition is insufficiently general because it applies only to actions with one agent.
+We can avoid or at least postpone the tricky question of how this definition should be generalised by noting that Davidson also holds that the only actions which are primitive are `mere movements of the body' \citep[p.\ 59]{Davidson:1971fz}.
+So on his view movements of the body are all the actions there are.
+To illustrate, suppose that Ahmed unlocks a door by turning a key, which he in turn achieves by moving his fingers.
+On Davidson's view, Ahmed's door unlocking action is his finger moving action.
+To nonphilosophers this view has sometimes seemed baffling
+but it is in some ways intuitive.
+Ahmed's action, the difference that his agency makes in the world,  is not constituted by the lock's movement but only by the movements of his own body
+(or, on developments of Davidson's view, by Ahmed's trying to move his body---see below).
+Whether the lock unlocks or not depends on things which Ahmed cannot directly influence; it is at most the movements of his body which are under his control when he acts.
+Since his action causes the door to unlock, we can \emph{describe} Ahmed's action by saying that he unlocks the door.  
+But this doesn't mean that changes in the lock are \emph{parts} of his action, only that they are among its effects.
+
+This  view, together with some plausible assumptions, implies that in many or all supposedly paradigm cases of joint action, no action has two or more agents and so there is no joint action after all.
+Briefly, this is because there is no bodily movement with more than one agent.
+To illustrate, take the case where two people, acting on a shared intention, pull levers in sequence to make a puppet sing \citep{Brownell:2006gu}.
+Call them Ayesha and Pandora.
+Each agent grasps a distinct lever with her own hand and moves her own torso, shoulder and arm in pulling it.
+Furthermore, no other bodily movement involving these 
+agents is among the causes of the puppet's singing.
+Suppose that all actions are primitive and that all primitive actions are  bodily movements, as Davidson claims.
+Then among the actions which together result in the puppet singing there is none of which both Ayesha and Pandora are agents.
+Given the simple definition, it follows that their making the puppet sing together was not a joint action.
+
+%short version
+Is this too quick?  
+Suppose that some composite of Ayesha's and Pandora's lever-pulling actions is an event.
+%If Davidson is right that only bodily movements can be actions, then this event comprises only bodily movements.
+%Furthermore, this event clearly involves both agents.
+If this event were an action, it would have both Ayesha and Pandora as agents and so would count as a joint action on the simple definition.
+But could any such event be an action?
+To see whether it could, 
+consider a parallel scenario, one that is as similar as possible  except that a single agent, Coralie, makes the puppet sing by pulling both levers herself.
+Let us stipulate that Coralie's pulling of what was formerly Ayesha's lever is an action, and similarly for Coralie's pulling of Pandora's lever; this is surely possible even if there are other possible cases in which Coralie's pullings would together comprise a single action without either pulling individually being an action.
+Unless there are three actions in this scenario, Coralie's two pullings plus their composite, we should not allow that there are three actions in the original scenario either.
+Now on  some views of action it is possible that in Coralie's making the puppet sing there are indeed three (or more) actions.
+But, given Davidson's claims, the composite of Coralie's two pullings is not an action.
+This is because the event is not primitive: it consists of two actions and nothing else and so, trivially, it can be analysed in terms of these actions.
+We should therefore draw the same conclusion about the composite of Ayesha's and Pandora's pullings: it is not an action.
+So on Davidson's view, the events (if any) which involve both Ayesha and Pandora as agents are not actions.
+
+To avoid possible confusion about the nature of this claim, consider  what `Ayesha and Pandora's making the puppet sing' might refer to.
+This, like other phrases of this form, is arguably ambiguous \citep[p.\ 84]{pietroski_actions_1998}. 
+It might refer to an event which includes, among other things, Ayesha's and Pandora's pullings of the levers together with the subsequent singing of the puppet.
+Call this event \textsc{the episode}.
+Alternatively, `Ayesha and Pandora's making the puppet sing' might refer to an event comprising only the actions which caused the puppet to sing, so not the singing itself.
+Call this event \textsc{the actions}.
+(We could describe this event as comprising Ayesha's pulling a lever and Pandora's pulling a lever but for the fact that `Ayesha's pulling a lever' exhibits the very form of ambiguity we are discussing.)
+These are different events if, as seems plausible to many, \textsc{the actions} is over some time before the puppet has finished singing whereas \textsc{the episode} is not.
+Now the event of which Ayesha and Pandora are apparently both agents, \textsc{the episode}, is not an action;
+and the event which is entirely constituted by actions, \textsc{the actions}, does not include any action with more than one agent.
+This is why, given Davidson's claims, Ayesha and Pandora's making the puppet sing is not a joint action according to the simple definition of joint action.
+
+The simple definition says that a joint action is an action with two or more agents.  Given this definition, if Davidson's claims (or some variation of them---see below) are true, then supposedly paradigm cases of joint action turn out not to be joint actions at all.
+
+Note that the above argument works irrespectively of whether Ayesha and Pandora have a shared intention.
+We could have stipulated that they engage in team reasoning, that they jointly decided to make the puppet sing, that each intends to do her part; we could even have stipulated that they have common knowledge of each other's intentions that they make the puppet sing in accordance with, and because of, meshing subplans of their  intentions that they make the puppet sing.
+None of this would have made  any difference as far as the above argument is concerned.
+
+The argument, appropriately modified, applies to cases that are widely taken to be paradigmatic joint actions.
+In making the sauce, you stir while I pour;
+in painting the house, you cover the outside while I do the inside; 
+and in walking together you move your legs while I move mine.
+In each of these supposedly paradigm cases of joint action, as in many others, no bodily movements which are actions need have two or more agents.
+Given the premises above, it follows that there are no actions with more than one agent in any of these cases.
+And on the simple definition of joint action this means that these supposedly paradigm cases of joint action are not in fact joint actions.
+
+In outline, this is the objection to the simple definition of joint action:
+%
+\begin{quote}
+1. A joint action is an action with two or more agents.
+\end{quote}
+%
+%
+\begin{quote}
+\label{objection_1_premise_2}
+2. Primitive actions `are all the actions there are'
+\citep[p.\ 59]{Davidson:1971fz}.
+%Therefore, only bodily movements can be actions and no event consisting only of two or more actions can be an action. 
+\end{quote}
+%
+%
+\begin{quote}
+3. In what are commonly taken to be paradigm cases of joint action, no  primitive actions have more than one agent.
+\end{quote}
+%
+Therefore:
+%
+\begin{quote}
+4. What are commonly taken to be paradigm cases of joint action are not actually joint actions at all.
+\end{quote}
+%
+Why is this argument, even assuming that it is sound, an objection to the simple definition?
+Why not just bite the bullet and accept that supposedly paradigm cases are not actually joint actions?
+This might be worth considering if our project were to provide a semantic theory.
+But our project is to identify a notion of joint action that supports philosophical and scientific inquiry.
+And a notion on which few or no supposedly paradigm cases turn out to be joint actions is unlikely to serve that purpose.%
+%
+%\footnote{
+%Note that no deductive argument is available here.
+%It is true that we are assuming that nothing is a notion of joint action unless an implicit conception of it is available through reflection on supposedly paradigm cases.
+%But this assumption does not imply that all, or even that any, of these supposedly paradigm cases must actually be joint actions.
+%It is possible in principle that reflection on these cases might make available an implicit conception of a notion which applies to none of the supposedly paradigm cases.
+%}
+%
+This is why the argument, if sound, shows that the simple definition is too narrow.
+
+The second premise of the argument can be weakened.
+Some philosophers broadly in agreement with Davidson reject the claim that all actions are primitive in his sense but allow that all actions are primitive in some other sense (the term `basic' is now more common than `primitive'), and some also hold that primitive actions are tryings rather than bodily movements \citep[e.g.][]{hornsby_actions_1980}.  
+If the above argument works given Davidson's position it also works given such revisions to the position.
+In fact, the argument works given any position which respects two constraints: first, no action involves the movements of things other than the agent's or agents' bodies; and, second, an event comprising two or more actions and nothing else is not itself an action.
+Whether Ayesha's pulling of the lever was a bodily movement, a trying or anything else which stops short of including the puppet's singing, the action was hers alone.
+
+Note that our argument does not depend on the assumptions that all primitive actions or all bodily movements have at most one agent.
+%Nor do we claim to have shown that nothing falls under the simple definition of joint action.
+Nor do we see any justification for such assumptions.%
+%
+\footnote{
+Several arguments hint at the possibility of primitive actions with more than one agent.
+Roth (\citeyear{Roth:2004ki}) argues that one agent can literally act on another's intention,
+Sebanz et al (\citeyear{Sebanz:2005fk}) argue that an individual agent's motor system routinely plans not only that agent's actions but also the actions of another,
+and 
+Ramenzoni et al (\citeyear{ramenzoni_joint_2011}) argue that two people's bodies can be coupled in ways that resemble  couplings within a body. 
+}
+%
+Our point is that \emph{Ayesha's pulling}, this particular action, has only one agent  (and Pandora's likewise); and that the same is true for many cases which are widely taken to be paradigm  joint actions.
+It may be that the simple definition of joint action picks out a theoretically significant cluster of cases.
+Our claim is only that, given some background assumptions about action, these do not include supposedly paradigm joint actions.
+
+
+This, then, is the first objection to the simple definition.
+Given standard views about action, the simple definition implies that many supposedly paradigm cases of joint action do not involve joint action at all.
+
+\label{end_section_first_objection}
+
+
+\section{Avoiding the First Objection}
+	\label{section_revised_simple_definition}
+	\label{section_grounding}
+
+One response to the first objection would be to provide grounds for rejecting the standard views about action which cause the problems (i.e.\ for rejecting premise 2 of the argument \vpageref{objection_1_premise_2}).
+We shall not consider this response here \citep[but see][]{chant_special_2006,chant_unintentional_2007}.
+Instead we shall pursue a response which does not require rejecting standard views about action.
+
+Our response will hinge on the idea that, in an attenuated sense of agency,  individuals may be agents of events other than actions.
+To explain this idea consider a two-part proposal due to Pietroski (\citeyear{pietroski_actions_1998,pietroski2002causing}).
+First, there is a relation among events, \emph{grounding}.  
+He stipulates that: 
+%
+\begin{quote}
+%\textbf{[singular grounding]} 
+`event $D$ \emph{grounds} $E$, if: $D$and $E$ occur; 
+$D$ is a (perhaps improper) part of $E$; and 
+$D$ causes every event that is a proper part of $E$ but is not a part of $D$.'
+(\citeyear[p.\ 81]{pietroski_actions_1998})
+\end{quote}
+%
+Pietroski's intention is that the toppling of a line of ten dominoes should be grounded by the toppling of the first domino 
+(\citeyear[p.\ 81]{pietroski_actions_1998}).
+The definition of grounding may need modification if this intention is to be fulfilled.
+For suppose that the toppling of the first two dominoes is an event, call it $T_{1\&2}$.
+Then, since $T_{1\&2}$ is a proper part of the toppling of the whole line and not a part of the toppling of the first domino,
+the above definition entails that
+the toppling of the first domino can only ground the toppling of the whole line if the toppling of the first domino causes $T_{1\&2}$.
+But since the toppling of the first domino is a part of $T_{1\&2}$, on many standard accounts of causation the former will not cause the latter.
+To see why, consider two principles.  
+First, no event causes itself.  
+Second, where one event causes another, the first event also causes any event which is part of the second (this principle may be restricted in ways which do not affect its application here).  
+These principles jointly imply that the toppling of the first domino does not cause $T_{1\&2}$.
+Given that $T_{1\&2}$ exists and these principles are correct, the above definition entails that the toppling of the first domino does not ground the toppling of the whole domino line, contrary to what was intended.
+
+We can overcome this potential objection and related complications (%
+such as those arising from the possibility that parts of $E$ overlap with $D$%
+) by modifying the definition of grounding.
+In what follows we shall use the term `part' to include improper parts; accordingly, every event is part of itself.
+Let us say that two events \emph{overlap} just if there is a part of one which is also part of the other.
+More generally (this will be useful later),
+two or more events \emph{overlap} just if there is a part of one of these events which is also a part of any of the other events.
+Let us revise Pietroski's definition by stipulating that
+%
+\begin{quote}
+%\textbf{[singular grounding revised]} 
+Event $D$ \emph{grounds} $E$  just if: $D$ and $E$ occur; 
+$D$ is a  part of $E$; and 
+$D$ causes every event that is a part of $E$ but does not overlap $D$.
+\end{quote}
+%
+On the revised definition it is uncontroversial that the toppling of the first in a line of dominos grounds the toppling of the whole line.
+
+The second part of Pietroski's proposal is along these lines (we ignore some complications not relevant for present purposes): for any event, whether or not it is an action, to be an agent of that event is to be an agent of an action which grounds it 
+(\citeyear[p.\ 82]{pietroski_actions_1998}).
+This provides an attenuated sense in which an individual can be an agent of an event even if the event is not an action.
+(Note that since every event grounds itself, the proposal incorporates prior truths about agency.)
+
+To illustrate, suppose that Coralie makes a puppet sing by pulling two levers in sequence.
+As we saw, according to Davidson and others the singing of the puppet is not part of any of Coralie's  actions.
+But it is plausible that Coralie's action (whatever exactly it is)  grounds an event that starts with her action and ends with the puppet singing.
+If so, her actions ground this event and she is an agent of it. 
+
+Given standard views about what actions are (see section \vref{section_first_objection}), there is a strong argument for accepting Pietroski's proposal.
+The argument is simply that, in ordinary thinking about action, people do identify individuals as agents of events which are not actions, and their doing so appears to serve practical purposes.
+
+One way to avoid the first objection to the simple definition of joint action is to revise it by adopting a notion of agency attenuated along the lines indicated by Pietroski.
+There is an obstacle to doing this, however.
+Pietroski's proposal is limited to cases involving just one agent.
+To get around this obstacle we first have to generalise his definition of grounding so that an event can be grounded by any number of events, not just one:
+%
+\begin{quote}
+%[\textbf{plural grounding}]
+	\label{df_plural_grounding}	
+Events $D_1$, ...\ $D_n$ \emph{ground} $E$, if: $D_1$, ...\ $D_n$ and $E$ occur; 
+$D_1$, ...\ $D_n$ are each part of $E$; and 
+every event that is 
+	a part of $E$
+	but does not overlap $D_1$, ...\ $D_n$ 
+is caused by some or all of $D_1$, ...\ $D_n$.
+\end{quote}
+%
+For example, to return to the earlier illustration, Ayesha's and Pandora's pulling actions ground an event which starts with the pulling actions and ends with the singing.
+
+%The generalised definition of grounding has the consequence that if events $D_1$ and $D_2$ ground  $E$ and $D_1$ causes $D_2$, then, given that causation is a transitive relation, $D_1$ alone will also ground $E$.
+%This and other ways in which the grounding relation may not be unique call for caution in generalising Pietroski's statement about agency.
+We must be cautious in generalising Pietroski's statement about agency because the grounding relation is not bijective:  it is possible for an event to be grounded by more than one collection of events.
+In particular, we need to allow for the possibility that more than one set of actions may ground an event.
+This can be done as follows:
+%
+\begin{quote}
+	\label{agency_proposal}
+For an individual to be among the agents of an event is for there to be actions $a_1$, ...\ $a_n$ which ground this event where the individual is an agent of one or more of these actions.
+\end{quote}
+%
+So where some actions ground an event, all the agents of those actions are agents of the event; and only agents of actions which ground the event are agents of the event.
+
+How does this proposal apply to Ayesha and Pandora's making the puppet sing?
+Consider the whole episode, the episode encompassing their two pulling actions and the puppet's singing.
+Each pulling involves an action of which Ayesha or Pandora is an agent
+and these two pullings together ground the whole episode.
+So, given the above proposal about agency, Ayesha and Pandora are agents of the whole episode. 
+
+The proposal about agency is also consistent with the view that in paradigm cases of joint action, such as two people's painting a house together, there are events with two or more agents.
+The proposal thus allows us to combine two claims about supposedly paradigm cases of joint action: first, that they do not involve \emph{actions} with more than one agent (as standard views about action require); and, second, that they do involve \emph{events} with more than one agent.
+
+Accordingly one way of avoiding the first objection to the simple definition of joint action is to revise it in line with this proposal.  
+On the revised simple definition, a joint action is an event grounded by the actions of two or more agents.
+The revised simple definition and the above claim about what it is to be the agent of an event together imply that
+%
+	a joint action is an event with two or more agents.%
+%
+\footnote{
+Our general strategy for avoiding the objection to the simple definition is anticipated in outline by \citet[p.\ 376]{ludwig_collective_2007}:
+`when we speak of collective action ..., this is always to be understood as referring to individual actions ...\ in which the primitive actions of more than one agent lead, via one of the ways in which we can be agents of an event, to an event’s coming about.' 
+}
+%
+
+\label{end_section_revised_simple_definition}
+\label{end_section_grounding}
+
+
+\section{Second Objection}
+	\label{section_second_objection}
+
+The revised simple definition of joint action clearly avoids the first objection, for it no longer fails to classify paradigm cases as joint actions.
+But in revising the simple definition to avoid this objection we have made ourselves open to a converse objection.
+As we shall see, 
+whereas the original simple definition was too narrow,
+the revised definition appears to be too broad, classifying as joint actions events which arguably should not be so classified.
+
+Here is an episode we shall use to explain this objection.
+Nora and Olive killed Fred.  
+Each fired a shot.
+Neither shot was individually fatal but together they were deadly.
+An ambulance arrived on the scene almost at once but Fred didn't make it to the hospital.
+
+Consider the whole episode starting with the shootings and ending with Fred's death.
+This event is grounded by Nora's shooting and Olive's shooting.
+So given the revised simple definition the whole episode is a joint action.
+%It is a joint action just because Nora and Olive are both agents of it.
+Now suppose that Nora and Olive have no knowledge of each other, nor of each other's actions, and that their efforts are entirely uncoordinated.
+We might even suppose that Nora and Olive are so antagonistic to each other that they would, if either knew the other's location, turn their guns on each other.
+The event of their killing Fred is nevertheless a joint action on the revised simple definition.
+But unless one thinks of the central event of \emph{Reservoir Dogs} \citep{Tarantino:1992fk} as a joint action, this is likely to seem counterintuitive.
+
+The problem for the revised simple definition is general.
+Whenever two or more agents' actions have a common effect and there is an event comprising the actions and their common effect,
+the actions will ground this event.
+And on the revised simple definition this is sufficient for the event to be a joint action.
+This makes it plausible that the revised simple definition does not identify a notion of joint action.
+For the notion identified by the revised simple definition seems not to be one available through reflection on supposedly paradigm cases.
+Nor does this notion seem to be central to the tangle of philosophical and scientific questions about joint action.
+For instance, the hypothesis that joint action grounds cognition \citep[p.\ 103]{Knoblich:2006bn} is clearly not a hypothesis about the kind of joint action (if any) exemplified by uncoordinated joint shootings.
+
+This objection to the revised simple definition of joint action is equally an objection to the above proposal about agency.
+According to that proposal, where some actions ground an event, the agents of the actions are agents of the event (see section \ref{section_grounding}).
+On this proposal, Nora and Olive would be agents of an event which starts with their shooting actions  and ends with Fred's death.
+This is an objection because the proposal was not supposed to introduce a merely technical notion of agency but one rooted in everyday thinking about action \citep[pp.\ 80-1]{pietroski_actions_1998}.
+The problem we face, then, is not just about joint action.
+It is a more general problem about it is is for individuals to be agents of events other than actions.%
+%
+\footnote{
+This should not be taken as an objection to Pietroski.
+Although the above proposal about agency is derived from his work, Pietroski himself offers it only as a rough suggestion which needs refinement 
+(\citeyear[p.\ 82, footnote 6]{pietroski_actions_1998}).
+}
+
+Whereas the simple definition was too narrow,
+the revised simple definition is too broad to characterise a notion of joint action.
+More work is needed to show that a (modestly) deflationary approach to joint action is viable.
+In what follows we therefore offer ways of narrowing the revised simple definition.
+
+\label{end_section_second_objection}
+
+
+\section{Goal-directed Joint Action}
+	\label{section_goal_directed_joint_action}
+
+At this point we need a brief detour to fix terminology.
+The term `goal' has been used both for outcomes (as in `the goal of our struggles') and, perhaps improperly, for psychological states of agents (it is in this sense that agents' goals might cause their actions).  
+We use `goal' in the former sense only.
+A \emph{goal} 
+	\label{df_goal}
+is an outcome to which actions are, or might be, directed.
+An intention is not a goal but a \emph{goal-state}%
+	\label{df_goal_state}%
+---a state of an agent 
+	which represents a goal
+	and
+	which is (or could be) related to one or more of the agent's actions in such a way that these actions are (or would be) directed to that goal.
+From the fact that an action is directed to a particular goal it does not follow that the agent of the action has a goal-state representing this goal and in virtue of which the action is directed to that goal.
+It doesn't even follow that the agent has any goal-states at all if, as some have argued, it is possible to understand what it is for an action to be directed to a goal without appeal to goal-states \citep[e.g.][]{Bennett:1976rg,Taylor:1964tr}.
+This concludes our detour.
+
+On the revised simple definition, a joint action is an event grounded by the actions of two or more agents 
+(see section \vref{section_revised_simple_definition}).
+In the previous section we encountered an objection to this definition.
+Can the definition be fixed?
+All of the cases of joint action that serve as paradigms in  philosophy or psychology are \emph{goal-directed joint actions}.
+That is, they are cases where the event taken as a whole is directed to a goal.
+To illustrate, return to Ayesha and Pandora's pulling handles in sequence to make a dog-puppet sing.
+Ayesha, asked about their action, might insist, `The goal of our actions was not to turn the light on but to make the puppet sing.'
+(Note that this sentence concerns the goal of an action and does not explicitly mention intentions.)
+What is it for the goal of their actions to be that of making the puppet sing?
+Among all the actual and possible outcomes of their actions, what distinguishes this as the goal to which their action was directed?
+More generally, {what is the relation between a joint action and the goal (or goals) to which it is directed?}
+
+In answering this question it is tempting to appeal to shared intention.
+A shared intention functions to coordinate agents' contributions and involves states which represent an outcome.
+Where joint action involves shared intention, 
+the goal represented by the shared intention coordinating the joint action is the goal to which the joint action is directed.
+(Here and in what follows we simplify exposition by writing as if no action were directed to more than one goal.)
+Shared intention, then, makes available a possible explanation of how a joint action is related to the goal to which it is directed.
+But, as explained above (in section \ref{section_deflationary}), our aim is to avoid appeal to shared intention or other distinctive ingredients in characterising joint action.
+Is there a way to understand how joint actions can be goal-directed which does not involve shared intention?
+We shall show that there is with a series of increasingly elaborate notions.  
+Each notion describes a relation between multiple agents' actions and an outcome to which those actions are directed.
+
+\label{end_section_goal_directed_joint_action}
+
+
+\section{Distributive Goals}
+	\label{section_distributive_goals}
+
+The first notion in the series is that of a distributive goal.
+An outcome is a \emph{distributive goal} of two or more agents' actions just if two conditions are met.
+First, this outcome is a goal to which each agent's actions are individually directed.
+Second, each agent's actions are related to the goal in such a way that it is possible for all the agents (not just any agent, all of them together) to succeed relative to this goal.
+
+To illustrate, one dark night two communists each independently intend to paint a large bridge red.   
+More exactly, each intends that her painting grounds or partially grounds the bridge's being painted red.\footnote{
+Event $D$ \emph{partially grounds} event $E$ if there are events including $D$ which ground $E$.
+(So any event which grounds $E$ thereby also partially grounds $E$; 
+we nevertheless describe actions as `grounding or partially grounding' events for emphasis.)
+See the definition of \emph{plural grounding} \vpageref{df_plural_grounding}.
+}  
+(These intentions ensure that it is possible for both communists to succeed in painting the bridge, as well as for either of them to succeed alone.)
+Because the bridge is large and they start from different ends, the two communists have no idea of each other's involvement until they meet in the middle.
+Nor did they expect that anyone else would be involved in painting the bridge red.  
+On almost any account, this implies that they were not acting on a shared intention.
+Despite this, 
+they both succeed in painting the bridge red. 
+As this illustration suggests, 
+it is possible for two or more agents' actions to have a distributive goal without the agents having any knowledge of, or intentions about, each other, and without the agents having a shared intention.
+
+%Where to introduce this material?
+%Objection insufficiently precise as it stands
+%It may be objected that the intention which makes it possible for the communists' actions to have a distributive goal is of a kind not frequently found in everyday situations because it involves the somewhat technical notion of actions grounding events.
+%We would argue, however, that this notion has counterparts in ordinary agents' thinking.
+%develop using examples from Shared and Collective Intentions 2.tex?
+
+As already mentioned, for two or more agents' actions to have a distributive goal it is necessary that each agent's actions are related to the goal in a way that allows all the agents to succeed relative to that goal.  
+This condition would arguably not have been met if each bridge painter had intended that she paint the bridge red.
+Although these intentions would have ensured that there was a single goal---the bridge's being painted red---to which each agent's actions were directed, it is arguable that neither agent's intention would have been be fulfilled because neither was the sole painter.
+Distributive goals require intentions (or other ways of relating actions to goals) that are compatible with others' involvement.
+This requirement is met by intentions which are explicitly neutral concerning others' success.  
+For example, each of the bridge painters might have intended that she paint the bridge either alone or with others.
+As illustrated in the above example, the requirement is also met by some intentions whose contents do not explicitly specify agents, such as intentions to act in ways that ground or partially ground an outcome's occurrence (grounding is defined \vpageref{df_plural_grounding}).
+
+
+Note that multiple agents' actions do not have a distributive goal just in virtue of their actions being directed to similar outcomes.  
+In an example from Searle (\citeyear[p.\ 92]{Searle:1990em}), rain causes park visitors simultaneously to take cover under a central shelter.  
+Suppose that each visitor's action is directed to a similar but distinct outcome, namely her own arrival at the shelter.  
+These outcomes are so similar that each visitor could describe the outcome to which her actions are directed in the same words (`I reach the shelter').
+Despite this, they are clearly distinct outcomes.
+One could occur while another does not; 
+one park visitor might make it to the shelter while another is trapped under a falling tree.
+If each visitor's actions are directed only to her own arrival at the shelter, the visitors' actions lack a distributive goal just because there is no outcome to which they are all directed.
+If, alternatively, each visitor's actions had been directed to their collective arrival at the shelter, then their actions would have had a distributive goal.
+
+To recap, our overall aim is to characterise a notion of joint action without appeal to distinctive ingredients. 
+(\emph{Notion of joint action} and \emph{distinctive ingredient} are explained on pages \pageref{df_joint_action} and \pageref{df_distinctive_ingredient} above).
+Our current candidate characterisation is the revised simple definition.
+On this definition, a joint action is an event grounded by the actions of two or more agents 
+(see section \ref{section_revised_simple_definition}).
+Unfortunately this definition is too broad.
+Many events which are perhaps not intuitively joint actions and apparently not relevant to philosophical or scientific questions about joint action, such as Nora and Olive's killing of Fred, would in fact be joint actions if we accepted this definition
+(see section \ref{section_second_objection}).
+To avoid this problem we are currently exploring how the definition might be narrowed to goal-directed joint action.
+The question of detail is how to explain the relation between a joint action and its goal without appeal to shared intention or any other distinctive ingredient.
+The notion of a distributive goal suggests one candidate answer to this question.
+Where multiple agents' actions have a distributive goal there is a sense in which their actions are directed to that goal.  
+
+Is this answer adequate?
+Would invoking distributive goals enable us to suitably narrow the definition of joint action?
+In their killing of Fred, Nora and Olive's actions might have a distributive goal.
+After all, 
+	each agent's actions are individually directed to Fred's death
+	and  
+	it is consistent with the stipulations made about this scenario that these goal relations are compatible in the sense that both agents could succeed together
+(for instance the goal relations might hold in virtue of Nora and Olive each acting on an intention that her shooting ground or partially ground Fred's killing).
+%but if instead Nora and Olive each intended that she alone kill Fred, then the goal relations are not compatible in this sense and so there is no distributive goal.%
+So if we were to further revise the simple definition of joint action by invoking the notion of a distributive goal, we would barely improve on the revised simple definition.
+
+Where multiple agents' actions have a distributive goal, it is true that there is a sense in which their actions are directed to a goal, 
+but this may amount only to each agent's actions being individually directed to that goal.  
+To identify a notion of joint action we need a notion richer than that of a distributive goal, one that relates joint actions to goals without this being only a matter of each agent's actions being individually directed to the goal.
+
+
+\label{end_section_distributive_goals}
+
+
+\section{Collective Goals}
+	\label{section_collective_goals}
+
+Let an outcome, possible or actual, be a \emph{collective goal \label{df_collective_goal}} of a joint action, or of any collection of goal-directed actions, where three conditions are met: 
+	(a) this outcome is a distributive goal of the actions; 
+	(b) the actions are coordinated; and 
+	(c)  coordination of this type would normally  facilitate occurrences of outcomes of this type.  
+Examples of actions  that typically have collective goals include two people jointly sawing a log with a two-handled saw and  
+three people jointly lifting a heavy table.
+The communist bridge painters (from section \ref{section_distributive_goals}) are different: their actions do not have a collective goal because they are not coordinated.
+
+The notion of a collective goal assumes that of coordination.  This should be understood in a broad sense.  
+When two agents between them lift a heavy block by means of each agent pulling on either end of a rope connected to the block via a system of pulleys, their pullings count as coordinated in this broad sense.  
+In this case, the agents' actions are coordinated by a mechanism in their environment, the rope, and not necessarily by any psychological mechanism.  
+By invoking a broad notion of coordination 
+and invoking coordination of actions rather than of agents,
+the definition of collective goal avoids direct appeal to psychological states.
+
+This is not to say that collective goals never involve psychological states.
+%The notion of a collective goal is more abstract than shared intention and other notions that have been used in characterising joint action.
+%On many or all accounts, shared intentions function in part to coordinate actions in such a way as to facilitate realisation of the shared intention.
+In fact,
+one way for several actions to have a collective goal is for their agents to be acting on a shared intention; 
+a shared intention supplies the required coordination.
+Another way for some actions to have a collective goal is for their agents to be acting on the basis of team reasoning, where they have a common way of framing their decisions.%
+%
+\footnote{
+On the notion of team reasoning see \citet{Bacharach:2006fk} and \citet{Sugden:2000mw}.
+Whereas we follow 
+Bratman (\citeyear[p.\ 150]{Bratman:2009lv})
+and others 
+in treating shared intention and team reasoning as only distantly related,
+others have argued that the two are more closely related 
+\citep[e.g.][]{Gold:2007zd,pacherie_framing_2011}.
+}
+%
+But these are not the only ways in which actions can have a collective goal.
+The coordination required for actions to have a collective goal may in some cases involve motor systems rather than conscious thought (for an overview, see \citet{Knoblich:2010fk}),
+as well as non-psychological factors such as the dynamical properties of agents' bodies \citep[e.g.][]{schmidt_richardons:_2008}.
+To make a conjecture based on work with bees and ants, in some cases
+the coordination needed for a collective goal may even be supplied by 
+	 behavioural patterns \citep{seeley2010honeybee}  
+	 and 
+	 pheromonal signals \citep[pp.\ 178-83, 206-21]{hoelldobler2009superorganism}.
+
+
+
+In characterising collective goals we have appealed to facts about what would \emph{normally} happen (in the third clause, (c), above).  
+The relevant notion of normal paradigmatically features in statements like \emph{Birds can normally fly}.  
+This notion is arguably teleological; certainly it is not  straightforwardly statistical or normative.\footnote{
+Detailed discussion of the nature of the relevant notion of  \emph{normal} would take us too far from the present topic.
+For teleological accounts, see 
+	\citet[p.\ 33ff.]{Millikan:1984ib} and 
+	\citet[p.\ 48ff.]{Price:2001hs}.
+}
+Conceptually it would be simpler to characterise collective goals by appeal only to what actually happens---that is, to replace the third clause with the requirement that the coordination actually facilitate the occurrence of the goal-outcome.  
+Why is the appeal to what would normally happen necessary? 
+Consider a case in which two agents' actions do have a collective goal and coordination of their actions facilitates the goal-outcome's occurrence: John and Anika fell a tree using a two-handled saw.  
+Now imagine a case which is as similar as possible to this one except that John becomes exhausted and they have to give up half way through.  
+In this modified case the coordination of John's and Anika's actions does not facilitate the occurrence of the outcome (the felling of the tree).
+This is simply because the outcome does not occur.  
+But the differences between the two cases are not the sorts of difference that generally determine facts about which goals an action is directed to.  
+Whether actions succeed or fail does not generally play any role in determining what their goals were.
+So it seems we must allow that agents' actions can have collective goals even where they fail.  
+This is one reason for appealing to what would normally happen in characterising collective goals.  
+A second, more direct but less obvious reason involves external factors which render coordination inefficacious.  For an illustration, suppose that Isabel and Rudi are in the habit of lifting heavy blocks by each pulling on a handle which is linked to the block by an intricate system of ropes and pulleys.  
+Normally and on nearly all occasions either could lift any of the blocks alone but, providing their pullings are coordinated, the task is easier when done jointly;
+and no matter how uncoordinated they are, the way the ropes are arranged means that it is never normally harder for them to lift a block jointly than alone.  
+Normally, then, coordination facilitates the blocks being lifted.  
+On one exceptional occasion Hannes, a third person, intervenes.  Hannes dislikes coordination between people and so, seeing the coordination of Isabel's and Rudi's actions, he grabs a rope and attempts to prevent the block being lifted.  Although Hannes fails, he does make the joint lifting harder than it would have been for either Isabel or Rudi to lift the block alone.  
+So in this exceptional case the coordination of their actions actually hinders rather than facilitates the blocks being lifted:
+had their actions not been coordinated, it would have been easier for them to lift the block.
+But this case, where Hannes intervenes, does not differ from the normal cases in ways that are relevant to facts about the goals of the agents' actions.  
+For this reason it seems that we must allow that Isabel's and Rudi's actions have a collective goal in the case where Hannes intervenes as well as in the normal cases.
+This is why appeal to what would normally happen is  necessary in characterising collective goals.
+
+The word `collective' in `collective goal' should not be understood to imply that the agents  involved constitute a collective in any social sense.  Nor does having a collective goal imply that the agents think of themselves as having a collective goal.  The use of `collective' and `distributive' reflects  (but does not exactly match) the use of these terms in literature on plural quantification.%
+%
+\footnote{
+On a widely accepted view,  the predication in `The goal of their actions was to lift this block' could be interpreted  either distributively and collectively.  On the distributive reading, the truth of the sentence is entailed by the truth of `For each of their actions, the goal of that action was to lift this block'.  On the collective reading this entailment does not necessarily hold.
+See  
+	\citet[][p.\ 322]{oliver_modest_2006};
+	\citet{Linnebo:2005ig} provides an overview.  
+}
+%
+The point is that for multiple agents' goal-directed actions to have a certain collective goal is not equivalent to each of their actions separately having that goal.
+
+
+Where two or more agents' actions have a collective goal there is a sense in which, taken together, their actions are directed to the collective goal.  
+It is not just that each agent individually pursues the collective goal; in addition, there is coordination among their actions which plays a role in bringing about the collective goal.  
+We can put this in terms of the direction metaphor.  
+Any structure or mechanism providing this coordination is directing the agents' actions to the collective goal.  
+The notion of a collective goal provides one way of making sense of the idea that joint actions are goal-directed actions.
+
+\label{end_section_collective_goals}
+
+
+\section{From Collective Goals to Joint Actions via Agency}	
+	\label{section_from_collective_goals}
+
+How is the notion of a collective goal relevant to our search for  a modestly deflationary characterisation of joint action? 
+Recall that we are attempting to overcome an objection to the revised simple definition of joint action.
+According to this definition, a joint action is an event grounded by the actions of two or more agents 
+(see section \ref{section_revised_simple_definition}).
+The objection was that the definition is too broad
+(see section \ref{section_second_objection}).
+To overcome the objection we are trying to narrow the definition to goal-directed joint action.
+The issue is how to explicate  the metaphor of goal-directedness for the case of joint action.
+A natural way to do this as the literature now stands  would be appeal to shared intention.
+But we aim to avoid appealing to shared intention because doing so  would require abandoning our deflationary aims
+(see section \ref{section_deflationary}).
+The notion of a collective goal provides an alternative way to fill out the metaphor of goal-directedness.
+
+Here, then, is our penultimate attempt to characterise a notion of joint action:
+%
+\begin{quote}
+	A joint action is an event grounded by two or more agents' actions 
+	where all the actions taken together 
+	have a collective goal.
+\end{quote}
+%
+It remains to consider whether this definition succeeds in capturing a notion of joint action, and whether the definition is really deflationary.
+We shall start with the second question because answering it will help with answering the first.
+
+Is the above definition really deflationary?
+To show that it is we need to show that the notion of a collective goal is not a distinctive ingredient. 
+That is, we need to show that this notion also has application in characterising individual action, not just joint action.
+In discussing collective goals we have so far considered only cases involving two or more agents.
+But  several actions can have a collective goal even if they are all actions of a single agent.
+And  the notion of a collective goal is also relevant to answering at least one question about the actions of individual agents.
+
+Before introducing this question
+let us  return to the idea that, in an attenuated sense of agency, it is possible for individuals to be agents of events which are not actions.
+We first attempted to explain this possibility by appeal to the idea that actions can ground larger events.
+On the proposal we considered (p.\ \pageref{agency_proposal} above),
+	where some actions ground an event the agents of those actions are agents of the event.
+This proposal turned out to be too broad (see section \ref{section_second_objection}).
+The notion of a collective goal enables us to improve it:
+%
+\begin{quote}
+For an individual to be among the agents of an event is for there to be actions $a_1$, ...\ $a_n$ which ground this event where 	all the actions have a collective goal 
+	and where 
+	the individual is an agent of one or more of these actions.
+\end{quote}
+%
+This revision narrows the proposal, thereby excluding the sort of counterexample considered above in section \ref{section_second_objection}. 
+We do not claim that this revised proposal is the last word;
+further narrowing is arguably necessary.
+But we do claim that 
+	the revised proposal is an improvement over the earlier one,
+	and that 
+	the notion of a collective goal is relevant to explaining what it is for individuals to be agents of events.
+
+The issue about what it is for individuals to be agents of events  arises where just one agent is involved, not only when two or more agents are.
+To illustrate, compare two cases.
+In the first case, a single professor twice sends a letter of reference in support of a particular job applicant.
+The prospective employer considers these letters.
+Although she would not have been sufficiently moved by either letter alone, the combined impact of the two letters results in her giving the job to this applicant.
+The second case is like the first  except that the two letters of reference are sent by different professors.
+Now consider the event which starts with the actions and ends with the job offer being made.
+In both cases it makes sense to ask whether, in an attenuated sense of agency, the professor or professors are agents of this event.
+To make the question vivid it is helpful to introduce a correspondingly attenuated notion of action: 
+	an event with one or more agents is an action.
+The question is now whether either of these events, which start with the letter writings and end with the job offers, is an action in this attenuated sense.%
+\footnote{
+\citet{chant_special_2006} draws the same parallel between individual and multi-agent cases starting from a different set of premises about action.
+}
+In both cases the answer depends on details not yet specified.
+If the actions have a distributive goal only, if there is no collective goal or other form of coordination involved, then in both cases the answer should be no (for reasons given above in sections \ref{section_second_objection} and \ref{section_distributive_goals}).
+And if, as we claim, the presence of a collective goal is necessary for the event to be an action in the second case involving two professors, then it is also necessary in the first case involving just one.
+This is why the notion of a collective goal is not a distinctive ingredient: it applies in cases involving multiple actions irrespective of whether multiple agents are involved.
+
+The discussion so far aimed only to show that the above penultimate definition of joint action is deflationary.
+But it also suggests a way in which 
+	characterising joint action
+	depends in part on 
+	understanding what it is for individuals to be agents of events other than   actions.
+This dependence is made explicit in our final attempt to define joint action:
+%
+\begin{quote}
+	A joint action 
+	\label{df_joint_action_final}
+	is an event grounded by two or more agents' actions 
+	where all the actions taken together 
+	(a) have a collective goal 
+	and 
+	(b) are otherwise related to each other and to the whole event in ways  sufficient for all and only the agents of these actions to be  agents of the event.
+\end{quote}
+%
+Given some background assumptions about agency, this definition plausibly entails that for an event to be a joint action is for it to be an event with two or more agents.
+What distinguishes joint action from action generally is simply the number of agents involved. 
+
+Does this final definition succeed in characterising a notion of joint action?
+To show that it does, 
+we would need to show that it meets the two requirements laid out earlier.
+First, 
+it must be central to a tangle of philosophical and scientific questions commonly taken to be questions about joint action.
+And, second, 
+an implicit conception of this notion must be available through reflection on the supposedly paradigm cases from our opening paragraph.
+
+On the first point,
+it is true, of course, that many researchers are concerned with relatively sophisticated cases of joint action---cases in which, in addition to our minimal  criteria being met there is also a special kind of commitment, of reasoning, of knowing  interdependence or of subject.
+Our  definition is not intended to capture exactly the events of interest in any one of these cases.
+Its purpose is rather to reveal what unifies otherwise apparently conflicting approaches.
+The notion captured by our definition is broad enough to apply to cases from a wide range of studies.
+To illustrate, consider two different approaches to joint action in psychology.
+There is currently much debate between researchers who focus on behavioural dynamics in explaining how joint action is possible
+(e.g.\ 
+	\citealp{marsh_social_2009} and
+	\citealp{schmidt_richardons:_2008}%
+)
+and those whose explanations primarily appeal to  motor cognition and representation (e.g.\ 
+	\citealp{Sebanz:2005fk} and
+	\citealp{Knoblich:2006bn}%
+).
+As things stand, it is sometimes hard to identify the common ground necessary for the two approaches to be in genuine disagreement.
+The account of joint action in terms of collective goals identifies what both approaches can agree on. 
+The substantial questions concern which types of coordination exist in joint action, 
+	and to what extent characterising any given type of coordination requires appeal to general dynamical principles or to motor cognition and representational control structures.
+A definition of joint action in terms of collective goals, then, is offered 
+	not as 
+	something which might resolve controversies about which mechanisms of coordination make effective joint action possible in different contexts
+	but as 
+	a partial articulation of what those controversies are about
+	and as
+	a building block for the construction of more substantial accounts.
+Its value consists in separating basic conceptual issues about  what joint action is from hypotheses about how joint actions are achieved.
+To the extent that our definition succeeds in doing this, it meets the first requirement on identifying a notion of joint action.
+	
+On the second point---%
+on whether our definition captures a notion appropriately related to supposedly paradigm cases%
+---it is too early to claim complete success.
+Our final attempt at a definition (\vpageref*{df_joint_action_final}) involves appeal to general requirements for individuals to be agents of events, in recognition that providing a fully explicit and entirely adequate definition depends on further progress on large issues in the philosophy of action.
+But we do claim that, starting with the simple definition, each revision moves closer to characterising a notion available through reflection on the supposedly paradigm cases.
+%The only direct way to establish modest deflationism about joint action is to construct a deflationary account.
+Our key conclusions are
+	that
+	the notion of a collective goal is relevant to any deflationary characterisation of joint action (this is a key ingredient missing from earlier attempts),
+	and that
+	 while further revisions may be necessary, we have made sufficient progress to justify endorsing modest deflationism about joint action.
+
+\label{end_section_from_collective_goals}
+
+
+\section{Conclusion}
+	\label{section_conclusion}
+	
+Philosophy of action as currently practiced usually focuses exclusively on cases involving just one agent.
+Joint actions are regarded as exotic phenomena with their own, distinctive philosophical issues.
+We have argued that this is probably a mistake. 
+Of course there may be notions of joint action which are genuinely exotic and raise distinctive philosophical issues.
+But there is at least one notion of joint action is which is not like that, or so we have argued.
+Whether one is concerned with commonsense thought and talk about action,
+or with scientific and theoretical questions about action,
+the restriction to a single agent is liable to introduce distortions.
+The truth may be that individual action, like feline action, is just another case of action.
+In theories of action, the number of agents should matter as little as their felinity.
+
+The justification for this claim is the above construction.
+We have considered how a notion of joint action can be constructed without appeal to any distinctive ingredients---%
+that is, without appeal to any ingredients not already needed for characterising action generally.
+The simplest attempts to characterise joint action are either too narrow, excluding many or all supposedly paradigm cases, or else they are too broad, failing to identify features central to intuition and science.  
+The notion of a collective goal enables us to avoid both problems; and it allows us to make sense of the idea that joint actions can be goal-directed without necessarily involving shared intention.
+%This notion is more abstract than that of shared intention and other distinctive ingredients.
+%When several agents act on a shared intention, their actions have a collective goal.
+%Loosely speaking, then, having a shared intention is one way of having a collective goal.
+%But, as we saw, there are ways for actions to have a collective goal which do not involve shared intention.
+
+Nearly all approaches to joint action in philosophy have focussed on shared intention or related distinctive ingredients.
+We have argued that 
+	there is at least one notion of joint action in characterising which no such ingredients are needed.
+This is incompatible with the claim that all joint actions involve shared intention.%
+%
+\footnote{ 
+Those who hold that all joint action involves shared intention include 
+	\citet[p.\ 381]{Carpenter:2009wq}, 
+	\citet[p.\ 369]{Call:2009fk},
+	\citet[p.\ 5]{Gilbert:2006wr},
+	\citet{Kutz:2000si},
+	\citet[p.\ 117]{rakoczy_pretend_2006}
+	and 
+	\citet{Tollefsen:2005vh}.
+For some (e.g.\ \citet[p. 154-5]{petersson_collectivity_2007}) this claim is a narrowly terminological stipulation; they are not included in this list.
+}
+%
+
+
+Our position is compatible with the view that shared intention or another distinctive ingredient is needed for characterising some notion of joint action
+if there is more than one notion of joint action.
+Indeed, the notion of a collective goal is relevant to understanding shared intention in several ways.
+First, the contents of propositional attitudes which comprise shared intentions can refer to joint actions involving collective goals; because collective goals do not constitutively involve shared intentions, this involves no threat of circularity and raises no issues about well-foundedness.
+Second, joint actions involving only collective goals may be proper parts of larger structures which do involve shared intention, much as (on some views) merely purposive actions can be components of actions that are intentional in a stronger sense.
+Third, collective goals and the associated form of joint action may be a precursor, in evolution or development (or both), to the potentially more cognitively and conceptually demanding forms of joint action associated with shared intention.
+
+
+Notions of joint action on which it is goal-directed but need not involve shared intention or any other distinctive ingredient have been neglected by philosophers, perhaps 
+ partly because on some views it is tempting to assume that this combination of features is impossible, and 
+partly because they are (or are thought to be) too simple to present conceptual puzzles.
+This is a mistake.  
+To understand the cognitive bases of abilities to engage in joint action or their evolution or development, the fact that a conception of joint action presents conceptual puzzles is no virtue.
+It may be better to start with the simplest possible notions, such as those of distributive and collective goal, and use these as building blocks for constructing narrower categories of joint action as needed by different explanatory projects.
+
+
+
+
+\begin{comment}
+
+Our approach also provides an argument against other claims made without justification.
+Take the claim that each agent of a joint action must believe, or be in a position to know, that she is not acting alone.
+Several philosophers have  implied that this claim is true.%
+%
+\footnote{
+Kutz asserts that participants in a joint action have 
+`a conception of themselves as contributors to a collective end' (\citeyear[p.\ 10]{Kutz:2000si}).
+Similarly, Roth asserts that in joint action `each participant \ldots \ can answer the question of what he is doing or will be doing by saying for example ``We are walking together'' or ``We will/intend to walk together''' 
+(\citeyear[p.\ 361]{Roth:2004ki}).
+Relatedly, \citet[p. 56]{miller_social_2001} asserts that each agent of a joint action believes that her actions are interdependent with the others'.
+If any of these assertions are true then each agent of any joint action either believes or is in a position to know she is not acting alone.
+}
+%
+As far as we know, no arguments have yet been given for these assertions.
+%%
+%Miller writes `we need to distinguish between joint action and various kinds of interdependent individual action that are closely related' (\citeyear[p. 56]{miller_social_2001}).
+%We agree that the distinctions Miller wants to make are important.
+%But he does not explain why such distinctions are distinctions between joint and individual actions rather than distinctions between two kinds of joint action.
+%% 
+ But the construction we have offered provides strong reason to reject this claim.
+We are not claiming, of course, that joint actions where the agents do not know that they are not acting alone are 
+either teleologically normal or theoretically significant.
+It is possible that coordination mechanisms on which effective joint action hinges are such that it is teleologically normal for them to facilitate joint action only when agents intend or expect to coordinate their actions.
+If so, there is a sense in which joint actions without some minimal awareness of jointness are not normal, 
+and this category of joint action may have limited theoretical significance.
+\end{comment}
+
+
+
+
+\label{end_section_conclusion}
+
+
+\bibliography{$HOME/endnote/phd_biblio}
+
+\end{document}

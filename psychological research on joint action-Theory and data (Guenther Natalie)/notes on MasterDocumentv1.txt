@@ -1,0 +1,24 @@
+I like the iceberg model but I want to float a small modification ...
+
+In our "minimal architecture" paper we made a three-fold distinction between (i) coordination based on direct perception-action links; (ii) coordination of the sort explained by the minimal architecture of goal and task representations, monitoring & prediction processes and smoothers; and (iii) coordination based on intentions, knowledge and linguistic signals.  I'm worried that in this paper obscures the distinction between (ii) & (iii).  This is because the iceberg model distinguishes emergent & planned coordination, where planned coordination covers coordination matching both (ii) and (iii) from the "minimal architecture". 
+
+The distinction bewteen (ii) and (iii) matters because the sorts of mechanism that can explain the performance of a piano duet or the interception of a striker in soccer are (or at least appear to be) quite different from the sorts of mechanism that can explain how humans are able to jointly plan a surprise birthday party or a meeting in Paris.
+
+Convinved already?  No, I didn't think you would be.  But here's a more theoretical way to put the worry ...
+
+The iceberg model distinguishes emergent & planned coordination.  The intuitive contrast bewteen these is drawn in terms of a metaphorical notion of visibility:  emergent coordination is normally invisible to participants and to obsevrers.
+
+What does visibility amount to?  Here are two options: (1) to say that planned coordination is visible means that it is linked to explicit knowledge in the way philosophers (e.g. Bratman) suggest: what one knows (e.g. about other agent's plans, knowledge states and perceptions) puts one in a position to know that one can execute a plan in coordination with them.  So the key idea here is that one is not just able to coordiate but one is able *to know that* one is able to coordinate.  (2) to say that planned coordination is visible means that the agents are in some way more aware of the coordination than in emergent coordination, but not necessarily in a way that amounts to knowledge.  
+
+Which option is right?  Some facts suggest we select option (1): we write that "[shared] knowledge can benefit planned coordination as long as both agents assume that the same knowledge is shared".  I.e. we are saying that it is not sufficient that some truth is *in fact* known to each agent; rather, the agents must at least assume that the others know what they know.  This implies that we understand visibility in terms of explicit knowledge.  
+
+But in other places it seems like we select option (2): e.g. we include joint task representations capable of explaining online predictions in soccer matches among the mechanisms for planned coordination.  
+
+So my worry is that we don't have a single notion of "visibility" in mind.
+
+My suggestion is that we treat visibility as something that allows for degrees, and that we de-emphasize "visibility" as the metahor in distinguishing emergent from planned coordination.  
+
+I think the iceberg model applies to individual as well as joint action.  In indiviudal action, the emergent part of the iceberg is the individual affordances, physical structure of the limbs and other body parts, and their dynamical properties.  The planned part includes both motor control and states like knowledge and intention.  
+
+
+

@@ -1,0 +1,42 @@
+TICS letter
+
+
+----
+
+
+
+
+
+1. YOU
+'you task representations': I represent your task
+action prediction: I predict your action, the what, where and when of it.
+representations of your task measured by inhibition (Frischen et al; slower after another person makes an error)
+
+2. WE
+Richardson effect: existence of OUR AFFORDANCE (as contrasted with you affordance, e.g. Veronica on whether other people can jump high enough to reach it)
+Groop effect: representation of OUR OUTCOME/ACTION
+[We prediction: our what, our where (e.g. the location of the hoop in a joint plum-picking with long heavy stick episode), when (e.g. the when of the turning in Guenther's target tracking)]  [Robrecht pole experiment: prediction of OUR timing & OUR location (of pole). HAPTIC]
+
+Entrainment goes in the music box
+
+---
+
+
+---
+
+Theme: all studies show more about perception-action links
+
+What is currently known about ...
+
+1. planning processes: 
+1a. Planning processes in joint action; YOU-planning, WE-planning
+2b. Effects of spatial and social relations
+2c. Effects of context [imitate/complement] on planning processes
+-- context [imitate/complement] modulates how hard it is to plan an action
+-- YOU representations: Shared task representations in multiple paradigms (§3.4.1), i.e. how you represent another's task ([a] boundary conditions---including seeing each other, space, social relation, social context e.g. competitive vs cooperative, intentionality of co-actor; [b] neural basis); 
+-- WE representations: GROOP effect; 
+
+2. coordination mechanisms:
+a. predictions about the timing of others' actions 
+b. entrainment (Tognoli et al)
+c. 

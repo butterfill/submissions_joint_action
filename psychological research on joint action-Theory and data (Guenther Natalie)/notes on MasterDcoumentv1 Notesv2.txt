@@ -1,0 +1,35 @@
+My main concern is that I'm not sure I have a firm hold in the distinction between emergent and planned coordination.  I made some changes based on some assumptions which might well be wrong with the aim of provoking discussion.
+
+Steve's assumptions:
+
+1. What distinguishes emergent from planned coordination is that planned but not emergent coordination involves mental representations that are directed at coordinating plans.  In emergent coordination, plans are coordinated by processes that do not involve mental representations of other agents' plans.
+
+2. We also distinguish emergent and planned coordination by appeal to a (metaphorical) notion of visibility, which I take to be a metaphor for the degree to which the agents or non-scientific observers are aware of coordination, but this is secondary.
+
+3. In the minimal case, me+x, there is no planned coordination (because no representations directed at coordinating plans).
+
+4. Although you wrote that joint knowledge requires the agents to assume that other agents know the same, it seems to me that this is inessential -- in Schelling's game, it matters that Grand Central Station is in fact a focal point.  As far as I can see, participants only need to assume that it is a focal point for others if they want to justify their choice of this focal point.
+
+5. The Schelling game example is only a case of planned rather than emergent coordination insofar as participants not only find the common landmark salient but also assume that others do -- but it is not essential for them to make this assumption.  Successful coordination requires only that they *in fact* pick the salient landmark, not that they know that others will do this (or even that they are picking the landmark because it is salient).
+
+6. Common knowledge part of planned rather than emergent coordination because it can only facilitate coordination by means of representations of others' plans.
+
+
+Questions:
+
+1. Why are "Common predictive models" part of emergent rather than planned coordination?  (I'm not saying they should be one or the other, it just seems to me that I don't fullly understand the emergent/planned distinction because I don't have a good answer to this question.)
+
+2. Why are Joint perceptions part of planned rather than emergent coordination?  
+
+
+Observations:
+
+1. immediately under "Planned coordination" we wrote "planned coordination is required ... [in] minimally planned coordination ... the other's part can remain unspecified".  This looks like a contradiction.  To avoid this I re-ordered it.
+
+2. "Planned coordination" encompasses (ii) coordination of the sort explained by the minimal architecture of goal and task representations, monitoring & prediction processes and smoothers; and (iii) coordination based on intentions, knowledge and linguistic signals. 
+
+3. How does the three-fold distinction from "Minimal Architecture" relate to the emergent/planned distinction in "Iceberg"?
+3.a. minimal architecture distinguished (i) direct perception-action links within a dynamical systems framework, no representations; (ii) goal and task representations, monitoring & prediction processes and smoothers; and (iii) intentions, knowledge and linguistic signals
+3.b. iceberg distinguishes: (a) no representations of plans (but possibly  representations and predictions of action); (b) representations of plans
+3.c. (i) is a proper subset of (a); at least some members of (ii) are in (a), e.g., monitoring porcesses; and some of (iii) is in (b), e.g. common knowledge, although this is not the focus of "iceberg"
+

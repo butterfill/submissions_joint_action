@@ -1,0 +1,37 @@
+Joint Action without Shared Intention
+==================================
+
+
+[This file and 'instrumentalism talk ... .txt' contain the talk outline]
+
+NEW: General idea is to understand what grounds claims about truth of joint actions ... e.g. 'We went for a walk together'.  Characteristics of such cases: small number of agents, typically two; no institutional structures; no asymmetry between agents (e.g. no relations of authority); no promising or claims.
+
+Motivation for considering such stripped down cases is the conjecture that these might be important in some way for understanding how other cases develop.
+ 
+What we want: 'three main concerns: conceptual, metaphysical, and normative. We seek an articulated conceptual framework that adequately supports our theorizing about modest sociality; we seek to understand what in the world constitutes such modest sociality; and we seek an understanding of the kinds of normativity—the kinds of ‘‘oughts’’—that are central to modest sociality.' \citep[p. 150]{Bratman:2009lv}.  NB: Bratman doesn't express interest in the psychological mechanisms responsible for joint action---but his account surely concerns those, at least indirectly (!).  Include psychological: question is what psychological mechanisms solve the sorts of coordination problems that make joint action possible (see 'Psychological research on ...' paper).
+
+sample OBSTACLE is that can't literally have plural agents -- and in their absence making sense of 'John and Jane carried the table together' is not straightforward.  CLAIM: is that philosophers have only considered highly-intellectual cases and so neglected an important range.
+
+
+
+
+
+Philosophers generally agree that joint actions are actions involving shared intentions.  While there is a rich debate on what shared intentions are, there is almost no discussion of whether shared intention is essential for joint action.  
+
+PREMISE: Joint action is action involving shared intention.
+
+There are two ways to understand this premise.  On on interpretation it is merely terminological.  Its purpose is perhaps to delineate the sorts of joint action that philosophers are concerned with from those that they are not.  Of course it is not a very good delineator as it stands because talk about shared intention is, I suppose, metaphorical. [...]  
+
+I want to set aside the terminological reading for now in order to consider the alternative, substantive reading.
+
+here the problem is that what anchors our notion of joint action.  Insofar as we have intuitions at all, I do not believe they accord with the premise ... instrumentalism.
+
+I have rejected the substantive reading of the premise.  I happy with the terminological reading, which is compatible with instrumentalism.
+
+So suppose we accept the terminological reading ...
+
+
+[cut:] Why think that shared intentions are important?  Roughly speaking, shared intentions serve to coordinate activities and planning.  But, as we have seen, intentions are not the sole mechanism capable of fulfilling this role.  So it is a serious question.  Compare the coordination between your two hands.  When you open a door by turning a key and handle simultaneously, there has to be quite tight coordination between your two hands.  No one believes that this coordination involves intention, although it might do so in some extreme cases.  It does not seem that we would be better of if this sort of intrapersonal coordination were intentional.  Rather, in the individual case there are specific sorts of coordination that intentions characteristically provide.
+
+
+

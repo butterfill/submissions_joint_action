@@ -1,0 +1,11 @@
+'Joint Action: Conceptual Tools for Scientific Research'
+
+Abstract
+
+A joint action is a goal-directed action, or something resembling one, comprising two or more agents' activities.  Existing attempts to say in detail what joint action is generally invoke some notion of shared intention.  Exclusive focus on shared intention is an obstacle to understanding joint action, its cognitive, behavioural and ecological underpinnings and its significance for development or evolution.  It is an obstacle partly because many ingredients of joint action are only remotely connected to intention if at all, and partly because there are deep and apparently unreconcilable disagreements on what shared intention is.
+
+This talk offers a fresh approach to joint action which avoids the obstacle.  The first step is to show that some joint actions involve nothing like shared intention, and to explain in what sense joint actions without shared intention can be goal-directed.  The second step is to isolate ingredients of joint action---states and processes that may play a role in coordinating multiple agents' activities or plans.  By contrast with standard theories of joint action, this approach leaves open questions about which ingredients are necessary and how different combinations of ingredients interact in making joint action possible.  
+
+
+***
+

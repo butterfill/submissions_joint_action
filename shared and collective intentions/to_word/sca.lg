@@ -1,0 +1,39 @@
+htfcss: cmti  font-style: italic;
+htfcss: cmbx  font-weight: bold;
+htfcss: cmbxsl  font-weight: bold; font-style: oblique;
+htfcss: cmmi font-style: italic;
+htfcss: cmmib font-style: italic; font-weight: bold;
+htfcss: cmbsy font-weight: bold;
+htfcss: cmbsy font-weight: bold;
+htfcss: cmbsy font-weight: bold;
+File: sca.4oo
+File: sca.tmp
+File: sca-settings.4os
+File: sca-styles.4oy
+File: sca-manifest.4of
+File: sca-meta.4ot
+File: sca.4od
+File: sca.odt
+--- characters ---
+Font("cmr","10","10","100")
+Font("cmr","12","12","100")
+Font("cmbsy","10","10","120")
+Font("cmbsy","8","8","100")
+Font("cmbsy","6","6","100")
+Font("cmex","10","10","120")
+Font("cmex","8","8","100")
+Font("cmex","7","7","100")
+Font("cmr","8","8","100")
+Font("cmr","6","6","100")
+Font("cmmi","12","12","100")
+Font("cmmi","8","8","100")
+Font("cmmi","6","6","100")
+Font("cmsy","10","10","120")
+Font("cmsy","8","8","100")
+Font("cmsy","6","6","100")
+Font("cmr","17","17","120")
+Font("cmr","12","12","120")
+Font("cmr","10","10","109")
+Font("cmbx","10","10","109")
+Font("cmti","12","12","100")
+Font("cmti","10","10","100")

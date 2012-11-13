@@ -1,0 +1,40 @@
+;; RefTeX parse info file
+;; File: /Users/stephenbutterfill/Documents/submissions/instrumentalism about joint action/joint action without shared intention.tex
+;; User: stephenbutterfill (sb)
+
+(set reftex-docstruct-symbol '(
+
+
+(xr nil "\\\\\\\\\\\\")
+
+(index-tags)
+
+(is-multi nil)
+
+(bibview-cache)
+
+(master-dir . "/Users/stephenbutterfill/Documents/submissions/instrumentalism about joint action/")
+
+(label-numbers)
+
+(bof "/Users/stephenbutterfill/Documents/submissions/instrumentalism about joint action/joint action without shared intention.tex")
+
+(toc "toc" "    1 Introduction" "/Users/stephenbutterfill/Documents/submissions/instrumentalism about joint action/joint action without shared intention.tex" nil 2 "1" "\\section{Introduction}" 568)
+
+(toc "toc" "    2 Merely terminological?" "/Users/stephenbutterfill/Documents/submissions/instrumentalism about joint action/joint action without shared intention.tex" nil 2 "2" "\\section{Merely terminological?}" 2246)
+
+(toc "toc" "    3 Necessary conditions for shared intention" "/Users/stephenbutterfill/Documents/submissions/instrumentalism about joint action/joint action without shared intention.tex" nil 2 "3" "\\section{Necessary conditions for shared intention}" 5273)
+
+(toc "toc" "    4 Counterexample---the environment coordinates our actions" "/Users/stephenbutterfill/Documents/submissions/instrumentalism about joint action/joint action without shared intention.tex" nil 2 "4" "\\section{Counterexample---the environment coordinates our actions}" 6914)
+
+(toc "toc" "    5 Counterexample---Kissing" "/Users/stephenbutterfill/Documents/submissions/instrumentalism about joint action/joint action without shared intention.tex" nil 2 "5" "\\section{Counterexample---Kissing}" 10629)
+
+(toc "toc" "    6 Counterexample---Shared Task Representations" "/Users/stephenbutterfill/Documents/submissions/instrumentalism about joint action/joint action without shared intention.tex" nil 2 "6" "\\section{Counterexample---Shared Task Representations}" 11430)
+
+(toc "toc" "    7 Counterexample---The Imaginary We" "/Users/stephenbutterfill/Documents/submissions/instrumentalism about joint action/joint action without shared intention.tex" nil 2 "7" "\\section{Counterexample---The Imaginary We}" 16812)
+
+(toc "toc" "    8 Conclusion" "/Users/stephenbutterfill/Documents/submissions/instrumentalism about joint action/joint action without shared intention.tex" nil 2 "8" "\\section{Conclusion}" 19362)
+
+(eof "/Users/stephenbutterfill/Documents/submissions/instrumentalism about joint action/joint action without shared intention.tex")
+))
+

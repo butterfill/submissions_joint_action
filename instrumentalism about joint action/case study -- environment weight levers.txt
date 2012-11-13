@@ -1,0 +1,22 @@
+Case Study -- joint action with environmental coordination
+====================================================
+
+There are two levers on either side of a box which are connected to a weight via a system of ropes and pulleys.
+
+Ayesha and Beatrice pull the levers simultaneously, causing the weight to rise as a common effect of their actions.  Each individually intends to raise the weight.
+
+Intuitively this case counts as joint action even if the two are unaware of each other and the simultaneity of their pullings is a coincidence.  It counts as joint action because the mechanism they are acting on binds their actions together, ensuring a common effect.  There is no need for them to be aware of each other, or even that they are participants in a joint action.
+
+Now you might say that this is merely coordinated and cooperative behaviour; it's just the sort of thing that ants do.  And I agree that it's just the sort of thing that some ants do.  But now consider a small elaboration.
+
+Ayesha and Beatrice each know that, in addition to the lever they can see, there is another lever and that force has to be exerted on the other lever as well.  They hold the lever down so that it's possible to feel when additional force is exerted on the weight from one of the other levers.  As soon as they feel such force, they attempt to lift.
+
+Here they recognise that something additional is needed so this case is  distinct from what ants do in that respect; but it's clear that no shared intention is involved because the agents are indifferent to whether the additional effort involves agency or not.  
+ 
+This case can be gradually elaborated.  For example, we could elaborate the situation so that Ayesha selects a parter for the weight lifting.  She recognises that some additional force is needed and selects Beatrice over another possible agent to provide that force.  But this doesn't imply that Ayesha is think of Beatrice as an intentional agent: she may be treating Beatrice just as a tool for exerting additional force.  So she is not necessarily sharing an intention with Beatrice.
+
+What's striking about this case is that much of the coordination is taken care of by what the object affords for action rather than by intentions and plans.  The way the environment is structured means that it is unnecessary to think of collaborators as intentional agents in this case.  
+
+It's tempting to dismiss this sort of case as borderline or lucky.  But there is some evidence that humans perceive affordances differently when acting in ways which require coordination between multiple agents (*planks).  In other words, some of the mechanisms which support joint action are perceptual.  Joint action may be as much about how we perceive objects and events as it is about how we perceive other minds.
+
+Slogan: objects can structure joint actions

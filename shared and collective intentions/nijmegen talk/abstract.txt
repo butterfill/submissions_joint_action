@@ -1,0 +1,55 @@
+'Joint Action without Shared Intention'
+
+Abstract
+
+A joint action is a goal-directed action, or something resembling one, comprising two or more agents' activities.  What is the relation between a joint action and the goal (or goals) to which it is directed?  Characterising this relation is necessary for saying what joint actions are and for understanding in what senses, if any, they are actions.  Nearly all existing accounts of the relation between joint actions and their goals hinge on a notion of shared intention.  Such accounts are at best incomplete if, as argued in this talk, there are significant cases of joint action without shared intention.  The talk will briefly provide background on joint action and what shared intention is, followed by an argument that not all joint actions involve shared intention and, in the concluding part, an attempt to explain the relation between joint actions and their goals without invoking shared intentions.  
+
+***
+
+Plan
+=====
+
+A joint action is a goal-directed action, or something resembling one, comprising two or more agents' activities.  
+
+- Examples
+
+What is the relation between a joint action and the goal (or goals) to which it is directed?   
+
+- Collective Goals [CG]: Ayesha/table example
+
+- [CG] goal-outcome vs. goal-state
+
+Characterising this relation is necessary for saying what joint actions are and for understanding in what senses, if any, they are actions. 
+
+- [CG] In the case of individual action there is a standard answer involving intention.  How can this be extended?
+
+Nearly all existing accounts of the relation between joint actions and their goals hinge on a notion of shared intention.  
+
+- Aarhus: the usual way of thinking about joint action involves shared intention; quotes
+
+- [CG] Explain how shared intention allows extension of the standard answer to be extended.
+
+Such accounts are at best incomplete if, as argued in this talk, there are significant cases of joint action without shared intention.  
+
+- Aarhus: necessary conditions for shared intention
+
+- Aarhus: even philosophers who don't think that shared intention is necessary for joint action do think that at least one of these conditions is necessary
+
+- New (see Aarhus): sufficient conditions for joint action: some instrumental value in pretending that it is an action with a goal.  [might skip this---could argue that sufficient condition for joint action is that we can make sense of the idea that the agents' activities are collectively goal directed]
+
+- New (?drop): the necessary conditions for shared intention are not met in lab cases 
+
+- three examples: lifting block, quiz show team [not obvious that the necessary conditions on shared intention are not met (could say that they have no causal effect on action); from CG, institutional setting, rather than any physical mechanism, is what binds their actions together] and meshing motor coordination
+
+- in all of these cases there seems to be a goal-directed joint action but no shared intention.
+
+- so what account can we give of the relation between joint actions and their goals in these cases?
+
+- explain collective goals
+
+- [CG] existence of a collective goal is not sufficient for joint action in an intuitive sense: e.g. of strangers walking towards each other needing to avoid each other.  In addition, there seem to be cases of joint action with no collective goal (the Knights who share an intention; and the quiz show participants (here I think it's the institutional setting that ties their activities to a goal)).
+
+- CONCLUSION!?: in the case of individual action we need a multiple of accounts of the relation between actions and their goals.  The same is true in the case of joint action.
+
+The talk will briefly provide background on joint action and what shared intention is, followed by an argument that not all joint actions involve shared intention and, in the concluding part, an attempt to explain the relation between joint actions and their goals without invoking shared intentions.  
+

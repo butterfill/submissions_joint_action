@@ -1,0 +1,22 @@
+References to Bratman (1999) need to be replaced with references to the relevant papers as (1999) refers to a collection covering many topics.
+
+Suggest cut footnote 2 on p. 4; this is telegraphic.  Also require cut footnote 3 on p. 5 as such a claim needs to be supported by substantial discussion.
+
+p. 5, "the fact that they are not sophisticated 'mindreaders'" --- bring forward the citation of researchers making the opposite argument from p. 10; also include more recent work than Onishi & Baillargeon 2005; e.g. reference to Baillargeon et al 2010 "False Belief Understanding in Infants" would do.
+
+p. 8 and elsewhere --- you describe Bratman's views using the term 'joint intention' whereas he uses the term 'shared intention'; unless there is a good reason, which I don't see, you should follow Bratman's own terminology.
+
+p. 9 "I must intend that we go on a vacation together on the condition that you intend the same ..." --- this form of interdependence doesn't seem to follow from any of the clauses of Bratman's account and is problematic in itself (see Roth 2004).  Suggest cut (unless I'm wrong).
+
+p. 11 fn. 11 --- "(this point is made by ...)": no need to acknowledge the unpublished paper 
+
+p. 21.  There should be some reference to those who disagree with Maravita & Iriki's findings; their primary opponent is Charles Spence e.g.  Holmes Sanabria Calvert and Spence (2007) "tool-use: capturing multisensory spatial attention or extending multisensory peripersonal space".    It would also help to cite other work supporting Maravita & Iriki's finding, e.g. Farne Serino and Ladavas (2007) "Dynamic size-change of peri-hand space following tool-use: determinants and spatial characteristics revealed through cross-modal extinction" but this is optional.
+
+p. 22 fn 19: This should be cited as "Pols (forthcoming)" and included in the reference list; also, do not translate the name of the university
+
+p. 31: the final paragraph of Section 6 is hard to follow; suggest cut and but if you want to keep it please re-write paying attention to syntax and punctuation.
+
+There are many typos (too many); please read this manuscript through carefully and correct.  Some of the typos I found include p. 3 fn. 1: "Bratman suggest" for "Bratman sugests" and "Kutz main point" for "Kutz' main point"; on p. 6, "Bratman's account face in" should be ""Bratman's account faces in"; p. 7 "Section 4 and 5" should be "Sections 4 and 5", p. 8 fn. 8; p. 13, "according Tollefsen" should be "according to Tollefsen", p. 14 fn. 14 the footnote symbol is in the wrong place; p. 15, "movement ... of one's own action" sounds wrong to my ear, suggest delete "movement or" from this and the preceding sentence; p. 21, "resources defines" should be "resources define"; p. 23 "were the phenomenon" for "was the phenomenon"; p. 25 "each skater cause" for "each skater causes"; p. 28 "an agent experience" for "an agent experiences" and also replace "his" with "his or her"; p. 29 "namely, the possibility ..." something has gone wrong with this clause's syntax; p. 29 "how an agent to" is wrong; p. 29 "delegate this control" for "delegating this control"; p. 29 "kids" for "children" (style!); p. 31 "Tollefsen even raise" for "Tollefsen even raises"
+
+
+

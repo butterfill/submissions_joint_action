@@ -1,0 +1,37 @@
+ESPP Paper
+==========
+
+What is joint action?  Three accounts:
+
+Natalie & Guenther -- coordination in space and time
+
+Bratman -- meshing intentions
+
+Roth -- contralateral commitments
+
+These are independent in the sense that, for any pair of accounts, you can find cases which are intuitively joint action where the first account applies and the other doesn't, and conversely.
+
+E.g. 'Suppose you and I are independently walking down Fifth Avenue. We spot each other on 65th Street, and we briefly walk together, chatting, until, as it happens, you peel off at 59th Street. We do not merely walk individually along the same stretch of street and at the same time. Rather, we intentionally walk together for this brief time, and we briefly have a shared intention to walk together. Nevertheless, it seems strained to insist, baring the introduction of further features to the story, that either has an obligation to the other not to opt out without the other’s permission.' (Bratman 2006, p. 7)
+
+Are we waiting for the one true account of joint action?  I don't think so.  Instead I recommend instrumentalism.
+
+Arguments against instrumentalism (attempts to find minimal sufficient conditions):
+
+- Kutz' participatory intentions
+- Bratman's assumptions about modest sociality at the start of Bratman 2009.
+
+
+
+Consequences of instrumentalism:
+- challenge for each proponent to say what their account is of (can't simply appeal to joint action or to the social, have to explain its importance).  So although in some ways instrumentalism is liberal in one repsect (it's not necessary for Roth to show that Bratman's account is incorrect or misguided), it is demanding in another
+
+'Modest sociality is a deep feature of our lives, something we frequently value both for its own sake and instrumentally.' (Bratman 2009, p. 150)
+
+Bratman says it's a conjecture that planning is involved in modest sociality [1]; but I don't believe that there is a way to get a handle on what modest sociality is independent of his account.  After all, he argues against the view that modest sociality is a matter of equilibrium within common knowledge on the grounds that the conditions he sets out for modest sociality are not met [2].  
+
+[1] "the conjecture that our planning capacities are at the bottom of two further, fundamental practical capacities: our capacity for self-governance and, as I have argued here, our capacity for modest sociality." (2009, p. 164)
+[2] "Equilibrium within common knowledge does not, then, ensure any of conditions (i)–(iv) or (vi). That is why such equilibrium does not ensure modest sociality." (2009, p. 162)
+
+- pluralism
+- questions about interactions are no longer obscured: just as it's a mistake to think that you can understand individual action, even individual intentional action, without understanding its psychological underpinnings (e.g. because the possibility of an intention formed some time in the past entitling one rationally to a course of action now depends on mechanisms which are not themselves intentions), so also it is a mistake to think that you can understand joint action at just one level.
+

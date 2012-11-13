@@ -1,0 +1,15 @@
+\expandafter\ifx\csname doTocEntry\endcsname\relax \expandafter\endinput\fi 
+\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{1}{x1-1000}{QQ2-1-1}{Contents}}{3}\relax 
+\doTocEntry\tocsection{1}{\csname a:TocLink\endcsname{1}{x1-20001}{QQ2-1-2}{The Question}}{4}\relax 
+\doTocEntry\tocsection{2}{\csname a:TocLink\endcsname{1}{x1-30002}{QQ2-1-3}{Deflationary Approaches to Joint Action}}{5}\relax 
+\doTocEntry\tocsection{3}{\csname a:TocLink\endcsname{1}{x1-40003}{QQ2-1-4}{The Simple Definition}}{9}\relax 
+\doTocEntry\tocsection{4}{\csname a:TocLink\endcsname{1}{x1-50004}{QQ2-1-5}{First Objection}}{10}\relax 
+\doTocEntry\tocsection{5}{\csname a:TocLink\endcsname{1}{x1-60005}{QQ2-1-6}{Avoiding the First Objection}}{14}\relax 
+\doTocEntry\tocsection{6}{\csname a:TocLink\endcsname{1}{x1-70006}{QQ2-1-7}{Second Objection}}{16}\relax 
+\doTocEntry\tocsection{7}{\csname a:TocLink\endcsname{1}{x1-80007}{QQ2-1-8}{Goal-directed Joint Action}}{18}\relax 
+\doTocEntry\tocsection{8}{\csname a:TocLink\endcsname{1}{x1-90008}{QQ2-1-9}{Distributive Goals}}{19}\relax 
+\doTocEntry\tocsection{9}{\csname a:TocLink\endcsname{1}{x1-100009}{QQ2-1-10}{Collective Goals}}{21}\relax 
+\doTocEntry\tocsection{10}{\csname a:TocLink\endcsname{1}{x1-1100010}{QQ2-1-11}{From Collective Goals to Joint Actions via Agency}}{23}\relax 
+\doTocEntry\tocsection{11}{\csname a:TocLink\endcsname{1}{x1-1200011}{QQ2-1-12}{Conclusion}}{27}\relax 
+\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{1}{x1-1300011}{QQ2-1-13}{References\ttl@gmk {\@mkboth {\MakeUppercase  {References}}{\MakeUppercase  {References}}}}}{28}\relax 
+\par 

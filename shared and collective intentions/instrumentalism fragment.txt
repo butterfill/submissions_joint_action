@@ -1,0 +1,42 @@
+THIRD ATTEMPT
+
+Sometimes `joint action' and related terms are used intuitively.
+One difficulty with relying exclusively on intuition is that different people seem to have different intuitions about which events are joint actions.
+We can mitigate this difficulty by starting with a broad, instrumental presumption about joint action.
+	Take one or more events involving the goal-direct actions of multiple agents.
+	Where some observers (or participants) could usefully construe these events as if they constituted a single goal-directed action, we shall presume that these events constitute a joint action in the absence of stronger reasons for supposing that they are not.
+In other words, where there is some value in thinking of multiple agents' goal-directed actions as if comprised were a single action, we shall presume that they either do comprise a single action or else that they resemble a single action in ways that mean they constitute a joint action.
+
+
+The instrumental presumption would not be reasonable if we were primarily concerned to characterise people's intuitions about joint action.
+In fact our primary concern is with articulating notions relevant to scientific research.
+
+
+
+
+SECOND ATTEMPT
+
+We can mitigate this difficulty by starting with a broad, instrumental presumption about joint action.
+	Take one or more events involving the goal-direct actions of multiple agents.
+	Where some observers (or participants) could usefully construe these events as if they constituted a single goal-directed action, we shall presume that these events constitute a joint action.
+
+This instrumental view is not supposed to be a deep truth about the nature of joint action.  
+In fact it may not even be true.  The fact that it is some way useful to think of a sequence of events as if they comprised a single goal-directed action does not show that these events do comprise a single action.
+But the instrumental view is a better starting point than either bare intuition or mere stipulation given that our concern is not directly with characterising people's intuitions but with articulating notions relevant to scientific research.
+
+
+
+FIRST ATTEMPT
+
+Sometimes `joint action' and related terms are used intuitively.
+One difficulty with relying exclusively on intuition is that different people seem to have different intuitions about which events are joint actions.
+We can mitigate this difficulty by starting with a broad, instrumental view of joint action.
+On the instrumental view, a joint action is a sequence of one or more events involving the goal-direct actions of multiple agents where some observers (or participants) could usefully construe the events as if they constituted a single goal-directed action.
+
+This instrumental view is not supposed to be a deep truth about the nature of joint action.  
+In fact it may not even be true.  The fact that it is some way useful to think of a sequence of events as if they comprised a single goal-directed action does not show that these events do comprise a single action.
+But the instrumental view is a better starting point than either bare intuition or mere stipulation given that our concern is not directly with characterising people's intuitions but with articulating notions relevant to scientific research.
+
+For the fact that it is useful to construe multiple agents' activities as if they were a single action motivates investigation of that case in a way that mere stipulations and bare intuitions do not.
+
+

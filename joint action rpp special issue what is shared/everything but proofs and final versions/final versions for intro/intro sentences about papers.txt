@@ -1,0 +1,68 @@
+[PACHERIE]
+Accounts of shared intention typically involve interlocking commitments, intentions or knowledge.  
+As Pacherie argues, these conceptions render shared intention is conceptually and cognitively demanding.
+Drawing on work by Michael Bacharach, Pacherie offers an alternative approach to shared intention.
+She proposes that two or more agents share and intention to A if each conceives herself as a member of a team consisting of all the agents, each reasons that A is the best action for all the team, and each therefore intends to do her part of A.
+If this is right, shared intention places limited demands on agent's mindreading abilities: it requires them to detect other agents and to attribute goals, but not to ascribe propositional attitudes such as knowledge or intention.
+
+
+
+
+[SMITH]
+Smith's paper raises an new puzzle for understanding the nature of the intentions involved in joint action, and in particular for understanding what participatory intentions are.
+He shows that humans freely and rationally take part in intentional joint activities which they do not believe ought to happen.
+In his central example, Stan and Ollie have bought a piano and can either have it delivered or carry it home themselves.
+Ollie is convinced that they ought not to carry the piano.
+Despite this, at Stan's insistence, they freely decide to carry the piano home and act on this decision.
+It seems to follow from this that Ollie intends that he and Stan carry the piano.
+However, Ollie also believes that he and Stan ought not to carry the piano.
+It follows that Ollie freely intends something which he believes ought not to be done, which would be criticizably irrational.
+But Ollie is not being criticizably irrational; he is making the best of things by giving in to his stubborn friend.
+If this is right, it cannot be true that Ollie intends that he and Stan carry the piano.
+This leads to the question, which Smith ingeniously answers, of how Ollie's carrying the piano with Stan can be an intentional activity.
+Reflection on this sort of case provides a clearer understanding of the content of the intentions in virtue of which joint activities can be intentional.
+
+
+
+
+[BLOMBERG]
+A central puzzle for accounts of shared intention concerns what can be intended concerning another agent's actions.
+As Blomberg notes, it is widely accepted and plausibly true that "what one attempts are [only] one's own actions" (Bratman 1992, p. 330).
+Consider two ice skaters performing a manoeuvre requiring coordinated bodily movements.
+The fact that an agent can attempt to perform only actions which are her own actions appears to entail that neither skater can attempt to perform this manoeuvre.
+This appears true because the manoeuvre involves both agents acting.
+Blomberg argues, however, that the apparent entailment does not hold.
+This is because, as Blomberg argues, one skater can experience the other skater's bodily movements as an extension of her own.
+Here the argument turns on an analogy with experiences of tool use in which, on some accounts, agents experience tools as extensions of their own bodies (*refs).
+If a tool can be experienced as an extension of one's own body, perhaps the same is true of another's body. 
+This makes possible what Blomberg calls *socially extended intentions in action*: intentions which involve another agent's bodily movements but whose contents do not involve other agent's actions.
+If each skater experiences the other's body as an extension of her own, she can attempt to perform a manoeuvre which involves the other's bodily movements without thereby attempting to perform an action which (from her point of view) is not her own.
+
+Blomberg's claim is important for understanding the sorts of intentions characteristic of joint action.
+It is quite widely assumed that joint action involves shared intention and that shared intention implies knowledge that one is not acting alone.
+Blomberg's view does not commit him to denying this.
+But it is possible that, if Blomberg is right, there are joint actions in which each agent intends the joint action although the agents do not have a shared intention to perform this action because neither is aware of not acting alone.
+
+
+
+
+
+
+
+Blomberg argues for a surprising claim: it is possible to intend to perform actions which involve other agents' bodily movements without thereby intending to perform actions which are not one's own actions.
+This is possible if it is true, as Blomberg argues, that agents can experience other agent's bodily movements as parts of their own actions.
+A central example is that of two figure skaters performing a manoeuvre requiring coordinated bodily movements.
+If Blomberg is right, each agent can act immediately on intentions whose satisfaction involves not only her own but also the other's body moving in certain ways.
+If the agent's experience each other's bodies as extensions of their own, then 
+
+without this necessarily amounting to either skater having intentions about the other's actions.
+The grounds for accepting this include an analogy with experiences of tool use in which, on some accounts, agents experience tools as extensions of their own bodies (*refs).
+If a tool's movement can be experienced as a movement of one's own body, perhaps likewise another's bodily movement can be experienced as 
+
+As he shows, it is consistent to hold that agents cannot intend to perform actions other than their own whilst allowing that agents *can* intend to perform actions which involve other agents' bodily movements.  
+An 
+
+discusses the nature of the intentions which seem to be involved in intentional joint action. 
+He distinguishes between prior intentions and intentions in action; roughly speaking, it
+
+starts from the observation that some accounts of shared intention require that, in acting, one agents has intentions concerning not only their own but also other agents' bodily movements (specifically Tollefsen *ref).  This requirement conflicts with the widely held view that intentions to act which are such that, when an agent acts on them she is not doing so in virtue of acting on any other intention, 

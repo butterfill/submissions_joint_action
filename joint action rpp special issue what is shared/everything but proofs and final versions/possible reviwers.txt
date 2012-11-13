@@ -1,0 +1,92 @@
+reviewers
+
+[*=for steve, @=Natalie, #=promising, &=possible low quality, !=doubtful relevance]
+
+
+#@ROPP27 Title: Understanding the perception-action processes involved in social interaction: the case of manual search behavior for hidden objects in toddlers
+	Someone who knows about A-not-B plus someone philosophical (Matt Nudds?); good paper.  Should ask author to ask an additional question linking the paper to the CFP question.  Should ask reviewers to comment on match between paper and cfp.  
+	Celia Brownell, Henrike Moll, Matt Nudds
+
+[done=3]*#ROPP31 Title: Rationality and the unit of action
+	Someone who knows reasons for 	action and decision theory (nothing technical); Natalie Gold would be ideal candidate, but many philosophers of action would do; failing Gold, ask Bardsley, Nagatsu, Manchester, Roth, Bart Streumer.  Heiner. Rowland Stout.
+
+[done=2/1,todo=1]*&ROPP36 Title: Explaining Social Reality: Are the Notions of Collective Intentionality and Background Apt for the Job?
+	someone who knows Searle, but low quality: NOT Tollefsen, NOT Elisabeth Pacherie, ... look in Paris, generic
+
+[done=2]*&!ROPP41 Title: Folk psychology, joint action and science
+	[basically about anti-individualism]: Till, Alex Kelly
+	
+@###ROPP42 Title: Stag Hunts and Committee Work: Cooperation and the Mutualistic Paradigm
+	Includes suggested reviewers, excellent paper, def. needs phil & psych combination.  Could ask Bratman.
+	Hannes Rackoczy, Bratman, Silk, Jennifer Hudin Berkeley (?)
+	
+@#ROPP43 Title: Joint Actions, Shared Feelings, and Cross-Creatural Embodiment
+	someone who knows about motor action, gaze following & joint attention, def. needs phil & psych.  Author suggests reviewers but these are not so useful.  Lots of embodied but would be fine to have reviewer who didn't get that stuff. 
+	Sinigalia, Mark Sprevak; Wolfgang Prinz
+	Phil, Louise Richardson?  Richard Moore (but prioritise ROPP46)
+	
+[done=2,todo=Tom Pink]*&ROPP44 Title: Collective Intentionality, Documents, and Social Reality
+	might be ok; similar to ROPP42 in some respects; someone who cares about ontology of joint action. Needs philosopher, probably doesn't need psy. ???
+	Steve take & look in Encyc: Kirk Ludwig, Kisolo-Ssonko, Tom Pink
+	
+[done=2,todo=somby][&?]*ROPP45 Title: Four Forms of Social Action
+	needs a philosopher, probably not a psych.  About ontology.
+	David Schweikard david.schweikard@gmx.net; a somby [tbd] & Oliver Rashbrook
+
+@#ROPP46 Title: Joint Attention: from Interaction to Joint Action
+	Development plus philosophy (it's about the first year of life).  
+	Richard Moore, Chris Moore [dev], a somby [Anna], Johannes Roessler
+	
+#ROPP47 Title: From joint action to action control: Functional equivalence between acting together and acting alone
+	It's about precise timing (no language) using forward models (Grush) and emulation; it's also about phenomenology.  Mainly psych but would benefit from a philosopher who can bear reading psych papers.
+	
+##*ROPP49 Title: A case for disjoint action
+	Highly relevant to CFP, competent and better than the abstract suggests.  Phil only.  Kutz?  Helen Steward; Peacocke
+	
+&ROPP50 Title: Teaching and learning: joint action in didactic action
+	[don't mind who but this is going to be hard work to review!]
+	
+ROPP51 Title: Radical Contextualism and the Limits of Sharedness
+	I don't understand the asbtract, first paragraphs are more promising.  It's about linguistic communication, suggests Derdrie Wilson as a reviewer.  Could ask Guy Longworth, Christophe Heinz, Siegfried J. Schmidt sjschmidt@gmx.de
+
+*ROPP52 Title: The subject of shared intentions
+	argues for plural subjects.  Unlikely to make it but should be reviewed at least by a phil.  Someone who knows about intention and philosophy of action.  Constantine Sandis?  Maria Alvarez?
+	
+##ROPP53 Title: The social motivation for joint action
+	suggests more research on motivation rather than mechanisms needed.  Should be reviewed by a mechanisms person (Cordula Vesper?) plus at least one joint action person
+
+&ROPP54 Title: Joint Attentional Declarative Pointing: Shared Intentionality A (Action) and Shared Intentionality R (Representation)
+	I don't understand the title.  Its about pointing & vygotsky: Ulf L., would be useful to have a neuro person.  Fabia Franco (psych on pointing). Must have a phil person=JAMES MORAUTA
+	
+##*ROPP58 Title: Playing one's part
+	hard-core: Christopher McMahon, Matt Soteriou, Tuomela
+	
+&ROPP59, Title: Socially extended intentions-in-action	
+	Tollefsen (it's about her) plus a hard philosopher (doesn't matter who).
+	
+	
+	
+	phil action list
+	http://www.philosophyofaction.com/Researchers---Programmes.html
+	x Helen Steward
+[used]	Paul M. Pietroski pietro@umd.edu
+	x Tom Pink tom.pink@kcl.ac.uk
+	x Helen Beebee
+	x Bart Streumer
+	
+	
+	x Bjorn.Petersson@fil.lu.se *v.g.
+	E.J.Pacuit AT uvt DOT nl  *v.g. technical person Eric Pacuit
+	
+	
+	collective intentionality possibles [http://cipp.unibas.ch/activities/collective-intentionality-vii/papers-and-extended-abstracts/]:
+	
+	A24: Intention, Shared Activity, and Team Reasoning A. Roth, Ohio 
+	A25: Team Reasoning as a Cause of Group Identity Effects in Social Dilemmas M. Nagatsu, Manchester 
+	A26: Changing Moods? Switching Between Shared and Strategic Reasoning R. Gersbach, Berne 
+	Are Group Preferences Reducible to Individual Preferences? Raul HAKLI & Kaarlo MILLER, Helsinki
+	
+	
+	[08/09/2010 09:05:25] Natalie Sebanz: just in case, my phone number is +43 512 28 64 87
+	
+	

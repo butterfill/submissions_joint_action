@@ -1,0 +1,36 @@
+your paper, my comments
+Luca Tummolini <luca.tummolini@istc.cnr.it>	 2 March 2011 19:12
+To: Stephen Butterfill <s.butterfill@warwick.ac.uk>
+Hi Steve,
+   I finally had today the time to read your paper which is very interesting. I am myself very interested in clarifying a notion of joint action without shared intention as you have done. So this is really important to me.
+My own interest is more on the way conventions and institutions ultimately coordinate collective activities that in my opinion count as "joint actions". This joint actions are obviously not the product of shared intentions (think of a collective regularity of driving on the left in UK).
+
+I still have to think about your constructive proposal which here I will not comment. My basic problem is that we are used to work with a notion of "goal" which is definitely mental (so is not the outcome notion you use) and teleological. So I have problems with the idea of collective goals that are only outcome but I will send comments on this aspect another time. 
+
+Here I want to pinpoint some criticisms you offer against the notion of shared intention which I am not really sure hit the target and don't think are really useful to your argument. I start from the assumption that the background notion of shared intention is more or less Bratman's notion. 
+
+(1) in the paper you consider the notion of "shared intention" but you always discuss examples of presently occurring joint actions: two agents pushing a table together. Since you core notion is Bratman's, I think there is room for some ambiguity here. Bratman has traditionally distinguished present directed intentions from future directed ones. The two are different states and have different functional roles. Especially in the case of shared intention, all Bratman's examples focus on the latter and are directed to  temporally extended activities. This is a point that all the experimental works always forget. 
+
+The role of future directed intention is that of plans (considered as mental states) and are primarily constraints on practical reasoning and the commitment to different courses of actions, and only indirectly, on actual actions themselves. If I am not wrong, at least in the case of individual intention, his theory allows for intentional action that are not caused by future directed intention. 
+So the same might apply to the shared case as well.
+
+I think you should discuss this aspect  because it seems to me that  you are interested in cases that aren't in the scope of  Bratman's notion of shared intention. 
+
+This consideration does not extend to all the other theories you mention (Gilbert, Tuomela etc.) that aim to explain directly the occurrence of joint action in the present. So your criticisms apply to them straightforwardly.
+
+(2) At some point you say that a shared intention is a state of the agents. This is not correct since Bratman explicitly claims that a shared intention is not in the mind of any of the agent. A shared intention is, in his theory, reduced to a complex relation between individual intentions of the agents but cannot be attributed to any of them taken individually. Each of them has individual intentions and beliefs in their independent minds.
+
+(3) I am not sure that in your example the merchants "share" an intention without having a collective goal. I don't think that their agreement to fix the prices is enough from them to share an intention that they will become rich. It seems to me that each of them has a private intention to become rich regardless the others' fate. At most they share an intention to fix the prices. But in this case I am not sure your example does the job you want.
+
+(4) You might adopt also a different strategy. 
+
+Bratman has the problem that the content of a shared intention is a joint action (that we J). Since however he aims to explain the intentionality of joint action by appealing to shared intention, if this joint action J were already intentional, his analysis would be circular. Thus he very quickly argues in several places that he considers only a joint action J that is neutral wrt intentionality like the case of coordination when we do not bump into each other on the sidewalk. 
+
+Your analysis is precisely a more detailed account of this kind of joint actions that are presupposed by Bratman's analysis and can be independent from any shared intention. The two theory are perfectly compatible.     
+
+Hope these few comments can be helpful
+All the best
+   Luca
+
+ps 
+is there any news on the RPP special issue?

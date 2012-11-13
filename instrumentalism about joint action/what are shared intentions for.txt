@@ -1,0 +1,36 @@
+What are shared intentions for?
+=================================
+
+Humans and perhaps other animals are able to form shared intentions.  To fix ideas I will go for Bratman's account, although nothing hinges on the details.
+
+... substantial account
+
+What benefits, if any, do capacities to form shared intentions bring?
+
+[Doesn't the functional role answer my question?]
+
+
+Philosophers generally agree that joint actions are actions involving shared intentions.  While there is a rich debate on what shared intentions are, there is almost no discussion of whether shared intention is essential for joint action.  
+
+PREMISE: Joint action is action involving shared intention.
+
+SOLUTION: shared intentions matter because they make joint action possible.
+
+Why should we accept this premise?  One possibility is that it is merely terminological and serves to delineate the sorts of joint action that the philosophers are concerned with.  Of course it is not a very good delineator because talk about shared intention is, I suppose, metaphorical. [...]  In any case, the terminological reading is no good for my purposes.  It just pushes the question back: what is special about activities which involved shared intentions.  So we may end up concluding that the premise is indeed merely terminological, I want to exhaust the other possibilities first.
+
+(Shared intentions are useful because they make possible the kind of joint action that involves shared intentions!)
+
+The other possibility that it is substantive.  Kutz certainly believes this. [...]
+
+Two types of case:
+
+-- object supplies the coordination
+
+-- motor system supplies the coordination
+
+in both cases we have something which is recognisably joint action but doesn't involve awareness.  And both types of coordination are also found in cases where there are shared intentions.  
+
+
+ 
+
+ 'Modest sociality is a deep feature of our lives, something we frequently value both for its own sake and instrumentally. A human life that was not significantly embedded in such sociality would probably be unrecognizable, and certainly be impoverished.' (Bratman 2009, p. 150)

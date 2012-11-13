@@ -1,0 +1,136 @@
+Dear Professor Butterfill
+
+'What Is Joint Action?  A modestly deflationary approach'
+
+Thank you for submitting this paper to Mind.  I'm sorry for the length of time the piece has spent under review. The Editor has now given it his consideration and, I am sorry to say, it has not been accepted for publication. The paper was, however, read with some interest, and the Editor has indicated that he is prepared to consider a revised version.  Any resubmission would have to address the concerns raised by the reporting referees (see comments copied below).  Please note that any such paper would have the same status, with regard to acceptance, as a new submission.  (Though we do ask that you declare resubmission, so that the relevant advice can be brought to bear.)  No commitment to publish can be given at this stage.  (Please note that referees' comments are supplied in confidence for the Mind editorial board.  They are forwarded to you as confidential reports, in order to provide you with feedback concerning your submission.  The Editor asks that you respect the confidentiality of this advice.)
+
+If you do choose to resubmit, please include a note with your submission indicating how you have dealt with the referees' comments, or explaining, in any case where a worry is not dealt with, why you chose not to address it.
+
+I am sorry not to be writing with better news, particularly given the delays, but I hope that you find the referees' comments useful.
+
+Yours sincerely,
+Barry Lee
+Editorial Administrator
+Mind
+mind@york.ac.uk
+
+
+
+Report from Referee 1:
+
+In this paper, the author argues that joint action can be characterized by collective goals, and that collective goals do not imply joint intentions. With this claim, the author claims to be going against a near-universal consensus in the literature (the one exception, he or she claims, is Chant).
+
+The author starts with a very useful distinction between different questions a theory of joint action has to answer, and by characterizing his or her "deflationary" account according to which (some) joint actions can be characterized without ingredients that are already needed to characterize individual action. He or she then proceeds by showing that joint actions do not involve unit acts that have multiple agents and develops a first characterization of joint action which is then refined in a discussion of two objections. It is only in the section on "Collective Goals", however, where the author presents the central conceptual tool. Here, the author claims that joint actions have a goal that is "collective" and are such that the actions of the participating individuals are suitably related to each other. The notion of a collective goal is the crucial feature; the author argues that collective goals need not be conditiions of satisfaction of joint intention, but may involve a sort of "coordination" between the participants that is not intentional.
+
+The paper seems to be beautifully written, it has a clear thesis, and it challenges an important claim. However, I have some criticisms concerning the starting point (1.), the line of argument (2.) and the paper's success (3.):
+1. The author starts his or her exposition from a Davidsonian approach. A paper that challenges the joint intention claim should address the question of the role of intentionality in action rather than starting from an action theoretic setting in which the place of intention is rather unclear.
+2. The author invokes Chant's analysis. The central feature of this account of joint action is the idea of a non-summative effect. However, it seems easy to show that non-summative effects are neither sufficient (many non-summative effects are unintended consequences of individual actions rather than consequences of joint actions) nor necessary for joint actions (in the case of failing joint actions, agents may act together without succeeding in producing any such effect). The same point can be made against the author's account.
+3. The author argues that goals may be collective even where the coordination between the participants is not intended. Granted that this analysis is covered by ordinary language, it seems clear that these cases differ in kind from those in which coordination is intended. The received literature is focused on the latter kind. Thus the author's success may just be to show that ordinary language covers cases which are not covered by the theory. What the author does not show is that his or her analysis is pertinent to the paradigm cases (he or she herself admits as much on page 24), such as the sense in which "going for a walk together" is not just any incidentally coupled "walking alongside each other".
+
+*** *** ***
+
+
+Report from Referee 2:
+
+The Authors (A henceforth) argue for a modest deflationism about joint action.
+
+According to modest deflationism, there is *a* notion of joint action which can be characterized using no distinctive ingredient, no ingredient not already needed in characterizing individual action.
+
+Their aim is to characterize a notion that meets two requirements:
+
+r1: to be central to philosophical and scientific questions commonly taken to be questions about joint action
+
+r2: an implicit conception of this notion must be available through reflection on the supposedly paradigmatic cases of joint action
+
+In the final formulation, A's proposal is for the following notion
+
+(JA) joint action is an event grounded by two or more agents' actions where all the actions taken together (a) have  a collective goal and (be) are otherwise relate to each other and to the while event in ways sufficient for all and only the agents to these actions to be agents of the event. [23]
+
+(I will refer to the *notion* or conception of joint action presented by A as JA, I will use the term 'joint/shared action' to refer to the concept of joint that JA is supposed to characterize)
+
+I approve of A's aim. There is indeed a need to try to find a notion of joint action that meets the two requirements r1 and r2. To this extent, I think that their probing questions and suggestions are worth attending to in the current debate on shared agency. I also have no major qualms about the formulation of JA and the arguments that lead A to that formulation in the paper.
+
+But I think that A need to offer a more sustained defense of the precise import of JA on the current discussion of shared agency. In particular, A need to say more to prove that JA meets the two requirements R1 and R2. I also worry that JA might turn out to be much less deflationary than A claim it to be.
+
+I do not dispute that there is an important notion of action that is common and neutral with respect to both individual and joint agency. With respect to this notion, there might be no philosophical issue that is distinctive about either individual agency and joint agency. The distinction would only be about the number of agents who are involved in this kind of agency.
+
+But this does not imply that there might be important philosophical issues that concern agency either in its *individual* or *joint* form. Under this respect, qualifying agency as 'individual' or 'joint' is not the same as qualifying it as 'feline' or 'canine'---contrary to what A claim.
+
+Let me elaborate.
+
+According to the final formulation of JA---as A correctly remark---the joint-ness at stake is ultimately neutral with respect to the number of agents who share the goal. What is crucial is rather the existence of multiple actions with a collective goal that can be normally achieved only via coordination (broadly understood).
+
+In number-neutral terms, what A is really proposing is what I will called the notion of 'coordinated action'
+
+(CA) coordinated action is an event grounded by one or more agents' actions where all the actions taken together (a) have  a collective goal and (be) are otherwise relate to each other and to the while event in ways sufficient for all and only the agents to these actions to be agents of the event.
+
+(where coordinated action is action in the 'attenuated' sense discussed by A---incidentally, A might want to mark with a subscript or similar typographical device at least some of the occurrences of action in the attenuated sense.)
+
+With respect to the notion of coordinated action, JA only marks the involvement of a plurality of agents. *This* notion of joint action might thus seem to have no distinct philosophical significance, as A argue.
+
+But is it true that the jointness as plurality of agents does no more philosophical work than the 'feline' qualification of action?
+
+I am not sure that it does.
+
+First, is there really no distinction between individual and social/plural action? This is hard to believe. Even if it is true that both a single agent or a plurality of agents might engage in CA, to imagine that the only distinction is the number of agents entering in the coordination is to deny the relevance of the identity over time of the single agent as she engages in coordinated action. Although there are cases in which one might take such a third-personal stance toward one's other selves, there is a distinctive first-personal way of relating to one's own selves and their actions. To this extent, there is a deeper distinction between individual and joint coordinated action than the one due to mere counting of the agents involved in it. Hence, I am utterly unpersuaded that 'in theories of action, the number of agents should matter as little as their felinity' [p. 25]
+
+In any event, even if A agrees that there is more to the individual vs. plural distinction in CA, the most important issue is how JA bears on the traditional accounts of joint agency.
+
+The worry is that the traditional non-deflationist views might agree on the existence of coordinated plural action (JA) and yet not be threatened by this concession. They could just argue that coordinated plural action is a minimal, necessary, but not sufficient building block of genuine joint agency. After all, the traditional accounts of shared agency allow for kinds of plural agency that do not count as joint agency but need not be simply cases of merely distributed plural agency. For instance, consider the strategic interactions discussed by Bratman. They seem to involve a form of coordinated plural agency, but Bratman explicitly takes them to fall outside of the scope of joint agency---even if some sort of coordination over a collective goal might be involved.
+
+A allow that there might be 'more sophisticated' forms of joint agency. Hence, they do not deny that there might room for additional elements (whence the modesty of their deflationism). But if so, they need to say more to clarify the extent to which their notion of joint agency might help addressing the traditional concerns of accounts of shared agency, especially in light of the possibility that these accounts might see JA as a necessary but not sufficient component of the genuine kind of joint agency.
+
+In other words, A need to say more to show that JA meets the requirement r1. When they explicitly address the issue at p.24 they acknowledge that their definition might not capture exactly the event of interest in more sophisticated cases of joint agency but only reveal what 'unifies otherwise apparently conflicting approaches'. However, this unification might be only of limited interest if the notion of JA only covers a necessary but not sufficient component. A might be right that JA help cast light on the two approaches to joint action in psychology that they discuss at p.24. But this is the only substantive example that they discuss in relation to r1. The example does not help with proving that JA meets r1 in connection with the philosophical discussion of shared agency. Whether JA helps with revealing by unifying needs to be shown with more specific and substantive discussions of the philosophical literature.
+
+A also do not say much to support the idea that JA meet r2. They admit that it is 'too early to claim complete success' but once again a much more detailed discussion of specific philosophical views and their claims about paradigmatic instances of joint agency is in order.
+
+This is not to deny that there is a need to get clear about what phenomena are supposed to count as the paradigmatic instances of joint agency. But it seems to me premature for A to claim much progress on this front.
+
+I am aware that asking for a longer discussion of how JA meets r1 and r2 might be too demanding for the scope of this paper. Maybe A should  weaken the thesis in this paper by and write a separate paper to offer a complete defense of modest deflationism in light of a detailed and sustained discussion of alternative theories of joint agency.
+
+What the author can do in this paper is only present JA as a consistent and plausible notion of joint agency, which might be used as the central claim of a modest deflationism whose full defense is left for another occasion.
+
+Even in this weakened version the paper would present a welcome and important challenge to the present accounts of joint agency. Weakening the main thesis would also require a change in the general tone of the paper, which in the present form sounds too bold in light of what it actually accomplishes. I think that the paper would benefit by offering more promissory notes.
+
+I also think that A should offer a more nuanced account of the status of the current philosophical discussion of joint agency. They should be more guarded in claiming that nearly all philosophers are strong anti-deflationist. They tend to exaggerate the extent of the agreement in the philosophy of action. Their polemical target is the anti-deflationism of philosophers like Searle and Gilbert. But this is only the extreme pole of a spectrum of philosophical positions, which goes from the reductionism of Miller & Toumela (which was the target of Searle's original article) to the anti-reductionism of Searle and Gilbert, via intermediate views such as Bratman's.
+
+Let me show some example of overstatements of the current debate in the philosophy of action...
+
+p. 25 'Nearly all approaches to joint action'
+
+p.25 re:joint actions regarded as *exotic* phenomenon
+
+What do A mean by exotic? It seems that they begin this section by suggesting that it is 'exotic' in the sense as not being the focus of much attention in the philosophy of action. But this is not true. Much current philosophy of action is concerned with collective/joint/shared agency. On the other hand, if A mean by 'exotic' that philosophers of action tend to be non-deflationist about joint agency, A should stick to the non-deflationist label, which seems to carry fewer potentially negative connotations.
+
+A should also say more about the similarities and differences with the philosophers --- such as Ludwig -- that they indicate as inspirations for their work or sympathetic with their view.
+
+The paper would also benefit by being more specific about the dimensions along which joint agency might require a distinctive element. Ontological? Conceptual? Psychological? Clarifying this point would help locate the modest deflationism in the spectrum of philosophical views (this would also help to make clear in which ways admitting of a 'shared intention' would be anti-deflationist, if at all. As A acknowledge authors like Bratman do not admit of a shared intention as an ontologically irreducible psychological state, but they might still take shared intention to refer to a distinctive although reducible structure of coordinated plural agency that goes beyond JA.)
+
+*** *** ***
+
+
+Report from Referee 3
+
+I found this paper interesting but ultimately unsatisfying and wondering about how it relates to the other positions in the literature.  Consider the claim that action theorists view joint action as a separate category of agency and the aim of the author (I’ll assume that there is just one) to render a deflationary account that treats all action, individual and joint, as one class (so that “joint” action is like “feline” action, namely, a philosophically uninteresting distinction).
+
+ 
+
+My own sense is that action theorists, especially those who are causal theorists, would basically agree.  For example, Bratman claims that shared action is like individual action in that both are explainable by intentions that play a certain coordinating role.  Joint action just involves more than one agent.  To be sure, Bratman’s account is not as general as the author’s because he thinks that shared action requires a shared intention.  But it is very general in that it requires an intention, just like individual action requires an intention.  In that sense, Bratman’s account is deflationary because it does not require a “distinctive ingredient.”  Intention is not distinctive to joint action.
+
+ 
+
+At this point, the author may reply: sure, but my account is more general.  Well, yes, but does this matter?  How can the author explain/account for phenomena that others can’t.  I found the discussion in the paper extremely compressed (on page 24).  Much more would be needed to show the value of the paper’s deflationary account (I doubt most Mind readers know this psychological literature). 
+
+ 
+
+I also found it odd that the author does not discuss Miller and Tuomela’s account of collective goals as it sounds very similar to the author’s.
+
+ 
+
+Two smaller issues.  First, coordination is central to the author’s account of a collective goal.  But what kind of coordination?  Coordination of action? Planning? Bargaining? 
+
+ 
+
+Also, why does the author require normality for collective goals? Suppose we both shoot at a target a half a mile away with the intention that we kill the target.  We both know that the odds of either of us hitting the target is very low.  Suppose we both hit the target and the target dies.  Wouldn’t killing the target be a collective goal of our actions even though killing the target does not normally happen when people shoot from so far away?
+
+*** *** ***

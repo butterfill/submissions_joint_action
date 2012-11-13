@@ -1,0 +1,11 @@
+Case Study -- Shared Task Representations
+=========================================
+
+[See reply to knoblich paper, 'Does Eve need Adam?' and the .tex version of the talk]
+
+
+Why think of these as cases of joint action?  Because the behaviours of two people are relevantly similar to the behaviours of a single person.
+
+Motor systems are meshing.  To say that you only get joint action when intentions mesh is hard to defend: why (other than terminology) is the meshing of psychological mechanisms for long-term planning sufficient for joint action but not the meshing of mechanisms for short-term planning?  We should not be biased about time.
+
+Why are these not shared intentions?  Because no reciprocity.

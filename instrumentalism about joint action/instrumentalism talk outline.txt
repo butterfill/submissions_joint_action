@@ -1,0 +1,87 @@
+Joint Action without Shared Intention
+============================================
+
+[This and the file 'joint action and shared intention.txt contain the talk outline; the 'case study ... .txt' files contain parts.]
+
+
+0. Preamble on kinds of joint action (simple, few people, spontaneous) and on philosophical questions.
+
+
+1. ASSUMPTION: joint action involves shared intention
+
+(Actually this is only one of many assumptions one could cite, but it is the least controversial.)
+
+Different readings of this assumption
+
+a) terminological
+
+b) there are some interesting theoretical differences between cases of joint action involving shared intention (call these 'shared intentional actions') and cases not involving shared intention
+
+c) there are philosophical questions about shared intentional actions which are not also questions about others kinds of joint action
+
+d) it is a substantive truth that no case of joint action fails to involve shared intention---there is a robust, pre-theoretic and intuitive ability to distinguish between cases which are and aren't joint actions, and all such cases involve shared intention.
+
+e) even if there are cases of join action which do not involve shared intentions, they raise no interesting conceptual, constitutive or normative questions.
+
+I will not dispute (a)-(c); I will reject (d) and (e).
+
+The literature on joint action has not always distinguished these various claims.  Interpretation (d) seems to be favoured in some but not all parts of the literature on joint action.  For example, a common pattern of argument runs: this is intuitively (and therefore actually) a case of joint action; a supposedly necessary condition for shared intention is not met in this case; therefore the supposedly necessary condition is not actually necessary.  This pattern of argument implicitly relies on the substantive interpretation of the ASSUMPTION.  The idea is to test theories of shared intention by seeing whether they apply to every case of joint action.  If the claim that all joint actions involve shared intention were merely terminological, this would not work.
+
+
+My claims are:
+
+- on the one hand there are cases of merely cooperative and coordinated behaviour such as are found in ants; on the other hand there are paradigm cases of shared intentional activity such as painting a house together (everyone agrees about this); between these there are many further cases which involve different kinds of psychological sharing but not shared intention (this is news)
+
+- even if one is interested only in cases of joint action involving shared intention, the other cases are important for three reasons.  
+
+	First, some of the challenges raised by cases of shared intentional activity are also raised by other kinds of joint action (conceptual framework, constitutive, normative---most obvious example is question of how the apparently plural, non-actual agent relates to the individual agents).  This means that philosophical accounts of these cases are relevant too.  Shared intentions are just one among several psychological mechanisms which support joint action.  
+
+	Second,	 and relatedly, there are questions about what is involved in recognising and reasoning about joint actions as an observer.  Adult humans, at least, readily recognise and reason about joint actions.  Intuitively, it seems that in plenty of cases it is no harder to reason about what *they* are doing than it does to reason about what *she* is doing.  For example, consider the case of two men lifting a heavy barrel into a boat together.  What is involved in understanding this?  Does one have to attribute a shared intention to the agents?  In my view we have a variety of ways of understanding joint action as observers---and this variety of ways of understanding joint action is a reflection of the many ways in which joint actions can come about.  One way of understanding joint action as an observer is probably to attribute shared intentions.  But another, perhaps less cognitively demanding way, may be simply to imagine that the actions are those of a single agent and attribute ordinary individual intentions to this pretend agent.  The imaginative strategy may be useful in many cases precisely because there are forms of joint action which do not require shared intention---in those cases what justifies the imaginative strategy are facts about the structure of objects or about the meshing motor systems of the participants.
+	
+	Third, because shared intentional activities are typically composed of activities which are joint in one of these other senses, it is unlikely that we can fully understand shared intentional activity in isolation from other kinds of joint action.  
+		Questions about interactions [see 'Minimal Architecture' paper] are no longer obscured: just as it's a mistake to think that you can understand individual action, even individual intentional action, without understanding its psychological underpinnings (e.g. because the possibility of an intention formed some time in the past entitling one rationally to a course of action now depends on mechanisms which are not themselves intentions), so also it is a mistake to think that you can understand joint action at just one level.
+
+
+
+
+2. Preliminary.  My argument will be: Suppose not merely terminological ... then there are counterexamples.
+ 
+But actually it's hard to give counterexamples because little agreement on what shared intentions are.  One possibility is to go with Bratman's view, which is best developed and most influential but an easy target because it is so demanding.  Another possibility is to go with a minimal view -- individually necessary conditions for shared intention are:
+
+	- Roth individual commitment: 'I think that each participant is committed in that at least for now, the participant can answer the question of what he is doing or will be doing by saying for example "We are walking together" or "We will/intend	to walk together."' (Roth 2006, p. 361)
+	
+	- Kutz' 'a conception of themselves as contributors to a collective end.' (Kutz, 2000, 10) 
+	
+	- awareness of other participants as intentional agents
+	
+	- awareness of the other agents' relevant intentions.  (Could cite Bratman on responsiveness: 'I will be trying to be responsive to your intentions and actions, knowing that you will be trying to be responsive to my intentions and actions.' (Bratman 1992, p.327))
+
+Either way is fine for what follows.  [I go with the necessary conditions approach.]
+
+
+
+3. Counterexamples to the substantive claim
+
+(a) [environment] the weight with two levers case
+
+(b) the shared-task representations [?works how? -- similarities with single-person case are striking]
+
+(c) the imaginary we
+
+(x) [culture+emotion] kissing -- there are cases where it is something you do together but you are both surprised afterwards that you have done it, so it's not clear that the action so-described was intentional at all let alone that shared intentions were involved (no commitment to the joint action in Roth's sense).
+
+(y) asymmetric cases (adult helps child, child is not aware) [not sure these are really useful to challenge the thesis -- could be ruled out precisely because they are asymmetric]
+
+(d) shared goals
+
+
+4. Not advocating alternative substantive conception of joint action; instead I prefer instrumentalism.  There may be no substantive conception; compatible with plurality.
+
+
+5. I mentioned that the ASSUMPTION might be merely terminological.  This is not objectionable in itself.  But we should be wary of focussing on shared intentional activities.  Why?  Because we need accounts of joint action to explore conceptual, constitutive and normative issues.  The focus on shared intention detracts from the importance of other cases, where coordination is achieved through environmental conditions and less sophisticated structures of psychological states.
+
+
+6. Let me put this another way.  Several philosophers have noted that sharing intentions appears to be cognitively and conceptually demanding because it involves knowledge of, and intentions concerning, other's intentions, and knowledge that others are in the same state.  Their response (Kutz, Tollefsen) has been to try to simplify what is involved in sharing intentions.  My alternative response is to suggest that we recognise varieties of joint action which don't require shared intentions at all.  
+
+
+7. Full understanding of joint action requires us to recognise variety of cases involving different psychological mechanisms.  (Insert something from the minimal architecture?)
